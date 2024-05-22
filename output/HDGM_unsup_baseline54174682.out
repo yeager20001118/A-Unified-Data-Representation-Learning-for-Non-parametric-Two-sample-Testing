@@ -1,0 +1,349 @@
+device: cuda:0
+Epoch [60/160], Loss: 0.5017
+Epoch [120/160], Loss: 0.3148
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5027
+Epoch [120/160], Loss: 0.3475
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5047
+Epoch [120/160], Loss: 0.3575
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5006
+Epoch [120/160], Loss: 0.3550
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5151
+Epoch [120/160], Loss: 0.3227
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4972
+Epoch [120/160], Loss: 0.3370
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5108
+Epoch [120/160], Loss: 0.3236
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5090
+Epoch [120/160], Loss: 0.3530
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5051
+Epoch [120/160], Loss: 0.3187
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4975
+Epoch [120/160], Loss: 0.3134
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5063
+Epoch [120/160], Loss: 0.3535
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5117
+Epoch [120/160], Loss: 0.3559
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4971
+Epoch [120/160], Loss: 0.3544
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5016
+Epoch [120/160], Loss: 0.3471
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5039
+Epoch [120/160], Loss: 0.3095
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5026
+Epoch [120/160], Loss: 0.3730
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4962
+Epoch [120/160], Loss: 0.3539
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4890
+Epoch [120/160], Loss: 0.3228
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4959
+Epoch [120/160], Loss: 0.3648
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5125
+Epoch [120/160], Loss: 0.3423
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4998
+Epoch [120/160], Loss: 0.3405
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5013
+Epoch [120/160], Loss: 0.3591
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5042
+Epoch [120/160], Loss: 0.3516
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5105
+Epoch [120/160], Loss: 0.3078
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5066
+Epoch [120/160], Loss: 0.3503
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4952
+Epoch [120/160], Loss: 0.3199
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5071
+Epoch [120/160], Loss: 0.3559
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5060
+Epoch [120/160], Loss: 0.3568
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4961
+Epoch [120/160], Loss: 0.3272
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5075
+Epoch [120/160], Loss: 0.3367
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4981
+Epoch [120/160], Loss: 0.3295
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5108
+Epoch [120/160], Loss: 0.3374
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4968
+Epoch [120/160], Loss: 0.3191
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4959
+Epoch [120/160], Loss: 0.3776
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5080
+Epoch [120/160], Loss: 0.3418
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5177
+Epoch [120/160], Loss: 0.3710
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5167
+Epoch [120/160], Loss: 0.3423
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4819
+Epoch [120/160], Loss: 0.3355
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5013
+Epoch [120/160], Loss: 0.3133
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4986
+Epoch [120/160], Loss: 0.3360
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4939
+Epoch [120/160], Loss: 0.3628
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5051
+Epoch [120/160], Loss: 0.3546
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5141
+Epoch [120/160], Loss: 0.3606
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5027
+Epoch [120/160], Loss: 0.3469
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4926
+Epoch [120/160], Loss: 0.3273
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4964
+Epoch [120/160], Loss: 0.3749
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4980
+Epoch [120/160], Loss: 0.3756
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4938
+Epoch [120/160], Loss: 0.3494
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5154
+Epoch [120/160], Loss: 0.3727
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4982
+Epoch [120/160], Loss: 0.3908
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4938
+Epoch [120/160], Loss: 0.3338
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4923
+Epoch [120/160], Loss: 0.3083
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5036
+Epoch [120/160], Loss: 0.3327
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5054
+Epoch [120/160], Loss: 0.3514
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4960
+Epoch [120/160], Loss: 0.3233
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5081
+Epoch [120/160], Loss: 0.3532
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5076
+Epoch [120/160], Loss: 0.3103
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5204
+Epoch [120/160], Loss: 0.3758
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5113
+Epoch [120/160], Loss: 0.3228
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5036
+Epoch [120/160], Loss: 0.3601
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5008
+Epoch [120/160], Loss: 0.3237
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4973
+Epoch [120/160], Loss: 0.3213
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5079
+Epoch [120/160], Loss: 0.3463
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4931
+Epoch [120/160], Loss: 0.3252
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5058
+Epoch [120/160], Loss: 0.3217
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5051
+Epoch [120/160], Loss: 0.3775
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5204
+Epoch [120/160], Loss: 0.3198
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4979
+Epoch [120/160], Loss: 0.3356
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5061
+Epoch [120/160], Loss: 0.3751
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4948
+Epoch [120/160], Loss: 0.3648
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5026
+Epoch [120/160], Loss: 0.3097
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5033
+Epoch [120/160], Loss: 0.3135
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4983
+Epoch [120/160], Loss: 0.3603
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4955
+Epoch [120/160], Loss: 0.3179
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5003
+Epoch [120/160], Loss: 0.3903
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5185
+Epoch [120/160], Loss: 0.3313
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5084
+Epoch [120/160], Loss: 0.3283
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5047
+Epoch [120/160], Loss: 0.3608
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5075
+Epoch [120/160], Loss: 0.3072
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5020
+Epoch [120/160], Loss: 0.3206
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4955
+Epoch [120/160], Loss: 0.3039
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4921
+Epoch [120/160], Loss: 0.3416
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4964
+Epoch [120/160], Loss: 0.3851
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4951
+Epoch [120/160], Loss: 0.3597
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5041
+Epoch [120/160], Loss: 0.3702
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5049
+Epoch [120/160], Loss: 0.3398
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5052
+Epoch [120/160], Loss: 0.3662
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4957
+Epoch [120/160], Loss: 0.3819
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4985
+Epoch [120/160], Loss: 0.3133
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5062
+Epoch [120/160], Loss: 0.3180
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5041
+Epoch [120/160], Loss: 0.3152
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4926
+Epoch [120/160], Loss: 0.3293
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5134
+Epoch [120/160], Loss: 0.3627
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5079
+Epoch [120/160], Loss: 0.3490
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5001
+Epoch [120/160], Loss: 0.3587
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5029
+Epoch [120/160], Loss: 0.3541
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5082
+Epoch [120/160], Loss: 0.3769
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5028
+Epoch [120/160], Loss: 0.3215
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.4970
+Epoch [120/160], Loss: 0.3691
+Test Power of C2ST-L:  0
+Epoch [60/160], Loss: 0.5046
+Epoch [120/160], Loss: 0.3596
+Test Power of C2ST-L:  0
+
+
+=====================================================
+Average test power at training size =  1000  :  0.0
+=====================================================
+
+
+
+-----------------------------------------------
+
+Finished with execution of c2st_unsup_HDGM.py script
+
+-----------------------------------------------
+
+Job ID           : 54174682
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 00:10:16 / 1-00:00:00
+
+Displaying overall resources usage from 2023-12-07 16:14:27 to 2023-12-07 16:24:43:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu078 : 
+                CPU# 1    : 24.8   (  23.2 /   1.7 /   0.0 /  75.1 ) 
+                CPU# 2    : 27.5   (  25.9 /   1.6 /   0.0 /  72.5 ) 
+                CPU# 3    : 31.6   (  30.3 /   1.3 /   0.0 /  68.4 ) 
+                CPU# 4    : 22.6   (  21.1 /   1.5 /   0.0 /  77.4 ) 
+
+                GPU# 1    : 13.8  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 2    
+  CPUs with usage <50%    : 2    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 1    
+  GPUs with usage <50%    : 0    
+  GPUs with usage >50%    : 0    
+
+Memory used (RAM)         : 19.7%  [1691MB of 8590MB]
+
+--------------------------------------------
+

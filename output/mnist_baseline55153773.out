@@ -1,0 +1,302 @@
+device: cuda:0
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:28,  3.16s/it] 20%|██        | 2/10 [00:05<00:19,  2.39s/it] 30%|███       | 3/10 [00:06<00:14,  2.14s/it] 40%|████      | 4/10 [00:08<00:12,  2.04s/it] 50%|█████     | 5/10 [00:10<00:09,  1.97s/it] 60%|██████    | 6/10 [00:12<00:07,  1.92s/it] 70%|███████   | 7/10 [00:14<00:05,  1.91s/it] 80%|████████  | 8/10 [00:16<00:03,  1.89s/it] 90%|█████████ | 9/10 [00:17<00:01,  1.88s/it]100%|██████████| 10/10 [00:19<00:00,  1.88s/it]100%|██████████| 10/10 [00:19<00:00,  1.99s/it]
+0.34877657890319824
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.34396684169769287
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3739197254180908
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3437913954257965
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.32903414964675903
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.99
+0.3800196051597595
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.97
+0.3142702579498291
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.07
+0.3588046729564667
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.89
+0.3888483941555023
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3587060570716858
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+Average Test Power of C2ST-D at n = 100:  0.392
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:45,  5.03s/it] 20%|██        | 2/10 [00:10<00:40,  5.03s/it] 30%|███       | 3/10 [00:15<00:35,  5.03s/it] 40%|████      | 4/10 [00:20<00:30,  5.05s/it] 50%|█████     | 5/10 [00:25<00:25,  5.05s/it] 60%|██████    | 6/10 [00:30<00:20,  5.05s/it] 70%|███████   | 7/10 [00:35<00:15,  5.05s/it] 80%|████████  | 8/10 [00:40<00:10,  5.06s/it] 90%|█████████ | 9/10 [00:45<00:05,  5.05s/it]100%|██████████| 10/10 [00:50<00:00,  5.05s/it]100%|██████████| 10/10 [00:50<00:00,  5.05s/it]
+0.4047250747680664
+0.39350655674934387
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.05
+0.35895270109176636
+0.35353365540504456
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.98
+0.34425175189971924
+0.3535906672477722
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.344158411026001
+0.33854302763938904
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.14
+0.3490765392780304
+0.36353275179862976
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.38435599207878113
+0.3536287248134613
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3789294362068176
+0.3784244954586029
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.3838845193386078
+0.39345860481262207
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3791484832763672
+0.3835916519165039
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.32996246218681335
+0.3435797095298767
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Average Test Power of C2ST-D at n = 200:  0.617
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:33, 10.34s/it] 20%|██        | 2/10 [00:20<01:22, 10.31s/it] 30%|███       | 3/10 [00:30<01:12, 10.29s/it] 40%|████      | 4/10 [00:41<01:01, 10.31s/it] 50%|█████     | 5/10 [00:51<00:51, 10.32s/it] 60%|██████    | 6/10 [01:01<00:41, 10.31s/it] 70%|███████   | 7/10 [01:12<00:30, 10.30s/it] 80%|████████  | 8/10 [01:22<00:20, 10.30s/it] 90%|█████████ | 9/10 [01:32<00:10, 10.31s/it]100%|██████████| 10/10 [01:43<00:00, 10.30s/it]100%|██████████| 10/10 [01:43<00:00, 10.31s/it]
+0.42364561557769775
+0.40383803844451904
+0.36841320991516113
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.35515135526657104
+0.35354918241500854
+0.3585246205329895
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34471672773361206
+0.3436447083950043
+0.33844441175460815
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.384811133146286
+0.3687509596347809
+0.37851405143737793
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3343563377857208
+0.32871732115745544
+0.34855106472969055
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34952500462532043
+0.35875874757766724
+0.34862568974494934
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3452562689781189
+0.3686445951461792
+0.3486368656158447
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.37027886509895325
+0.3836502134799957
+0.3686859607696533
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36908215284347534
+0.353876531124115
+0.3784946799278259
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.350572407245636
+0.38356655836105347
+0.34850433468818665
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Average Test Power of C2ST-D at n = 300:  1.0
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:17<02:38, 17.62s/it] 20%|██        | 2/10 [00:35<02:20, 17.61s/it] 30%|███       | 3/10 [00:52<02:03, 17.63s/it] 40%|████      | 4/10 [01:10<01:45, 17.63s/it] 50%|█████     | 5/10 [01:28<01:28, 17.64s/it] 60%|██████    | 6/10 [01:45<01:10, 17.66s/it] 70%|███████   | 7/10 [02:03<00:52, 17.62s/it] 80%|████████  | 8/10 [02:21<00:35, 17.62s/it] 90%|█████████ | 9/10 [02:38<00:17, 17.62s/it]100%|██████████| 10/10 [02:56<00:00, 17.63s/it]100%|██████████| 10/10 [02:56<00:00, 17.63s/it]
+0.38964158296585083
+0.36856305599212646
+0.36841103434562683
+0.3734084367752075
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.40986186265945435
+0.41858968138694763
+0.418501615524292
+0.4038373827934265
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36401423811912537
+0.35357674956321716
+0.36348357796669006
+0.3433581590652466
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3590816855430603
+0.40366417169570923
+0.33340370655059814
+0.3883802890777588
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.35989388823509216
+0.34858688712120056
+0.3434622883796692
+0.353468656539917
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36381110548973083
+0.36866337060928345
+0.3784738779067993
+0.37344521284103394
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.39645281434059143
+0.4236019551753998
+0.35351794958114624
+0.36334800720214844
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.39452850818634033
+0.38357725739479065
+0.3684815466403961
+0.3535262644290924
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3845539093017578
+0.3735140264034271
+0.3584740459918976
+0.32850754261016846
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3691169023513794
+0.3436449468135834
+0.34842026233673096
+0.35336416959762573
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Average Test Power of C2ST-D at n = 400:  1.0
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:27<04:03, 27.04s/it] 20%|██        | 2/10 [00:54<03:36, 27.01s/it] 30%|███       | 3/10 [01:21<03:09, 27.01s/it] 40%|████      | 4/10 [01:48<02:42, 27.02s/it] 50%|█████     | 5/10 [02:15<02:15, 27.11s/it] 60%|██████    | 6/10 [02:42<01:48, 27.09s/it] 70%|███████   | 7/10 [03:09<01:21, 27.07s/it] 80%|████████  | 8/10 [03:37<00:54, 27.23s/it] 90%|█████████ | 9/10 [04:04<00:27, 27.21s/it]100%|██████████| 10/10 [04:31<00:00, 27.17s/it]100%|██████████| 10/10 [04:31<00:00, 27.12s/it]
+0.39429551362991333
+0.348628968000412
+0.34840652346611023
+0.3634893298149109
+0.3433986306190491
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.379668653011322
+0.3785844147205353
+0.3684404790401459
+0.35879889130592346
+0.34850162267684937
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34906551241874695
+0.3737177550792694
+0.3634643256664276
+0.3434087038040161
+0.34832972288131714
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35082194209098816
+0.343627005815506
+0.3635029196739197
+0.3383760154247284
+0.33837252855300903
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35538196563720703
+0.3638564348220825
+0.3553774952888489
+0.33849483728408813
+0.33846962451934814
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35480257868766785
+0.33864182233810425
+0.3436826467514038
+0.32356756925582886
+0.35339105129241943
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37422385811805725
+0.3735768496990204
+0.3585469722747803
+0.4034343361854553
+0.35839053988456726
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3690906763076782
+0.37356531620025635
+0.3384917378425598
+0.3634636700153351
+0.353364497423172
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34476569294929504
+0.34850719571113586
+0.33354127407073975
+0.32337674498558044
+0.34339800477027893
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3699973225593567
+0.3636004328727722
+0.3838901221752167
+0.35850751399993896
+0.36845719814300537
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Average Test Power of C2ST-D at n = 500:  1.0
+
+-----------------------------------------------
+
+Finished with execution of c2st_mnist.py script
+
+-----------------------------------------------
+
+Job ID           : 55153773
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 00:10:38 / 1-00:00:00
+
+Displaying overall resources usage from 2024-01-16 03:16:35 to 2024-01-16 03:27:13:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu086 : 
+                CPU# 1    : 16.9   (  15.3 /   1.5 /   0.0 /  83.1 ) 
+                CPU# 2    : 12.0   (  10.4 /   1.5 /   0.0 /  88.0 ) 
+                CPU# 3    : 40.2   (  39.2 /   1.0 /   0.0 /  59.8 ) 
+                CPU# 4    : 34.2   (  32.9 /   1.3 /   0.0 /  65.8 ) 
+
+                GPU# 1    : 31.7  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 2    
+  CPUs with usage <50%    : 2    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 0    
+  GPUs with usage <50%    : 1    
+  GPUs with usage >50%    : 0    
+
+Memory used (RAM)         : 34.1%  [2931MB of 8590MB]
+
+--------------------------------------------
+

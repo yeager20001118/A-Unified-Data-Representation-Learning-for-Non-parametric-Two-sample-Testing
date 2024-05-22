@@ -1,0 +1,2552 @@
+device: cuda:0
+  0%|          | 0/100 [00:00<?, ?it/s]  1%|          | 1/100 [00:02<04:38,  2.82s/it]  2%|▏         | 2/100 [00:04<03:16,  2.00s/it]  3%|▎         | 3/100 [00:05<02:48,  1.74s/it]  4%|▍         | 4/100 [00:07<02:36,  1.63s/it]  5%|▌         | 5/100 [00:08<02:27,  1.55s/it]  6%|▌         | 6/100 [00:09<02:21,  1.50s/it]  7%|▋         | 7/100 [00:11<02:17,  1.48s/it]  8%|▊         | 8/100 [00:12<02:13,  1.45s/it]  9%|▉         | 9/100 [00:14<02:10,  1.44s/it] 10%|█         | 10/100 [00:15<02:09,  1.43s/it] 11%|█         | 11/100 [00:17<02:06,  1.43s/it] 12%|█▏        | 12/100 [00:18<02:05,  1.42s/it] 13%|█▎        | 13/100 [00:19<02:04,  1.43s/it] 14%|█▍        | 14/100 [00:21<02:02,  1.42s/it] 15%|█▌        | 15/100 [00:22<02:00,  1.42s/it] 16%|█▌        | 16/100 [00:24<01:59,  1.42s/it] 17%|█▋        | 17/100 [00:25<01:58,  1.43s/it] 18%|█▊        | 18/100 [00:26<01:56,  1.42s/it] 19%|█▉        | 19/100 [00:28<01:54,  1.42s/it] 20%|██        | 20/100 [00:29<01:54,  1.43s/it] 21%|██        | 21/100 [00:31<01:53,  1.43s/it] 22%|██▏       | 22/100 [00:32<01:51,  1.43s/it] 23%|██▎       | 23/100 [00:34<01:50,  1.44s/it] 24%|██▍       | 24/100 [00:35<01:48,  1.42s/it] 25%|██▌       | 25/100 [00:36<01:46,  1.41s/it] 26%|██▌       | 26/100 [00:38<01:45,  1.42s/it] 27%|██▋       | 27/100 [00:39<01:43,  1.42s/it] 28%|██▊       | 28/100 [00:41<01:42,  1.42s/it] 29%|██▉       | 29/100 [00:42<01:41,  1.42s/it] 30%|███       | 30/100 [00:44<01:39,  1.42s/it] 31%|███       | 31/100 [00:45<01:37,  1.42s/it] 32%|███▏      | 32/100 [00:46<01:36,  1.43s/it] 33%|███▎      | 33/100 [00:48<01:35,  1.42s/it] 34%|███▍      | 34/100 [00:49<01:33,  1.42s/it] 35%|███▌      | 35/100 [00:51<01:31,  1.41s/it] 36%|███▌      | 36/100 [00:52<01:30,  1.42s/it] 37%|███▋      | 37/100 [00:53<01:29,  1.42s/it] 38%|███▊      | 38/100 [00:55<01:27,  1.42s/it] 39%|███▉      | 39/100 [00:56<01:27,  1.43s/it] 40%|████      | 40/100 [00:58<01:25,  1.43s/it] 41%|████      | 41/100 [00:59<01:23,  1.41s/it] 42%|████▏     | 42/100 [01:01<01:22,  1.42s/it] 43%|████▎     | 43/100 [01:02<01:20,  1.41s/it] 44%|████▍     | 44/100 [01:03<01:19,  1.41s/it] 45%|████▌     | 45/100 [01:05<01:18,  1.42s/it] 46%|████▌     | 46/100 [01:06<01:16,  1.42s/it] 47%|████▋     | 47/100 [01:08<01:15,  1.42s/it] 48%|████▊     | 48/100 [01:09<01:13,  1.42s/it] 49%|████▉     | 49/100 [01:11<01:12,  1.42s/it] 50%|█████     | 50/100 [01:12<01:10,  1.42s/it] 51%|█████     | 51/100 [01:13<01:09,  1.43s/it] 52%|█████▏    | 52/100 [01:15<01:08,  1.42s/it] 53%|█████▎    | 53/100 [01:16<01:06,  1.42s/it] 54%|█████▍    | 54/100 [01:18<01:05,  1.42s/it] 55%|█████▌    | 55/100 [01:19<01:04,  1.43s/it] 56%|█████▌    | 56/100 [01:20<01:02,  1.43s/it] 57%|█████▋    | 57/100 [01:22<01:01,  1.42s/it] 58%|█████▊    | 58/100 [01:23<00:59,  1.42s/it] 59%|█████▉    | 59/100 [01:25<00:58,  1.42s/it] 60%|██████    | 60/100 [01:26<00:56,  1.42s/it] 61%|██████    | 61/100 [01:28<00:55,  1.43s/it] 62%|██████▏   | 62/100 [01:29<00:53,  1.42s/it] 63%|██████▎   | 63/100 [01:30<00:52,  1.42s/it] 64%|██████▍   | 64/100 [01:32<00:51,  1.42s/it] 65%|██████▌   | 65/100 [01:33<00:49,  1.42s/it] 66%|██████▌   | 66/100 [01:35<00:48,  1.42s/it] 67%|██████▋   | 67/100 [01:36<00:46,  1.42s/it] 68%|██████▊   | 68/100 [01:38<00:45,  1.42s/it] 69%|██████▉   | 69/100 [01:39<00:43,  1.41s/it] 70%|███████   | 70/100 [01:40<00:42,  1.41s/it] 71%|███████   | 71/100 [01:42<00:41,  1.42s/it] 72%|███████▏  | 72/100 [01:43<00:39,  1.41s/it] 73%|███████▎  | 73/100 [01:45<00:37,  1.41s/it] 74%|███████▍  | 74/100 [01:46<00:36,  1.41s/it] 75%|███████▌  | 75/100 [01:47<00:35,  1.40s/it] 76%|███████▌  | 76/100 [01:49<00:33,  1.40s/it] 77%|███████▋  | 77/100 [01:50<00:32,  1.41s/it] 78%|███████▊  | 78/100 [01:52<00:30,  1.40s/it] 79%|███████▉  | 79/100 [01:53<00:29,  1.40s/it] 80%|████████  | 80/100 [01:54<00:28,  1.40s/it] 81%|████████  | 81/100 [01:56<00:26,  1.40s/it] 82%|████████▏ | 82/100 [01:57<00:25,  1.40s/it] 83%|████████▎ | 83/100 [01:59<00:23,  1.40s/it] 84%|████████▍ | 84/100 [02:00<00:22,  1.40s/it] 85%|████████▌ | 85/100 [02:01<00:20,  1.39s/it] 86%|████████▌ | 86/100 [02:03<00:19,  1.40s/it] 87%|████████▋ | 87/100 [02:04<00:18,  1.39s/it] 88%|████████▊ | 88/100 [02:05<00:16,  1.39s/it] 89%|████████▉ | 89/100 [02:07<00:15,  1.39s/it] 90%|█████████ | 90/100 [02:08<00:13,  1.39s/it] 91%|█████████ | 91/100 [02:10<00:12,  1.39s/it] 92%|█████████▏| 92/100 [02:11<00:11,  1.39s/it] 93%|█████████▎| 93/100 [02:12<00:09,  1.40s/it] 94%|█████████▍| 94/100 [02:14<00:08,  1.39s/it] 95%|█████████▌| 95/100 [02:15<00:06,  1.39s/it] 96%|█████████▌| 96/100 [02:17<00:05,  1.40s/it] 97%|█████████▋| 97/100 [02:18<00:04,  1.39s/it] 98%|█████████▊| 98/100 [02:19<00:02,  1.39s/it] 99%|█████████▉| 99/100 [02:21<00:01,  1.40s/it]100%|██████████| 100/100 [02:22<00:00,  1.39s/it]100%|██████████| 100/100 [02:22<00:00,  1.43s/it]
+0.34865477681159973
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.34393665194511414
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3739098310470581
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3487810790538788
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.32894012331962585
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.99
+0.37422865629196167
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.5
+0.32415100932121277
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.1
+0.3588321805000305
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.95
+0.38884827494621277
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.35380735993385315
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.36883965134620667
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3388023376464844
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.88
+0.3288264870643616
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.37367087602615356
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3390512764453888
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.34874436259269714
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3736298680305481
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.99
+0.3240135908126831
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.97
+0.363739937543869
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.79
+0.36868271231651306
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3387819230556488
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3488600254058838
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3591083884239197
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3387486934661865
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3344029486179352
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.38375189900398254
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.32378464937210083
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.34381115436553955
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3637576997280121
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.02
+0.3440859913825989
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.12
+0.33899977803230286
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.59
+0.3438152074813843
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.34384506940841675
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.62
+0.33374857902526855
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3188380002975464
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3434593081474304
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.37873825430870056
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3587510287761688
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.97
+0.3738306760787964
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.37371885776519775
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3687080144882202
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3338143229484558
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.92
+0.33391034603118896
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.43931201100349426
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3237755298614502
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3488468825817108
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.38374561071395874
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.34384047985076904
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3837018311023712
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3587939739227295
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.37873733043670654
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.33377882838249207
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3537886440753937
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3736625909805298
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3637722134590149
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3786780536174774
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3388744294643402
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3338404595851898
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.03
+0.3538992404937744
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3737452030181885
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.34
+0.33375728130340576
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3837283253669739
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.89
+0.34879449009895325
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3587138056755066
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.88
+0.32950443029403687
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.05
+0.38880977034568787
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.37878748774528503
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.04
+0.35387343168258667
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.02
+0.41871288418769836
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3787238299846649
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.339009553194046
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.33392196893692017
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.36880579590797424
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.37386569380760193
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3338204324245453
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3537846803665161
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.33885884284973145
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.34875622391700745
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3636147677898407
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3340664207935333
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.358674019575119
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3337997794151306
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3338150680065155
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3237551748752594
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3639317750930786
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.45
+0.3538028597831726
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.3587813079357147
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.32884055376052856
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.34863877296447754
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.95
+0.33387255668640137
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.08
+0.3388431668281555
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.05
+0.3438096344470978
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.46
+0.33886295557022095
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.32876336574554443
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+0.34393826127052307
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.01
+0.34361985325813293
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.39410990476608276
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3537626564502716
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+0.3637915849685669
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.07
+0.3486357629299164
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+Average Test Power of C2ST-D at n = 100:  0.4073
+  0%|          | 0/100 [00:00<?, ?it/s]  1%|          | 1/100 [00:03<05:59,  3.63s/it]  2%|▏         | 2/100 [00:07<05:56,  3.63s/it]  3%|▎         | 3/100 [00:10<05:54,  3.65s/it]  4%|▍         | 4/100 [00:14<05:50,  3.65s/it]  5%|▌         | 5/100 [00:18<05:46,  3.64s/it]  6%|▌         | 6/100 [00:21<05:42,  3.64s/it]  7%|▋         | 7/100 [00:25<05:39,  3.65s/it]  8%|▊         | 8/100 [00:29<05:35,  3.64s/it]  9%|▉         | 9/100 [00:32<05:31,  3.64s/it] 10%|█         | 10/100 [00:36<05:27,  3.64s/it] 11%|█         | 11/100 [00:40<05:24,  3.65s/it] 12%|█▏        | 12/100 [00:43<05:21,  3.65s/it] 13%|█▎        | 13/100 [00:47<05:17,  3.65s/it] 14%|█▍        | 14/100 [00:51<05:13,  3.65s/it] 15%|█▌        | 15/100 [00:54<05:10,  3.65s/it] 16%|█▌        | 16/100 [00:58<05:06,  3.65s/it] 17%|█▋        | 17/100 [01:01<05:02,  3.65s/it] 18%|█▊        | 18/100 [01:05<04:58,  3.64s/it] 19%|█▉        | 19/100 [01:09<04:55,  3.65s/it] 20%|██        | 20/100 [01:12<04:51,  3.65s/it] 21%|██        | 21/100 [01:16<04:47,  3.64s/it] 22%|██▏       | 22/100 [01:20<04:43,  3.64s/it] 23%|██▎       | 23/100 [01:23<04:40,  3.64s/it] 24%|██▍       | 24/100 [01:27<04:37,  3.65s/it] 25%|██▌       | 25/100 [01:31<04:34,  3.66s/it] 26%|██▌       | 26/100 [01:34<04:31,  3.67s/it] 27%|██▋       | 27/100 [01:38<04:28,  3.68s/it] 28%|██▊       | 28/100 [01:42<04:25,  3.69s/it] 29%|██▉       | 29/100 [01:45<04:22,  3.70s/it] 30%|███       | 30/100 [01:49<04:18,  3.69s/it] 31%|███       | 31/100 [01:53<04:14,  3.69s/it] 32%|███▏      | 32/100 [01:57<04:11,  3.70s/it] 33%|███▎      | 33/100 [02:00<04:08,  3.70s/it] 34%|███▍      | 34/100 [02:04<04:04,  3.70s/it] 35%|███▌      | 35/100 [02:08<04:00,  3.70s/it] 36%|███▌      | 36/100 [02:11<03:56,  3.70s/it] 37%|███▋      | 37/100 [02:15<03:53,  3.70s/it] 38%|███▊      | 38/100 [02:19<03:49,  3.70s/it] 39%|███▉      | 39/100 [02:23<03:45,  3.70s/it] 40%|████      | 40/100 [02:26<03:42,  3.72s/it] 41%|████      | 41/100 [02:30<03:38,  3.71s/it] 42%|████▏     | 42/100 [02:34<03:34,  3.70s/it] 43%|████▎     | 43/100 [02:37<03:31,  3.70s/it] 44%|████▍     | 44/100 [02:41<03:27,  3.71s/it] 45%|████▌     | 45/100 [02:45<03:23,  3.70s/it] 46%|████▌     | 46/100 [02:48<03:19,  3.70s/it] 47%|████▋     | 47/100 [02:52<03:15,  3.70s/it] 48%|████▊     | 48/100 [02:56<03:12,  3.71s/it] 49%|████▉     | 49/100 [03:00<03:08,  3.70s/it] 50%|█████     | 50/100 [03:03<03:05,  3.70s/it] 51%|█████     | 51/100 [03:07<03:01,  3.70s/it] 52%|█████▏    | 52/100 [03:11<02:57,  3.71s/it] 53%|█████▎    | 53/100 [03:14<02:54,  3.71s/it] 54%|█████▍    | 54/100 [03:18<02:50,  3.71s/it] 55%|█████▌    | 55/100 [03:22<02:46,  3.69s/it] 56%|█████▌    | 56/100 [03:25<02:42,  3.70s/it] 57%|█████▋    | 57/100 [03:29<02:39,  3.71s/it] 58%|█████▊    | 58/100 [03:33<02:36,  3.72s/it] 59%|█████▉    | 59/100 [03:37<02:32,  3.71s/it] 60%|██████    | 60/100 [03:40<02:28,  3.70s/it] 61%|██████    | 61/100 [03:44<02:24,  3.70s/it] 62%|██████▏   | 62/100 [03:48<02:20,  3.70s/it] 63%|██████▎   | 63/100 [03:51<02:17,  3.71s/it] 64%|██████▍   | 64/100 [03:55<02:13,  3.70s/it] 65%|██████▌   | 65/100 [03:59<02:09,  3.71s/it] 66%|██████▌   | 66/100 [04:03<02:06,  3.71s/it] 67%|██████▋   | 67/100 [04:06<02:02,  3.70s/it] 68%|██████▊   | 68/100 [04:10<01:57,  3.69s/it] 69%|██████▉   | 69/100 [04:14<01:54,  3.70s/it] 70%|███████   | 70/100 [04:17<01:50,  3.70s/it] 71%|███████   | 71/100 [04:21<01:47,  3.70s/it] 72%|███████▏  | 72/100 [04:25<01:43,  3.70s/it] 73%|███████▎  | 73/100 [04:28<01:40,  3.70s/it] 74%|███████▍  | 74/100 [04:32<01:35,  3.69s/it] 75%|███████▌  | 75/100 [04:36<01:32,  3.68s/it] 76%|███████▌  | 76/100 [04:39<01:28,  3.69s/it] 77%|███████▋  | 77/100 [04:43<01:25,  3.71s/it] 78%|███████▊  | 78/100 [04:47<01:21,  3.70s/it] 79%|███████▉  | 79/100 [04:51<01:17,  3.71s/it] 80%|████████  | 80/100 [04:54<01:13,  3.70s/it] 81%|████████  | 81/100 [04:58<01:10,  3.70s/it] 82%|████████▏ | 82/100 [05:02<01:06,  3.70s/it] 83%|████████▎ | 83/100 [05:05<01:02,  3.70s/it] 84%|████████▍ | 84/100 [05:09<00:59,  3.70s/it] 85%|████████▌ | 85/100 [05:13<00:55,  3.70s/it] 86%|████████▌ | 86/100 [05:17<00:51,  3.71s/it] 87%|████████▋ | 87/100 [05:20<00:48,  3.70s/it] 88%|████████▊ | 88/100 [05:24<00:44,  3.70s/it] 89%|████████▉ | 89/100 [05:28<00:40,  3.70s/it] 90%|█████████ | 90/100 [05:31<00:37,  3.71s/it] 91%|█████████ | 91/100 [05:35<00:33,  3.71s/it] 92%|█████████▏| 92/100 [05:39<00:29,  3.71s/it] 93%|█████████▎| 93/100 [05:42<00:25,  3.70s/it] 94%|█████████▍| 94/100 [05:46<00:22,  3.70s/it] 95%|█████████▌| 95/100 [05:50<00:18,  3.71s/it] 96%|█████████▌| 96/100 [05:54<00:14,  3.70s/it] 97%|█████████▋| 97/100 [05:57<00:11,  3.71s/it] 98%|█████████▊| 98/100 [06:01<00:07,  3.72s/it] 99%|█████████▉| 99/100 [06:05<00:03,  3.72s/it]100%|██████████| 100/100 [06:08<00:00,  3.70s/it]100%|██████████| 100/100 [06:08<00:00,  3.69s/it]
+0.409245103597641
+0.398461252450943
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.05
+0.3541738986968994
+0.35361191630363464
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.99
+0.34419697523117065
+0.3435765206813812
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3441237211227417
+0.33854225277900696
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.3590296506881714
+0.368525892496109
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.29
+0.3843064606189728
+0.3536355197429657
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.37399759888648987
+0.3735709488391876
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.3788636326789856
+0.37843045592308044
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3791370093822479
+0.3836013674736023
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.34025898575782776
+0.34363773465156555
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.36410894989967346
+0.3585859537124634
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.35942232608795166
+0.34863337874412537
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.87
+0.36905211210250854
+0.358539879322052
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.34998130798339844
+0.35856330394744873
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.95
+0.3690144419670105
+0.373505562543869
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3544858694076538
+0.3385704755783081
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.87
+0.3596421182155609
+0.3685420751571655
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.98
+0.36875665187835693
+0.36856919527053833
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.97
+0.41386649012565613
+0.3957999050617218
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.36934036016464233
+0.37849006056785583
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.37423965334892273
+0.36875632405281067
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.35441482067108154
+0.34868377447128296
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.38
+0.39008253812789917
+0.3836473822593689
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.44
+0.38902294635772705
+0.358516663312912
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.03
+0.3292793333530426
+0.3385850489139557
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.14
+0.3391287624835968
+0.33844754099845886
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3493746817111969
+0.32364943623542786
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3542480766773224
+0.3436362147331238
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.36405959725379944
+0.37353214621543884
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.37402716279029846
+0.35354533791542053
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.34428584575653076
+0.35356032848358154
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.97
+0.3889504671096802
+0.4135202467441559
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.78
+0.4140598773956299
+0.3985483646392822
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.388671338558197
+0.38346996903419495
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3690643608570099
+0.3635823726654053
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.39893290400505066
+0.4085384011268616
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.34918534755706787
+0.33860883116722107
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.89
+0.35382115840911865
+0.3334856927394867
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.3543660640716553
+0.3735800087451935
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.98
+0.3744356036186218
+0.3934607207775116
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.56
+0.3744148313999176
+0.3685818016529083
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3739343583583832
+0.36859071254730225
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.39388343691825867
+0.37853580713272095
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.57
+0.42380934953689575
+0.43351900577545166
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3445262908935547
+0.3287407159805298
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.33968350291252136
+0.3435507118701935
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3534835875034332
+0.348722368478775
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.37413832545280457
+0.36846724152565
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3999410569667816
+0.37863269448280334
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.99
+0.3592427372932434
+0.3735165297985077
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3939669132232666
+0.41356685757637024
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3541114926338196
+0.3735054135322571
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.95
+0.36392924189567566
+0.36852020025253296
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.35972580313682556
+0.33870628476142883
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3537023663520813
+0.34848326444625854
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.37428855895996094
+0.3885551393032074
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3644084632396698
+0.38860008120536804
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.99
+0.35408711433410645
+0.3385697603225708
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3295685946941376
+0.3485693335533142
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3490704298019409
+0.3385339677333832
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3547360599040985
+0.348460853099823
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.95
+0.3891657590866089
+0.36363106966018677
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.36923617124557495
+0.3444706201553345
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.98
+0.35928794741630554
+0.3635946214199066
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.35916560888290405
+0.3736073970794678
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.36985886096954346
+0.37850719690322876
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.33916985988616943
+0.3485250174999237
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.35411688685417175
+0.3935343027114868
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3440396189689636
+0.3335479497909546
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3940739929676056
+0.3785381615161896
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.37901657819747925
+0.3735426366329193
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.94
+0.3392316699028015
+0.333526074886322
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.33964261412620544
+0.3385895788669586
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.82
+0.3989303708076477
+0.3836183249950409
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.35434600710868835
+0.3636537492275238
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3940488398075104
+0.3934934139251709
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.32
+0.35941192507743835
+0.3485867381095886
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.3442118167877197
+0.3436102569103241
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.61
+0.34924042224884033
+0.3486228287220001
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.36891183257102966
+0.3585240840911865
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.34390440583229065
+0.35355278849601746
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.38438811898231506
+0.38861823081970215
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.394071489572525
+0.3586101233959198
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.72
+0.34925663471221924
+0.3336166441440582
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.3588854968547821
+0.33848726749420166
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3641319274902344
+0.3736027479171753
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.32467469573020935
+0.3334062993526459
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3841010332107544
+0.35353711247444153
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.44
+0.359125554561615
+0.37356889247894287
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.0
+0.3641660809516907
+0.37359923124313354
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.37395092844963074
+0.373416930437088
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.96
+0.3692286014556885
+0.3635808825492859
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3988155722618103
+0.37846142053604126
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.34908604621887207
+0.35358235239982605
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3439953625202179
+0.3535965085029602
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.27
+0.38391751050949097
+0.3835306465625763
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.86
+0.3690723776817322
+0.34855470061302185
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3489028215408325
+0.3585294783115387
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.35406211018562317
+0.36850079894065857
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+0.3490893840789795
+0.36358577013015747
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.96
+Average Test Power of C2ST-D at n = 200:  0.8046999999999999
+  0%|          | 0/100 [00:00<?, ?it/s]  1%|          | 1/100 [00:07<12:24,  7.52s/it]  2%|▏         | 2/100 [00:15<12:15,  7.51s/it]  3%|▎         | 3/100 [00:22<12:03,  7.46s/it]  4%|▍         | 4/100 [00:29<11:53,  7.43s/it]  5%|▌         | 5/100 [00:37<11:44,  7.42s/it]  6%|▌         | 6/100 [00:44<11:37,  7.42s/it]  7%|▋         | 7/100 [00:51<11:28,  7.40s/it]  8%|▊         | 8/100 [00:59<11:19,  7.38s/it]  9%|▉         | 9/100 [01:06<11:13,  7.40s/it] 10%|█         | 10/100 [01:14<11:05,  7.40s/it] 11%|█         | 11/100 [01:21<10:57,  7.39s/it] 12%|█▏        | 12/100 [01:28<10:51,  7.40s/it] 13%|█▎        | 13/100 [01:36<10:43,  7.39s/it] 14%|█▍        | 14/100 [01:43<10:35,  7.39s/it] 15%|█▌        | 15/100 [01:51<10:28,  7.39s/it] 16%|█▌        | 16/100 [01:58<10:20,  7.38s/it] 17%|█▋        | 17/100 [02:05<10:11,  7.37s/it] 18%|█▊        | 18/100 [02:13<10:04,  7.37s/it] 19%|█▉        | 19/100 [02:20<09:58,  7.38s/it] 20%|██        | 20/100 [02:27<09:50,  7.38s/it] 21%|██        | 21/100 [02:35<09:44,  7.40s/it] 22%|██▏       | 22/100 [02:42<09:38,  7.41s/it] 23%|██▎       | 23/100 [02:50<09:32,  7.43s/it] 24%|██▍       | 24/100 [02:57<09:25,  7.44s/it] 25%|██▌       | 25/100 [03:05<09:19,  7.46s/it] 26%|██▌       | 26/100 [03:12<09:12,  7.47s/it] 27%|██▋       | 27/100 [03:20<09:04,  7.46s/it] 28%|██▊       | 28/100 [03:27<08:58,  7.48s/it] 29%|██▉       | 29/100 [03:35<08:52,  7.49s/it] 30%|███       | 30/100 [03:42<08:45,  7.51s/it] 31%|███       | 31/100 [03:50<08:38,  7.51s/it] 32%|███▏      | 32/100 [03:57<08:31,  7.52s/it] 33%|███▎      | 33/100 [04:05<08:23,  7.51s/it] 34%|███▍      | 34/100 [04:12<08:15,  7.51s/it] 35%|███▌      | 35/100 [04:20<08:08,  7.51s/it] 36%|███▌      | 36/100 [04:27<08:00,  7.50s/it] 37%|███▋      | 37/100 [04:35<07:53,  7.51s/it] 38%|███▊      | 38/100 [04:42<07:45,  7.51s/it] 39%|███▉      | 39/100 [04:50<07:39,  7.53s/it] 40%|████      | 40/100 [04:58<07:31,  7.53s/it] 41%|████      | 41/100 [05:05<07:22,  7.50s/it] 42%|████▏     | 42/100 [05:12<07:14,  7.49s/it] 43%|████▎     | 43/100 [05:20<07:07,  7.49s/it] 44%|████▍     | 44/100 [05:27<06:59,  7.49s/it] 45%|████▌     | 45/100 [05:35<06:51,  7.48s/it] 46%|████▌     | 46/100 [05:42<06:44,  7.48s/it] 47%|████▋     | 47/100 [05:50<06:36,  7.48s/it] 48%|████▊     | 48/100 [05:57<06:28,  7.47s/it] 49%|████▉     | 49/100 [06:05<06:21,  7.48s/it] 50%|█████     | 50/100 [06:12<06:13,  7.47s/it] 51%|█████     | 51/100 [06:20<06:05,  7.46s/it] 52%|█████▏    | 52/100 [06:27<05:58,  7.47s/it] 53%|█████▎    | 53/100 [06:35<05:51,  7.48s/it] 54%|█████▍    | 54/100 [06:42<05:43,  7.48s/it] 55%|█████▌    | 55/100 [06:50<05:36,  7.48s/it] 56%|█████▌    | 56/100 [06:57<05:29,  7.48s/it] 57%|█████▋    | 57/100 [07:05<05:21,  7.48s/it] 58%|█████▊    | 58/100 [07:12<05:14,  7.48s/it] 59%|█████▉    | 59/100 [07:20<05:06,  7.48s/it] 60%|██████    | 60/100 [07:27<04:59,  7.49s/it] 61%|██████    | 61/100 [07:35<04:51,  7.48s/it] 62%|██████▏   | 62/100 [07:42<04:44,  7.48s/it] 63%|██████▎   | 63/100 [07:49<04:35,  7.45s/it] 64%|██████▍   | 64/100 [07:57<04:27,  7.42s/it] 65%|██████▌   | 65/100 [08:04<04:19,  7.43s/it] 66%|██████▌   | 66/100 [08:12<04:12,  7.42s/it] 67%|██████▋   | 67/100 [08:19<04:04,  7.41s/it] 68%|██████▊   | 68/100 [08:26<03:57,  7.41s/it] 69%|██████▉   | 69/100 [08:34<03:49,  7.40s/it] 70%|███████   | 70/100 [08:41<03:41,  7.39s/it] 71%|███████   | 71/100 [08:49<03:34,  7.39s/it] 72%|███████▏  | 72/100 [08:56<03:26,  7.38s/it] 73%|███████▎  | 73/100 [09:03<03:18,  7.36s/it] 74%|███████▍  | 74/100 [09:11<03:11,  7.37s/it] 75%|███████▌  | 75/100 [09:18<03:04,  7.38s/it] 76%|███████▌  | 76/100 [09:25<02:57,  7.38s/it] 77%|███████▋  | 77/100 [09:33<02:49,  7.38s/it] 78%|███████▊  | 78/100 [09:40<02:42,  7.37s/it] 79%|███████▉  | 79/100 [09:47<02:34,  7.37s/it] 80%|████████  | 80/100 [09:55<02:27,  7.37s/it] 81%|████████  | 81/100 [10:02<02:20,  7.39s/it] 82%|████████▏ | 82/100 [10:10<02:13,  7.40s/it] 83%|████████▎ | 83/100 [10:17<02:05,  7.40s/it] 84%|████████▍ | 84/100 [10:25<01:58,  7.41s/it] 85%|████████▌ | 85/100 [10:32<01:51,  7.43s/it] 86%|████████▌ | 86/100 [10:39<01:44,  7.44s/it] 87%|████████▋ | 87/100 [10:47<01:36,  7.44s/it] 88%|████████▊ | 88/100 [10:54<01:29,  7.45s/it] 89%|████████▉ | 89/100 [11:02<01:22,  7.46s/it] 90%|█████████ | 90/100 [11:09<01:14,  7.46s/it] 91%|█████████ | 91/100 [11:17<01:07,  7.48s/it] 92%|█████████▏| 92/100 [11:24<00:59,  7.48s/it] 93%|█████████▎| 93/100 [11:32<00:52,  7.49s/it] 94%|█████████▍| 94/100 [11:39<00:44,  7.49s/it] 95%|█████████▌| 95/100 [11:47<00:37,  7.51s/it] 96%|█████████▌| 96/100 [11:54<00:29,  7.49s/it] 97%|█████████▋| 97/100 [12:02<00:22,  7.49s/it] 98%|█████████▊| 98/100 [12:09<00:15,  7.50s/it] 99%|█████████▉| 99/100 [12:17<00:07,  7.50s/it]100%|██████████| 100/100 [12:24<00:00,  7.50s/it]100%|██████████| 100/100 [12:24<00:00,  7.45s/it]
+0.418773889541626
+0.4084871709346771
+0.3784458041191101
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.35524970293045044
+0.35355162620544434
+0.3585016131401062
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.33478835225105286
+0.34860759973526
+0.3235650658607483
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3697842061519623
+0.3536928594112396
+0.36847224831581116
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3292008340358734
+0.32368671894073486
+0.34853509068489075
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3541833162307739
+0.35869938135147095
+0.34855106472969055
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3695066571235657
+0.38360661268234253
+0.35363447666168213
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36998459696769714
+0.38351550698280334
+0.36852920055389404
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3593561053276062
+0.3585936427116394
+0.3835834264755249
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3496522605419159
+0.3785214126110077
+0.34848591685295105
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.33956268429756165
+0.3236115574836731
+0.3285025358200073
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3495059311389923
+0.358195036649704
+0.33849379420280457
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3641664981842041
+0.38350462913513184
+0.39339524507522583
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.35409843921661377
+0.32854869961738586
+0.35852932929992676
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.39470165967941284
+0.3588075637817383
+0.3785251975059509
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3589099049568176
+0.36237847805023193
+0.35341382026672363
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3465639352798462
+0.35362833738327026
+0.34352901577949524
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36473387479782104
+0.3735041916370392
+0.3633885979652405
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.349009245634079
+0.3734496831893921
+0.37338465452194214
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3742281198501587
+0.3639465570449829
+0.36856696009635925
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36954617500305176
+0.3536430597305298
+0.35856693983078003
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3892003297805786
+0.373556524515152
+0.37844574451446533
+test power on training set 1
+Test Power of C2ST-D at n = 300:  0.94
+0.3593220114707947
+0.33348873257637024
+0.36342012882232666
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3442561626434326
+0.37857896089553833
+0.35855814814567566
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.38407090306282043
+0.39356622099876404
+0.3883958160877228
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.41918155550956726
+0.37370315194129944
+0.38849884271621704
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34908732771873474
+0.3434858024120331
+0.36346226930618286
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3641650378704071
+0.368607759475708
+0.3635246753692627
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3792589604854584
+0.3784724175930023
+0.3784753084182739
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3842863440513611
+0.3835384249687195
+0.4233684837818146
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3592393398284912
+0.39854276180267334
+0.34340667724609375
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.37473899126052856
+0.3736298084259033
+0.3835209608078003
+test power on training set 1
+Test Power of C2ST-D at n = 300:  0.0
+0.398936927318573
+0.36855846643447876
+0.38342490792274475
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34917137026786804
+0.3535943329334259
+0.3634780943393707
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3647245168685913
+0.3436369299888611
+0.36844688653945923
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.35951995849609375
+0.3337680399417877
+0.34856685996055603
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3744523227214813
+0.35368669033050537
+0.34853893518447876
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36414283514022827
+0.3785107433795929
+0.36345013976097107
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.37397873401641846
+0.3638453185558319
+0.35344088077545166
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3290729522705078
+0.3285640478134155
+0.3385367691516876
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3497444987297058
+0.34860146045684814
+0.3534489572048187
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.39423033595085144
+0.37359219789505005
+0.4135169982910156
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3645094037055969
+0.3636561632156372
+0.3585480749607086
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34958481788635254
+0.36846205592155457
+0.3934421241283417
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3695983588695526
+0.3535846471786499
+0.3735378682613373
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.4091251790523529
+0.39849159121513367
+0.42061805725097656
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3546033799648285
+0.36852458119392395
+0.3699381649494171
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34410929679870605
+0.35849571228027344
+0.36845076084136963
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3442717492580414
+0.3586369454860687
+0.32855960726737976
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3542894721031189
+0.3535503149032593
+0.353430837392807
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34908297657966614
+0.35356810688972473
+0.3484610617160797
+test power on training set 1
+Test Power of C2ST-D at n = 300:  0.99
+0.3942798972129822
+0.3846660852432251
+0.37339481711387634
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.39887264370918274
+0.3836601972579956
+0.3684995174407959
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36507049202919006
+0.36354687809944153
+0.3435302674770355
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3892279863357544
+0.37355029582977295
+0.378507524728775
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.39058148860931396
+0.37852737307548523
+0.36848917603492737
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.38402852416038513
+0.36855995655059814
+0.38842543959617615
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34937894344329834
+0.3486603796482086
+0.33859893679618835
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3343888223171234
+0.34847506880760193
+0.35347461700439453
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3839389681816101
+0.3987669348716736
+0.3793964385986328
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.38384222984313965
+0.37351635098457336
+0.3885195553302765
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3688468933105469
+0.3635298013687134
+0.3734595775604248
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3840586543083191
+0.3635467290878296
+0.3884270191192627
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.35427969694137573
+0.36348333954811096
+0.37348049879074097
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3808789849281311
+0.34863704442977905
+0.37350037693977356
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.40985068678855896
+0.3735872507095337
+0.39349687099456787
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3789990544319153
+0.36857613921165466
+0.39845675230026245
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3492313623428345
+0.33345988392829895
+0.3334617614746094
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3493858575820923
+0.368427574634552
+0.3734031319618225
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.32963958382606506
+0.3384937644004822
+0.3385118842124939
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.37922751903533936
+0.38356754183769226
+0.3684893846511841
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3603877127170563
+0.348654568195343
+0.3485255539417267
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34975939989089966
+0.3486487567424774
+0.3284647762775421
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36473557353019714
+0.3836486339569092
+0.37351691722869873
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3844144344329834
+0.36871764063835144
+0.37848687171936035
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36950722336769104
+0.3540148138999939
+0.3635351061820984
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.35499346256256104
+0.33349886536598206
+0.3534319996833801
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36464449763298035
+0.3436158299446106
+0.363479882478714
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.368981271982193
+0.37851378321647644
+0.3534775972366333
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3696248233318329
+0.3488849997520447
+0.34376847743988037
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.36571598052978516
+0.35866957902908325
+0.3635901212692261
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3591313660144806
+0.34357956051826477
+0.32848453521728516
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3589296042919159
+0.3735307455062866
+0.36857742071151733
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.34434178471565247
+0.34859248995780945
+0.35351523756980896
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3639903664588928
+0.3635798990726471
+0.3784284293651581
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.32963165640830994
+0.34360501170158386
+0.33853790163993835
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3897702097892761
+0.3685251474380493
+0.36352860927581787
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3350679874420166
+0.33853861689567566
+0.343545526266098
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3687659204006195
+0.3735862374305725
+0.38849514722824097
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3696335554122925
+0.37357810139656067
+0.38355281949043274
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.35972705483436584
+0.3634609580039978
+0.3384144902229309
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3840315639972687
+0.37363553047180176
+0.36840522289276123
+test power on training set 1
+Test Power of C2ST-D at n = 300:  0.73
+0.3589945137500763
+0.3584557771682739
+0.3684220016002655
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3395603895187378
+0.34853217005729675
+0.34348228573799133
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.40392303466796875
+0.3738189935684204
+0.41336360573768616
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3595275580883026
+0.34361881017684937
+0.33866795897483826
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3891567289829254
+0.38875454664230347
+0.40361618995666504
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3891218602657318
+0.3885612189769745
+0.3734770119190216
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.39875873923301697
+0.3735103905200958
+0.34838828444480896
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+0.3496452569961548
+0.3436441719532013
+0.35353773832321167
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Average Test Power of C2ST-D at n = 300:  0.9865999999999999
+  0%|          | 0/100 [00:00<?, ?it/s]  1%|          | 1/100 [00:12<21:09, 12.82s/it]  2%|▏         | 2/100 [00:25<20:55, 12.81s/it]  3%|▎         | 3/100 [00:38<20:43, 12.82s/it]  4%|▍         | 4/100 [00:51<20:32, 12.84s/it]  5%|▌         | 5/100 [01:04<20:19, 12.84s/it]  6%|▌         | 6/100 [01:17<20:07, 12.85s/it]  7%|▋         | 7/100 [01:29<19:52, 12.82s/it]  8%|▊         | 8/100 [01:42<19:40, 12.83s/it]  9%|▉         | 9/100 [01:55<19:25, 12.81s/it] 10%|█         | 10/100 [02:08<19:13, 12.82s/it] 11%|█         | 11/100 [02:20<18:58, 12.79s/it] 12%|█▏        | 12/100 [02:33<18:43, 12.77s/it] 13%|█▎        | 13/100 [02:46<18:25, 12.71s/it] 14%|█▍        | 14/100 [02:58<18:10, 12.68s/it] 15%|█▌        | 15/100 [03:11<17:55, 12.66s/it] 16%|█▌        | 16/100 [03:24<17:41, 12.64s/it] 17%|█▋        | 17/100 [03:36<17:26, 12.61s/it] 18%|█▊        | 18/100 [03:49<17:13, 12.60s/it] 19%|█▉        | 19/100 [04:01<17:00, 12.59s/it] 20%|██        | 20/100 [04:14<16:47, 12.59s/it] 21%|██        | 21/100 [04:26<16:33, 12.58s/it] 22%|██▏       | 22/100 [04:39<16:23, 12.61s/it] 23%|██▎       | 23/100 [04:52<16:14, 12.66s/it] 24%|██▍       | 24/100 [05:05<16:05, 12.70s/it] 25%|██▌       | 25/100 [05:17<15:55, 12.73s/it] 26%|██▌       | 26/100 [05:30<15:43, 12.75s/it] 27%|██▋       | 27/100 [05:43<15:29, 12.74s/it] 28%|██▊       | 28/100 [05:56<15:16, 12.72s/it] 29%|██▉       | 29/100 [06:08<15:03, 12.72s/it] 30%|███       | 30/100 [06:21<14:51, 12.74s/it] 31%|███       | 31/100 [06:34<14:38, 12.73s/it] 32%|███▏      | 32/100 [06:47<14:27, 12.76s/it] 33%|███▎      | 33/100 [07:00<14:15, 12.77s/it] 34%|███▍      | 34/100 [07:12<14:05, 12.81s/it] 35%|███▌      | 35/100 [07:25<13:52, 12.81s/it] 36%|███▌      | 36/100 [07:38<13:42, 12.85s/it] 37%|███▋      | 37/100 [07:51<13:28, 12.84s/it] 38%|███▊      | 38/100 [08:04<13:17, 12.87s/it] 39%|███▉      | 39/100 [08:17<13:04, 12.86s/it] 40%|████      | 40/100 [08:30<12:51, 12.86s/it] 41%|████      | 41/100 [08:42<12:38, 12.86s/it] 42%|████▏     | 42/100 [08:55<12:25, 12.86s/it] 43%|████▎     | 43/100 [09:08<12:13, 12.87s/it] 44%|████▍     | 44/100 [09:21<12:01, 12.88s/it] 45%|████▌     | 45/100 [09:34<11:46, 12.84s/it] 46%|████▌     | 46/100 [09:47<11:30, 12.79s/it] 47%|████▋     | 47/100 [09:59<11:15, 12.75s/it] 48%|████▊     | 48/100 [10:12<11:00, 12.70s/it] 49%|████▉     | 49/100 [10:24<10:46, 12.67s/it] 50%|█████     | 50/100 [10:37<10:31, 12.63s/it] 51%|█████     | 51/100 [10:50<10:18, 12.63s/it] 52%|█████▏    | 52/100 [11:02<10:04, 12.60s/it] 53%|█████▎    | 53/100 [11:15<09:52, 12.60s/it] 54%|█████▍    | 54/100 [11:27<09:40, 12.61s/it] 55%|█████▌    | 55/100 [11:40<09:28, 12.62s/it] 56%|█████▌    | 56/100 [11:53<09:16, 12.64s/it] 57%|█████▋    | 57/100 [12:05<09:04, 12.67s/it] 58%|█████▊    | 58/100 [12:18<08:53, 12.71s/it] 59%|█████▉    | 59/100 [12:31<08:41, 12.73s/it] 60%|██████    | 60/100 [12:44<08:29, 12.74s/it] 61%|██████    | 61/100 [12:57<08:17, 12.76s/it] 62%|██████▏   | 62/100 [13:09<08:04, 12.75s/it] 63%|██████▎   | 63/100 [13:22<07:52, 12.77s/it] 64%|██████▍   | 64/100 [13:35<07:40, 12.78s/it] 65%|██████▌   | 65/100 [13:48<07:27, 12.79s/it] 66%|██████▌   | 66/100 [14:01<07:15, 12.80s/it] 67%|██████▋   | 67/100 [14:13<07:01, 12.79s/it] 68%|██████▊   | 68/100 [14:26<06:49, 12.80s/it] 69%|██████▉   | 69/100 [14:39<06:36, 12.80s/it] 70%|███████   | 70/100 [14:52<06:24, 12.81s/it] 71%|███████   | 71/100 [15:05<06:10, 12.79s/it] 72%|███████▏  | 72/100 [15:17<05:57, 12.79s/it] 73%|███████▎  | 73/100 [15:30<05:44, 12.77s/it] 74%|███████▍  | 74/100 [15:43<05:32, 12.78s/it] 75%|███████▌  | 75/100 [15:56<05:19, 12.76s/it] 76%|███████▌  | 76/100 [16:08<05:05, 12.75s/it] 77%|███████▋  | 77/100 [16:21<04:53, 12.77s/it] 78%|███████▊  | 78/100 [16:34<04:40, 12.74s/it] 79%|███████▉  | 79/100 [16:46<04:27, 12.74s/it] 80%|████████  | 80/100 [16:59<04:14, 12.71s/it] 81%|████████  | 81/100 [17:12<04:00, 12.67s/it] 82%|████████▏ | 82/100 [17:24<03:47, 12.63s/it] 83%|████████▎ | 83/100 [17:37<03:34, 12.62s/it] 84%|████████▍ | 84/100 [17:49<03:21, 12.60s/it] 85%|████████▌ | 85/100 [18:02<03:08, 12.59s/it] 86%|████████▌ | 86/100 [18:14<02:56, 12.58s/it] 87%|████████▋ | 87/100 [18:27<02:43, 12.57s/it] 88%|████████▊ | 88/100 [18:40<02:30, 12.57s/it] 89%|████████▉ | 89/100 [18:52<02:18, 12.57s/it] 90%|█████████ | 90/100 [19:05<02:06, 12.60s/it] 91%|█████████ | 91/100 [19:18<01:53, 12.64s/it] 92%|█████████▏| 92/100 [19:30<01:41, 12.67s/it] 93%|█████████▎| 93/100 [19:43<01:28, 12.66s/it] 94%|█████████▍| 94/100 [19:56<01:16, 12.69s/it] 95%|█████████▌| 95/100 [20:08<01:03, 12.70s/it] 96%|█████████▌| 96/100 [20:21<00:50, 12.74s/it] 97%|█████████▋| 97/100 [20:34<00:38, 12.75s/it] 98%|█████████▊| 98/100 [20:47<00:25, 12.76s/it] 99%|█████████▉| 99/100 [21:00<00:12, 12.78s/it]100%|██████████| 100/100 [21:13<00:00, 12.82s/it]100%|██████████| 100/100 [21:13<00:00, 12.73s/it]
+0.38954299688339233
+0.37356430292129517
+0.3684143126010895
+0.3633962571620941
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.4097391963005066
+0.4136439859867096
+0.4085524380207062
+0.39364850521087646
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.35899507999420166
+0.353570818901062
+0.3584142029285431
+0.3434622585773468
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3501991033554077
+0.3886633813381195
+0.3333591818809509
+0.38837260007858276
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3550570011138916
+0.34858426451683044
+0.34355801343917847
+0.36345580220222473
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.363907128572464
+0.36872249841690063
+0.4276353120803833
+0.3734126687049866
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.39995792508125305
+0.40362536907196045
+0.3535497784614563
+0.35850173234939575
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.39455321431159973
+0.38347718119621277
+0.36841532588005066
+0.35342949628829956
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.37931007146835327
+0.3685595691204071
+0.36841732263565063
+0.34392237663269043
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.35900384187698364
+0.33859866857528687
+0.35353267192840576
+0.3435077369213104
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3601587414741516
+0.35368120670318604
+0.3284195363521576
+0.33843672275543213
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36883121728897095
+0.3434685468673706
+0.3586263656616211
+0.36382758617401123
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3943992853164673
+0.37368321418762207
+0.35855358839035034
+0.3735789954662323
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.38399219512939453
+0.37854743003845215
+0.35874560475349426
+0.37341660261154175
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3698897957801819
+0.39348000288009644
+0.3534143567085266
+0.3484663665294647
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3843519985675812
+0.38360413908958435
+0.3644265830516815
+0.33952412009239197
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34492552280426025
+0.34361976385116577
+0.3535616397857666
+0.34847399592399597
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.39448460936546326
+0.36367475986480713
+0.3535555303096771
+0.3939923942089081
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.37446263432502747
+0.3684816360473633
+0.36343979835510254
+0.368374228477478
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34911349415779114
+0.33867281675338745
+0.3586540222167969
+0.33854636549949646
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3792385756969452
+0.3685178756713867
+0.35852205753326416
+0.36344408988952637
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.33070045709609985
+0.34370478987693787
+0.3335241377353668
+0.338646799325943
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.33420252799987793
+0.3336632549762726
+0.3484911024570465
+0.3534206748008728
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.42436420917510986
+0.37864840030670166
+0.3884623050689697
+0.348567396402359
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.37422892451286316
+0.36361438035964966
+0.3535417914390564
+0.3684127926826477
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36953961849212646
+0.36860957741737366
+0.3785097002983093
+0.34848564863204956
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3499842882156372
+0.3390377461910248
+0.3334217369556427
+0.3284112513065338
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3781806230545044
+0.3685554265975952
+0.35351550579071045
+0.3535498082637787
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3747248947620392
+0.36359164118766785
+0.35737866163253784
+0.3484555184841156
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3339956998825073
+0.3285425305366516
+0.31859707832336426
+0.33350104093551636
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.35098978877067566
+0.33873799443244934
+0.3236393630504608
+0.3384029269218445
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3461886942386627
+0.36357879638671875
+0.34342291951179504
+0.32842114567756653
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.394033282995224
+0.37360140681266785
+0.3634771704673767
+0.37839171290397644
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3746749460697174
+0.3534872829914093
+0.35844090580940247
+0.37347176671028137
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36022698879241943
+0.3536945581436157
+0.34858590364456177
+0.36354202032089233
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3495776355266571
+0.3485167324542999
+0.3534749746322632
+0.3284980356693268
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34938257932662964
+0.3834904730319977
+0.34857064485549927
+0.4895564019680023
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3692016899585724
+0.3488680124282837
+0.3478775918483734
+0.34855785965919495
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3851202130317688
+0.34857508540153503
+0.36851581931114197
+0.3784346878528595
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3545551300048828
+0.3536764979362488
+0.3635741174221039
+0.36350157856941223
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.38419461250305176
+0.37830349802970886
+0.36847442388534546
+0.3884598910808563
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36460888385772705
+0.38367190957069397
+0.37360328435897827
+0.38840484619140625
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3490551710128784
+0.35857513546943665
+0.3634331524372101
+0.35848939418792725
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.35484278202056885
+0.35867637395858765
+0.3685392141342163
+0.3935544490814209
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34465599060058594
+0.34856921434402466
+0.363505095243454
+0.3334255516529083
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.37469983100891113
+0.3385646343231201
+0.3435841500759125
+0.3685015141963959
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3649806082248688
+0.3435837924480438
+0.35343655943870544
+0.318550705909729
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3541705012321472
+0.38347283005714417
+0.3734837472438812
+0.3783760070800781
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.38854295015335083
+0.3735264837741852
+0.36340275406837463
+0.38844597339630127
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36398980021476746
+0.3835878074169159
+0.3685179650783539
+0.3533729314804077
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3543337285518646
+0.35856613516807556
+0.3584381341934204
+0.35337525606155396
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3441545069217682
+0.348473459482193
+0.3283796012401581
+0.3333866000175476
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.345144122838974
+0.37370043992996216
+0.34849631786346436
+0.33850523829460144
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3695192337036133
+0.3536655902862549
+0.3634524941444397
+0.3735874593257904
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.38112473487854004
+0.35364627838134766
+0.37344294786453247
+0.35348281264305115
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3862062692642212
+0.39373600482940674
+0.3584926724433899
+0.3784654140472412
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.38431012630462646
+0.3686380088329315
+0.34847399592399597
+0.36339083313941956
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3690193295478821
+0.35855671763420105
+0.3586048185825348
+0.34836840629577637
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3496308922767639
+0.35365140438079834
+0.3385029733181
+0.33842357993125916
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3736311197280884
+0.36863112449645996
+0.3685232102870941
+0.3383346199989319
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3455188274383545
+0.33858412504196167
+0.3551781177520752
+0.3484754264354706
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3451366424560547
+0.3838508725166321
+0.3785301446914673
+0.3785076141357422
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3608912229537964
+0.34864112734794617
+0.3786035180091858
+0.36855846643447876
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36957457661628723
+0.36347678303718567
+0.35350295901298523
+0.3634989261627197
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3742927610874176
+0.36357608437538147
+0.3484953045845032
+0.36337611079216003
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34487733244895935
+0.34868934750556946
+0.34358134865760803
+0.3486109673976898
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3495427072048187
+0.3236311972141266
+0.3434344530105591
+0.3433804214000702
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3450249135494232
+0.36363333463668823
+0.3534530699253082
+0.3486551344394684
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36424577236175537
+0.3835972249507904
+0.3684879243373871
+0.363491028547287
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.37399351596832275
+0.3537909686565399
+0.3634992241859436
+0.3534422218799591
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.33485114574432373
+0.3535446226596832
+0.3284890353679657
+0.3384184241294861
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3394837975502014
+0.3586757183074951
+0.3634575605392456
+0.32372865080833435
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3297281563282013
+0.34366360306739807
+0.3584616184234619
+0.3433528542518616
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.38376426696777344
+0.39863356947898865
+0.34840089082717896
+0.3884275555610657
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3350435495376587
+0.35356396436691284
+0.3537701666355133
+0.3533879816532135
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.38943612575531006
+0.3636649250984192
+0.39346104860305786
+0.37340328097343445
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3349100947380066
+0.3486546277999878
+0.33858248591423035
+0.34848594665527344
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.4045862555503845
+0.4085075855255127
+0.37864449620246887
+0.4083547294139862
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3339237570762634
+0.3536109924316406
+0.3634048402309418
+0.3434474468231201
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.37233608961105347
+0.343619167804718
+0.36351099610328674
+0.35843560099601746
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3747079372406006
+0.4034915268421173
+0.4034588634967804
+0.5211745500564575
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.35927823185920715
+0.3484903573989868
+0.343429297208786
+0.3534967303276062
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.33925861120224
+0.3536122143268585
+0.3386610150337219
+0.37353014945983887
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3598670959472656
+0.3536766469478607
+0.34350112080574036
+0.3533814251422882
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3693450093269348
+0.3385986387729645
+0.3285789489746094
+0.34557783603668213
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.4039889872074127
+0.37854546308517456
+0.3735042214393616
+0.38339483737945557
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3747534155845642
+0.38363373279571533
+0.3836207687854767
+0.3785403072834015
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34865203499794006
+0.3534582257270813
+0.3666239082813263
+0.3284003436565399
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3307155668735504
+0.3438356816768646
+0.35363009572029114
+0.3794870376586914
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.33936992287635803
+0.3287406265735626
+0.3384854793548584
+0.3497183620929718
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.37428173422813416
+0.34861981868743896
+0.35361605882644653
+0.34838131070137024
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3458057641983032
+0.33846282958984375
+0.34850776195526123
+0.33345645666122437
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3988898992538452
+0.39357200264930725
+0.3634892702102661
+0.3584554195404053
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36487895250320435
+0.3436933159828186
+0.36358875036239624
+0.3585374355316162
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34956806898117065
+0.3487405776977539
+0.3338465988636017
+0.32842105627059937
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3645319640636444
+0.343646764755249
+0.35355904698371887
+0.3433777093887329
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.384342759847641
+0.36851757764816284
+0.3935863971710205
+0.37842556834220886
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.3890361487865448
+0.36355721950531006
+0.3684251010417938
+0.3434792459011078
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.36412131786346436
+0.34882092475891113
+0.3586874008178711
+0.3685464859008789
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+0.34918633103370667
+0.3435458838939667
+0.3435836732387543
+0.34840574860572815
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Average Test Power of C2ST-D at n = 400:  1.0
+  0%|          | 0/100 [00:00<?, ?it/s]  1%|          | 1/100 [00:19<32:38, 19.78s/it]  2%|▏         | 2/100 [00:39<32:09, 19.68s/it]  3%|▎         | 3/100 [00:58<31:41, 19.60s/it]  4%|▍         | 4/100 [01:18<31:24, 19.63s/it]  5%|▌         | 5/100 [01:38<31:06, 19.65s/it]  6%|▌         | 6/100 [01:58<30:50, 19.69s/it]  7%|▋         | 7/100 [02:17<30:28, 19.66s/it]  8%|▊         | 8/100 [02:37<30:08, 19.66s/it]  9%|▉         | 9/100 [02:56<29:41, 19.57s/it] 10%|█         | 10/100 [03:15<29:14, 19.50s/it] 11%|█         | 11/100 [03:35<28:49, 19.43s/it] 12%|█▏        | 12/100 [03:54<28:26, 19.39s/it] 13%|█▎        | 13/100 [04:13<28:01, 19.33s/it] 14%|█▍        | 14/100 [04:33<27:40, 19.31s/it] 15%|█▌        | 15/100 [04:52<27:21, 19.31s/it] 16%|█▌        | 16/100 [05:11<27:03, 19.33s/it] 17%|█▋        | 17/100 [05:31<26:47, 19.37s/it] 18%|█▊        | 18/100 [05:50<26:31, 19.41s/it] 19%|█▉        | 19/100 [06:10<26:15, 19.44s/it] 20%|██        | 20/100 [06:29<25:57, 19.47s/it] 21%|██        | 21/100 [06:49<25:36, 19.45s/it] 22%|██▏       | 22/100 [07:08<25:19, 19.48s/it] 23%|██▎       | 23/100 [07:28<25:04, 19.54s/it] 24%|██▍       | 24/100 [07:48<24:48, 19.59s/it] 25%|██▌       | 25/100 [08:07<24:30, 19.60s/it] 26%|██▌       | 26/100 [08:27<24:12, 19.62s/it] 27%|██▋       | 27/100 [08:47<23:54, 19.65s/it] 28%|██▊       | 28/100 [09:06<23:36, 19.68s/it] 29%|██▉       | 29/100 [09:26<23:18, 19.70s/it] 30%|███       | 30/100 [09:46<22:55, 19.65s/it] 31%|███       | 31/100 [10:05<22:32, 19.61s/it] 32%|███▏      | 32/100 [10:24<22:07, 19.53s/it] 33%|███▎      | 33/100 [10:44<21:43, 19.46s/it] 34%|███▍      | 34/100 [11:03<21:20, 19.41s/it] 35%|███▌      | 35/100 [11:22<20:58, 19.36s/it] 36%|███▌      | 36/100 [11:42<20:37, 19.34s/it] 37%|███▋      | 37/100 [12:01<20:19, 19.35s/it] 38%|███▊      | 38/100 [12:20<20:01, 19.38s/it] 39%|███▉      | 39/100 [12:40<19:43, 19.41s/it] 40%|████      | 40/100 [12:59<19:26, 19.44s/it] 41%|████      | 41/100 [13:19<19:09, 19.48s/it] 42%|████▏     | 42/100 [13:39<18:52, 19.52s/it] 43%|████▎     | 43/100 [13:58<18:34, 19.56s/it] 44%|████▍     | 44/100 [14:18<18:16, 19.59s/it] 45%|████▌     | 45/100 [14:37<17:57, 19.59s/it] 46%|████▌     | 46/100 [14:57<17:39, 19.61s/it] 47%|████▋     | 47/100 [15:17<17:20, 19.63s/it] 48%|████▊     | 48/100 [15:36<17:00, 19.63s/it] 49%|████▉     | 49/100 [15:56<16:41, 19.64s/it] 50%|█████     | 50/100 [16:16<16:22, 19.65s/it] 51%|█████     | 51/100 [16:35<16:01, 19.63s/it] 52%|█████▏    | 52/100 [16:55<15:41, 19.61s/it] 53%|█████▎    | 53/100 [17:14<15:19, 19.56s/it] 54%|█████▍    | 54/100 [17:34<14:56, 19.48s/it] 55%|█████▌    | 55/100 [17:53<14:33, 19.41s/it] 56%|█████▌    | 56/100 [18:12<14:12, 19.38s/it] 57%|█████▋    | 57/100 [18:32<13:51, 19.35s/it] 58%|█████▊    | 58/100 [18:51<13:32, 19.34s/it] 59%|█████▉    | 59/100 [19:10<13:13, 19.34s/it] 60%|██████    | 60/100 [19:30<12:55, 19.39s/it] 61%|██████    | 61/100 [19:49<12:38, 19.45s/it] 62%|██████▏   | 62/100 [20:09<12:20, 19.50s/it] 63%|██████▎   | 63/100 [20:28<12:00, 19.48s/it] 64%|██████▍   | 64/100 [20:48<11:41, 19.48s/it] 65%|██████▌   | 65/100 [21:07<11:22, 19.50s/it] 66%|██████▌   | 66/100 [21:27<11:04, 19.56s/it] 67%|██████▋   | 67/100 [21:47<10:45, 19.57s/it] 68%|██████▊   | 68/100 [22:06<10:26, 19.59s/it] 69%|██████▉   | 69/100 [22:26<10:08, 19.62s/it] 70%|███████   | 70/100 [22:46<09:49, 19.66s/it] 71%|███████   | 71/100 [23:05<09:30, 19.68s/it] 72%|███████▏  | 72/100 [23:25<09:11, 19.69s/it] 73%|███████▎  | 73/100 [23:45<08:51, 19.70s/it] 74%|███████▍  | 74/100 [24:05<08:32, 19.72s/it] 75%|███████▌  | 75/100 [24:24<08:12, 19.68s/it] 76%|███████▌  | 76/100 [24:44<07:50, 19.60s/it] 77%|███████▋  | 77/100 [25:03<07:28, 19.52s/it] 78%|███████▊  | 78/100 [25:22<07:07, 19.45s/it] 79%|███████▉  | 79/100 [25:42<06:47, 19.39s/it] 80%|████████  | 80/100 [26:01<06:27, 19.35s/it] 81%|████████  | 81/100 [26:20<06:07, 19.35s/it] 82%|████████▏ | 82/100 [26:40<05:48, 19.36s/it] 83%|████████▎ | 83/100 [26:59<05:30, 19.45s/it] 84%|████████▍ | 84/100 [27:19<05:12, 19.51s/it] 85%|████████▌ | 85/100 [27:38<04:52, 19.53s/it] 86%|████████▌ | 86/100 [27:58<04:33, 19.54s/it] 87%|████████▋ | 87/100 [28:18<04:14, 19.54s/it] 88%|████████▊ | 88/100 [28:37<03:54, 19.54s/it] 89%|████████▉ | 89/100 [28:57<03:35, 19.55s/it] 90%|█████████ | 90/100 [29:16<03:15, 19.56s/it] 91%|█████████ | 91/100 [29:36<02:56, 19.56s/it] 92%|█████████▏| 92/100 [29:55<02:36, 19.57s/it] 93%|█████████▎| 93/100 [30:15<02:17, 19.62s/it] 94%|█████████▍| 94/100 [30:35<01:57, 19.66s/it] 95%|█████████▌| 95/100 [30:55<01:38, 19.67s/it] 96%|█████████▌| 96/100 [31:14<01:18, 19.66s/it] 97%|█████████▋| 97/100 [31:34<00:58, 19.66s/it] 98%|█████████▊| 98/100 [31:53<00:39, 19.58s/it] 99%|█████████▉| 99/100 [32:12<00:19, 19.47s/it]100%|██████████| 100/100 [32:32<00:00, 19.39s/it]100%|██████████| 100/100 [32:32<00:00, 19.52s/it]
+0.3792371451854706
+0.3436143100261688
+0.34857118129730225
+0.35840854048728943
+0.3434257209300995
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37522101402282715
+0.3835538923740387
+0.3734341859817505
+0.3668428659439087
+0.34347230195999146
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3539372384548187
+0.3787318170070648
+0.3585974872112274
+0.34343668818473816
+0.34347981214523315
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3508297801017761
+0.34368401765823364
+0.36353179812431335
+0.3333621919155121
+0.3333854377269745
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3559170961380005
+0.3639022707939148
+0.3583429455757141
+0.33845412731170654
+0.33348220586776733
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3558204770088196
+0.3387070596218109
+0.34369370341300964
+0.32346537709236145
+0.34848934412002563
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3644796311855316
+0.378202348947525
+0.34860607981681824
+0.3935517370700836
+0.35344478487968445
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36921927332878113
+0.3684895634651184
+0.3384961187839508
+0.3545619249343872
+0.35338833928108215
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3443843424320221
+0.34849441051483154
+0.33349841833114624
+0.32343119382858276
+0.3433333933353424
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37479227781295776
+0.3736438751220703
+0.38874948024749756
+0.40009891986846924
+0.35840073227882385
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.369136780500412
+0.3635851740837097
+0.35353755950927734
+0.34340667724609375
+0.3484478294849396
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35475674271583557
+0.3585548400878906
+0.34363746643066406
+0.3486791253089905
+0.3284403681755066
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3443391025066376
+0.3485150933265686
+0.35842010378837585
+0.36842456459999084
+0.33869636058807373
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3542056977748871
+0.3540814220905304
+0.35357439517974854
+0.3847711980342865
+0.3434029817581177
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3541088104248047
+0.338817834854126
+0.35856613516807556
+0.3434472680091858
+0.3484600782394409
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36577650904655457
+0.34869396686553955
+0.34860122203826904
+0.3686566650867462
+0.3384004235267639
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3494276702404022
+0.3535709083080292
+0.35847076773643494
+0.333377867937088
+0.35349127650260925
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35524412989616394
+0.34902384877204895
+0.3478183448314667
+0.3534274399280548
+0.33346763253211975
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36411163210868835
+0.36365807056427
+0.3687114417552948
+0.3683581054210663
+0.3633805215358734
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3505346179008484
+0.37562039494514465
+0.3435487449169159
+0.3384886085987091
+0.34841763973236084
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3740394711494446
+0.3935512602329254
+0.38366007804870605
+0.3734336197376251
+0.3748013973236084
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3268967866897583
+0.3237837255001068
+0.34371456503868103
+0.35500389337539673
+0.33840763568878174
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37972888350486755
+0.38355550169944763
+0.37425583600997925
+0.37361958622932434
+0.3533949553966522
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35006579756736755
+0.3286403715610504
+0.33857259154319763
+0.3383817970752716
+0.3234376013278961
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34922027587890625
+0.37852418422698975
+0.3334196209907532
+0.3486141264438629
+0.37342938780784607
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36957797408103943
+0.3336758315563202
+0.33864787220954895
+0.3334123492240906
+0.3484609127044678
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.33486899733543396
+0.36371082067489624
+0.32851386070251465
+0.34835177659988403
+0.373404324054718
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.39419782161712646
+0.3588787019252777
+0.34843605756759644
+0.36392486095428467
+0.348402738571167
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36898547410964966
+0.3485771417617798
+0.3585307002067566
+0.3634040951728821
+0.3384377360343933
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3893519639968872
+0.35354623198509216
+0.32846108078956604
+0.3538409471511841
+0.37344902753829956
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3448421061038971
+0.3686065971851349
+0.36853575706481934
+0.3384374678134918
+0.35333120822906494
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35427626967430115
+0.368537038564682
+0.338421106338501
+0.3435095250606537
+0.3284775912761688
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.33469703793525696
+0.34367305040359497
+0.33349570631980896
+0.32845133543014526
+0.3384159803390503
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3440414369106293
+0.3385999798774719
+0.35349875688552856
+0.3538185954093933
+0.34346210956573486
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35923483967781067
+0.34382951259613037
+0.36355113983154297
+0.34838855266571045
+0.3783773183822632
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3990001976490021
+0.3585256338119507
+0.3684825003147125
+0.36868816614151
+0.3597879409790039
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3697604238986969
+0.38855016231536865
+0.38343551754951477
+0.3884533643722534
+0.38370582461357117
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34509459137916565
+0.3533848226070404
+0.34846627712249756
+0.34357959032058716
+0.3536525368690491
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.38634803891181946
+0.33373406529426575
+0.34853801131248474
+0.3784509003162384
+0.35345715284347534
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3545650243759155
+0.37368401885032654
+0.3435054421424866
+0.33851104974746704
+0.3434405028820038
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3642039895057678
+0.3285805881023407
+0.338485449552536
+0.3486967086791992
+0.3335583508014679
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3508981764316559
+0.34865492582321167
+0.3385176956653595
+0.3436671495437622
+0.36347052454948425
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34940990805625916
+0.35390549898147583
+0.3336710035800934
+0.34359920024871826
+0.3433663547039032
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35428568720817566
+0.3436574637889862
+0.34858325123786926
+0.34845802187919617
+0.36345404386520386
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.40916842222213745
+0.3735947906970978
+0.3885993957519531
+0.3734405040740967
+0.37838420271873474
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34926456212997437
+0.35351115465164185
+0.3646529018878937
+0.36340293288230896
+0.32842501997947693
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3446960747241974
+0.36376652121543884
+0.35855916142463684
+0.3683786690235138
+0.3334651589393616
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3646411597728729
+0.37359631061553955
+0.3685282766819
+0.3785114586353302
+0.3483811318874359
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37518393993377686
+0.3685828745365143
+0.37850847840309143
+0.3784356415271759
+0.35348010063171387
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37422817945480347
+0.38356539607048035
+0.3935062289237976
+0.36341556906700134
+0.36339035630226135
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3303671181201935
+0.3336072564125061
+0.32342416048049927
+0.34341731667518616
+0.33843910694122314
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37483513355255127
+0.34876304864883423
+0.36845821142196655
+0.3533857762813568
+0.3234604299068451
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3892880976200104
+0.343881756067276
+0.34353336691856384
+0.34854885935783386
+0.37845295667648315
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37950894236564636
+0.38358306884765625
+0.35341429710388184
+0.36844539642333984
+0.3635026216506958
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3616687059402466
+0.3688771724700928
+0.3690098822116852
+0.3784771263599396
+0.358474999666214
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3548318147659302
+0.3585902750492096
+0.363861083984375
+0.3334021270275116
+0.33848777413368225
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3646395206451416
+0.37357696890830994
+0.33855628967285156
+0.3336293697357178
+0.3486045002937317
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.39962413907051086
+0.36858344078063965
+0.3484830856323242
+0.39844509959220886
+0.35838040709495544
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3446960151195526
+0.34894946217536926
+0.3385884463787079
+0.3335346579551697
+0.34342247247695923
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.40439704060554504
+0.3835619390010834
+0.3834606111049652
+0.3388742208480835
+0.3784445822238922
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3398299813270569
+0.3437943756580353
+0.3485504388809204
+0.3584855794906616
+0.3285329341888428
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36493855714797974
+0.33356326818466187
+0.3435491621494293
+0.34347620606422424
+0.3184601962566376
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37041667103767395
+0.35352885723114014
+0.3484934866428375
+0.34851813316345215
+0.35340821743011475
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35938483476638794
+0.33855339884757996
+0.36363789439201355
+0.34343183040618896
+0.3484184145927429
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36451980471611023
+0.34368184208869934
+0.3384944796562195
+0.3235228359699249
+0.33346027135849
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.33585166931152344
+0.3636144995689392
+0.3485594689846039
+0.34839245676994324
+0.35849082469940186
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3755168914794922
+0.3386726677417755
+0.3285810351371765
+0.3484231233596802
+0.32342639565467834
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3547367751598358
+0.3735736906528473
+0.3736260235309601
+0.3634163737297058
+0.38839587569236755
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3608499765396118
+0.3386702835559845
+0.34864428639411926
+0.34846293926239014
+0.34361132979393005
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3248243033885956
+0.3285892605781555
+0.36859989166259766
+0.37339648604393005
+0.34338894486427307
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3446929156780243
+0.3436516523361206
+0.3535606861114502
+0.3690979778766632
+0.34341251850128174
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35464808344841003
+0.3686334192752838
+0.3634934723377228
+0.3484678566455841
+0.3483811914920807
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3593054711818695
+0.34356391429901123
+0.34338104724884033
+0.3434176743030548
+0.3434775173664093
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34433361887931824
+0.3785390555858612
+0.34846922755241394
+0.36364081501960754
+0.3533574342727661
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.33479541540145874
+0.3387404978275299
+0.32349398732185364
+0.3434680700302124
+0.35345718264579773
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3350033462047577
+0.35863885283470154
+0.35349658131599426
+0.36840665340423584
+0.34342488646507263
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3405033051967621
+0.3491363823413849
+0.3334217369556427
+0.32848265767097473
+0.32847607135772705
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.40119317173957825
+0.3735848367214203
+0.35348302125930786
+0.3834536671638489
+0.3786426782608032
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37459927797317505
+0.3399314880371094
+0.4258016347885132
+0.3634594976902008
+0.3434399664402008
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34904032945632935
+0.35365596413612366
+0.34853971004486084
+0.3584214746952057
+0.3534041941165924
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3342958390712738
+0.34367018938064575
+0.358530193567276
+0.3583683669567108
+0.33344775438308716
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3640934228897095
+0.3785085380077362
+0.34336692094802856
+0.33846238255500793
+0.3484540581703186
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.34005555510520935
+0.3535565137863159
+0.3435176908969879
+0.3334321081638336
+0.3534289300441742
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.33549317717552185
+0.33860060572624207
+0.3435099422931671
+0.33849215507507324
+0.3184278607368469
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36929216980934143
+0.3436453342437744
+0.3635929822921753
+0.37339547276496887
+0.35838568210601807
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3345012366771698
+0.3884585499763489
+0.34859439730644226
+0.3583914041519165
+0.35839909315109253
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3503754138946533
+0.3437142074108124
+0.3734481930732727
+0.3484584391117096
+0.34874626994132996
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3491968810558319
+0.3687032461166382
+0.36367282271385193
+0.35868915915489197
+0.35854220390319824
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3747580647468567
+0.3736330270767212
+0.3734532296657562
+0.3734504282474518
+0.36845552921295166
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.36447760462760925
+0.3535173833370209
+0.3484920859336853
+0.3234512209892273
+0.34844332933425903
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3642790913581848
+0.3636375367641449
+0.35866624116897583
+0.35845160484313965
+0.3634776771068573
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3792101740837097
+0.358683705329895
+0.33343836665153503
+0.34840378165245056
+0.3484020531177521
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.38037386536598206
+0.3736152648925781
+0.36851730942726135
+0.3584788143634796
+0.37347161769866943
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3943239450454712
+0.3485489785671234
+0.363733172416687
+0.3534087836742401
+0.36861637234687805
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.35436782240867615
+0.3836338520050049
+0.3535788059234619
+0.3584150969982147
+0.33839988708496094
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37629660964012146
+0.35865718126296997
+0.33341649174690247
+0.33842915296554565
+0.33863744139671326
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.38510048389434814
+0.37927067279815674
+0.3584738075733185
+0.35840746760368347
+0.338402658700943
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3208051323890686
+0.3285428583621979
+0.3436749577522278
+0.3284430205821991
+0.3234390914440155
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.3299356698989868
+0.3386353552341461
+0.34859126806259155
+0.34837913513183594
+0.3234453499317169
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+0.37985721230506897
+0.36892223358154297
+0.36346235871315
+0.3833518326282501
+0.3784041106700897
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Average Test Power of C2ST-D at n = 500:  1.0
+
+-----------------------------------------------
+
+Finished with execution of c2st_mnist.py script
+
+-----------------------------------------------
+
+Job ID           : 55164962
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 01:14:55 / 1-00:00:00
+
+Displaying overall resources usage from 2024-01-16 10:41:43 to 2024-01-16 11:56:38:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu092 : 
+                CPU# 1    : 12.9   (  11.0 /   2.0 /   0.0 /  87.1 ) 
+                CPU# 2    : 10.2   (   8.3 /   1.9 /   0.0 /  89.8 ) 
+                CPU# 3    : 40.0   (  38.7 /   1.3 /   0.0 /  60.0 ) 
+                CPU# 4    : 45.8   (  44.5 /   1.3 /   0.0 /  54.2 ) 
+
+                GPU# 1    : 38.1  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 2    
+  CPUs with usage <50%    : 2    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 0    
+  GPUs with usage <50%    : 1    
+  GPUs with usage >50%    : 0    
+
+Memory used (RAM)         : 39.9%  [3428MB of 8590MB]
+
+--------------------------------------------
+

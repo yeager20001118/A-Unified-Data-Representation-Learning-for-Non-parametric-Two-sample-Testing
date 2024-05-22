@@ -1,0 +1,55 @@
+device: cuda:0
+Files already downloaded and verified
+  0%|          | 0/100 [00:00<?, ?it/s]/data/gpfs/projects/punim2112/c2st_cifar10.py:195: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /opt/conda/conda-bld/pytorch_1666642975993/work/torch/csrc/utils/tensor_new.cpp:230.)
+  fused_stats = torch.logsumexp(torch.tensor(M), dim=0)
+  0%|          | 0/100 [00:54<?, ?it/s]
+0.3184090554714203
+0.3185347020626068
+0.31827500462532043
+0.31826627254486084
+0.318263441324234
+Traceback (most recent call last):
+  File "/data/gpfs/projects/punim2112/c2st_cifar10.py", line 199, in <module>
+    p_val = torch.mean(fused_stats >= original_stats)
+RuntimeError: mean(): could not infer output dtype. Input dtype must be either a floating point or complex dtype. Got: Bool
+
+-----------------------------------------------
+
+Finished with execution of c2st_cifar10.py script
+
+-----------------------------------------------
+
+Job ID           : 54862748
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 00:01:05 / 1-00:00:00
+
+Displaying overall resources usage from 2024-01-01 23:40:31 to 2024-01-01 23:41:36:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu078 : 
+                CPU# 1    : 1.0    (   0.3 /   0.8 /   0.0 /  99.0 ) 
+                CPU# 2    : 20.7   (  20.2 /   0.6 /   0.0 /  79.3 ) 
+                CPU# 3    : 4.8    (   1.8 /   3.0 /   0.0 /  95.2 ) 
+                CPU# 4    : 52.1   (  51.2 /   0.8 /   0.0 /  47.9 ) 
+
+                GPU# 1    : 50.6  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 3    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 1    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 0    
+  GPUs with usage <50%    : 0    
+  GPUs with usage >50%    : 1    
+
+Memory used (RAM)         : 34.9%  [3001MB of 8590MB]
+
+--------------------------------------------
+

@@ -1,0 +1,52 @@
+device: cuda:0
+Files already downloaded and verified
+  0%|          | 0/100 [00:00<?, ?it/s]  0%|          | 0/100 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/data/gpfs/projects/punim2112/c2st_cifar10.py", line 189, in <module>
+    M.append(permutate_on_data(S_test, n_train, N_PER, discriminator, inds))
+  File "/data/gpfs/projects/punim2112/utils.py", line 361, in permutate_on_data
+    return STAT_vector + [STAT] # (N_EPOCH+1,)
+  File "/home/xunyet/.conda/envs/research/lib/python3.9/site-packages/torch/_tensor.py", line 955, in __array__
+    return self.numpy()
+RuntimeError: Can't call numpy() on Tensor that requires grad. Use tensor.detach().numpy() instead.
+
+-----------------------------------------------
+
+Finished with execution of c2st_cifar10.py script
+
+-----------------------------------------------
+
+Job ID           : 54862706
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 00:00:30 / 1-00:00:00
+
+Displaying overall resources usage from 2024-01-01 23:39:01 to 2024-01-01 23:39:31:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu078 : 
+                CPU# 1    : -2.0   (  -1.0 /  -1.0 /  -1.0 /  -1.0 ) 
+                CPU# 2    : -2.0   (  -1.0 /  -1.0 /  -1.0 /  -1.0 ) 
+                CPU# 3    : -2.0   (  -1.0 /  -1.0 /  -1.0 /  -1.0 ) 
+                CPU# 4    : -2.0   (  -1.0 /  -1.0 /  -1.0 /  -1.0 ) 
+
+                GPU# 1    : -1.0  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 4    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 1    
+  GPUs with usage <50%    : 0    
+  GPUs with usage >50%    : 0    
+
+Memory used (RAM)         : 0.0%  [4MB of 8590MB]
+
+--------------------------------------------
+

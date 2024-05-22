@@ -1,0 +1,266 @@
+device: cuda:0
+Files already downloaded and verified
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [02:38<50:13, 158.59s/it] 10%|█         | 2/20 [05:15<47:13, 157.44s/it] 15%|█▌        | 3/20 [07:51<44:28, 156.97s/it] 20%|██        | 4/20 [10:28<41:47, 156.74s/it] 25%|██▌       | 5/20 [13:04<39:10, 156.68s/it] 30%|███       | 6/20 [15:40<36:32, 156.58s/it] 35%|███▌      | 7/20 [18:18<34:01, 157.01s/it] 40%|████      | 8/20 [20:57<31:28, 157.37s/it] 45%|████▌     | 9/20 [23:35<28:53, 157.62s/it] 50%|█████     | 10/20 [26:12<26:16, 157.60s/it] 55%|█████▌    | 11/20 [28:49<23:35, 157.24s/it] 60%|██████    | 12/20 [31:25<20:56, 157.09s/it] 65%|██████▌   | 13/20 [34:02<18:19, 157.03s/it] 70%|███████   | 14/20 [36:39<15:41, 156.90s/it] 75%|███████▌  | 15/20 [39:15<13:03, 156.62s/it] 80%|████████  | 16/20 [41:51<10:26, 156.51s/it] 85%|████████▌ | 17/20 [44:28<07:49, 156.51s/it] 90%|█████████ | 18/20 [47:04<05:12, 156.42s/it] 95%|█████████▌| 19/20 [49:40<02:36, 156.32s/it]100%|██████████| 20/20 [52:16<00:00, 156.27s/it]100%|██████████| 20/20 [52:16<00:00, 156.83s/it]
+Epoch [100/500], Loss: 0.0064
+Epoch [200/500], Loss: 0.0043
+Epoch [300/500], Loss: 0.0038
+Epoch [400/500], Loss: 0.0033
+Epoch [500/500], Loss: 0.0038
+0.35332709550857544
+0.3283142149448395
+0.3182978332042694
+1 1
+Test Power of C2ST-S:  1.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0077
+Epoch [200/500], Loss: 0.0045
+Epoch [300/500], Loss: 0.0037
+Epoch [400/500], Loss: 0.0036
+Epoch [500/500], Loss: 0.0035
+0.3333224058151245
+0.3339156210422516
+0.3383599519729614
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0069
+Epoch [200/500], Loss: 0.0045
+Epoch [300/500], Loss: 0.0040
+Epoch [400/500], Loss: 0.0034
+Epoch [500/500], Loss: 0.0032
+0.3387436270713806
+0.32828593254089355
+0.32833999395370483
+1 1
+Test Power of C2ST-S:  1.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0077
+Epoch [200/500], Loss: 0.0043
+Epoch [300/500], Loss: 0.0036
+Epoch [400/500], Loss: 0.0035
+Epoch [500/500], Loss: 0.0036
+0.3283439874649048
+0.3183383047580719
+0.3183263838291168
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0064
+Epoch [200/500], Loss: 0.0040
+Epoch [300/500], Loss: 0.0038
+Epoch [400/500], Loss: 0.0035
+Epoch [500/500], Loss: 0.0031
+0.33839038014411926
+0.31833547353744507
+0.32331982254981995
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0067
+Epoch [200/500], Loss: 0.0042
+Epoch [300/500], Loss: 0.0036
+Epoch [400/500], Loss: 0.0034
+Epoch [500/500], Loss: 0.0030
+0.3283744752407074
+0.318332701921463
+0.3182866871356964
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0075
+Epoch [200/500], Loss: 0.0048
+Epoch [300/500], Loss: 0.0036
+Epoch [400/500], Loss: 0.0036
+Epoch [500/500], Loss: 0.0033
+0.3483034074306488
+0.3282963037490845
+0.3233237564563751
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0066
+Epoch [200/500], Loss: 0.0044
+Epoch [300/500], Loss: 0.0041
+Epoch [400/500], Loss: 0.0037
+Epoch [500/500], Loss: 0.0032
+0.33833804726600647
+0.32415735721588135
+0.3283287286758423
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0068
+Epoch [200/500], Loss: 0.0048
+Epoch [300/500], Loss: 0.0033
+Epoch [400/500], Loss: 0.0033
+Epoch [500/500], Loss: 0.0034
+0.32834336161613464
+0.32333141565322876
+0.34832262992858887
+1 1
+Test Power of C2ST-S:  1.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0067
+Epoch [200/500], Loss: 0.0044
+Epoch [300/500], Loss: 0.0045
+Epoch [400/500], Loss: 0.0033
+Epoch [500/500], Loss: 0.0037
+0.33334237337112427
+0.33333587646484375
+0.3133658170700073
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0069
+Epoch [200/500], Loss: 0.0045
+Epoch [300/500], Loss: 0.0045
+Epoch [400/500], Loss: 0.0041
+Epoch [500/500], Loss: 0.0030
+0.3134167194366455
+0.3432966470718384
+0.33332329988479614
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0066
+Epoch [200/500], Loss: 0.0041
+Epoch [300/500], Loss: 0.0038
+Epoch [400/500], Loss: 0.0034
+Epoch [500/500], Loss: 0.0037
+0.3283509910106659
+0.32332098484039307
+0.3233424127101898
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0067
+Epoch [200/500], Loss: 0.0048
+Epoch [300/500], Loss: 0.0037
+Epoch [400/500], Loss: 0.0034
+Epoch [500/500], Loss: 0.0033
+0.3790702521800995
+0.323317289352417
+0.3133113384246826
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0066
+Epoch [200/500], Loss: 0.0044
+Epoch [300/500], Loss: 0.0041
+Epoch [400/500], Loss: 0.0039
+Epoch [500/500], Loss: 0.0033
+0.34338873624801636
+0.33333978056907654
+0.32331809401512146
+1 1
+Test Power of C2ST-S:  1.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0073
+Epoch [200/500], Loss: 0.0054
+Epoch [300/500], Loss: 0.0036
+Epoch [400/500], Loss: 0.0033
+Epoch [500/500], Loss: 0.0031
+0.3434010446071625
+0.3133304715156555
+0.31331413984298706
+1 1
+Test Power of C2ST-S:  1.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0069
+Epoch [200/500], Loss: 0.0043
+Epoch [300/500], Loss: 0.0037
+Epoch [400/500], Loss: 0.0034
+Epoch [500/500], Loss: 0.0034
+0.323628693819046
+0.32828566431999207
+0.3283161520957947
+1 1
+Test Power of C2ST-S:  1.0
+Test Power of C2ST-L:  1.0
+Epoch [100/500], Loss: 0.0066
+Epoch [200/500], Loss: 0.0043
+Epoch [300/500], Loss: 0.0036
+Epoch [400/500], Loss: 0.0038
+Epoch [500/500], Loss: 0.0037
+0.3482966721057892
+0.32828274369239807
+0.3333345353603363
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0065
+Epoch [200/500], Loss: 0.0044
+Epoch [300/500], Loss: 0.0039
+Epoch [400/500], Loss: 0.0043
+Epoch [500/500], Loss: 0.0032
+0.3484378755092621
+0.32333821058273315
+0.3283456861972809
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0065
+Epoch [200/500], Loss: 0.0045
+Epoch [300/500], Loss: 0.0037
+Epoch [400/500], Loss: 0.0035
+Epoch [500/500], Loss: 0.0029
+0.33834630250930786
+0.33331429958343506
+0.3183252215385437
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Epoch [100/500], Loss: 0.0069
+Epoch [200/500], Loss: 0.0044
+Epoch [300/500], Loss: 0.0035
+Epoch [400/500], Loss: 0.0036
+Epoch [500/500], Loss: 0.0032
+0.3232753276824951
+0.3182993233203888
+0.3186204135417938
+1 1
+Test Power of C2ST-S:  0.0
+Test Power of C2ST-L:  0.0
+Average Test Power of C2ST-S:  0.3
+Average Test Power of C2ST-L:  0.4
+
+-----------------------------------------------
+
+Finished with execution of c2st_semi_cifar10.py script
+
+-----------------------------------------------
+
+Job ID           : 54803212
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 00:52:28 / 1-00:00:00
+
+Displaying overall resources usage from 2023-12-30 10:35:10 to 2023-12-30 11:27:38:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu078 : 
+                CPU# 1    : 13.6   (  13.0 /   0.6 /   0.0 /  86.4 ) 
+                CPU# 2    : 28.0   (  27.6 /   0.4 /   0.0 /  72.0 ) 
+                CPU# 3    : 19.3   (  18.9 /   0.4 /   0.0 /  80.7 ) 
+                CPU# 4    : 39.9   (  39.2 /   0.6 /   0.0 /  60.1 ) 
+
+                GPU# 1    : 93.3  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 2    
+  CPUs with usage <50%    : 2    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 0    
+  GPUs with usage <50%    : 0    
+  GPUs with usage >50%    : 1    
+
+Memory used (RAM)         : 44.6%  [3830MB of 8590MB]
+
+--------------------------------------------
+

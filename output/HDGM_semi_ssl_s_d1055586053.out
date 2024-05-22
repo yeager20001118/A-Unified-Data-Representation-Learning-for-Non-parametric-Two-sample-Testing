@@ -1,0 +1,5949 @@
+device: cuda:0
+Epoch [60/3200], Loss: 0.9659
+Epoch [120/3200], Loss: 0.7053
+Epoch [180/3200], Loss: 0.5129
+Epoch [240/3200], Loss: 0.4617
+Epoch [300/3200], Loss: 0.3703
+Epoch [360/3200], Loss: 0.3557
+Epoch [420/3200], Loss: 0.3233
+Epoch [480/3200], Loss: 0.2762
+Epoch [540/3200], Loss: 0.2639
+Epoch [600/3200], Loss: 0.2413
+Epoch [660/3200], Loss: 0.1772
+Epoch [720/3200], Loss: 0.1698
+Epoch [780/3200], Loss: 0.1325
+Epoch [840/3200], Loss: 0.1055
+Epoch [900/3200], Loss: 0.0927
+Epoch [960/3200], Loss: 0.0878
+Epoch [1020/3200], Loss: 0.0845
+Epoch [1080/3200], Loss: 0.0818
+Epoch [1140/3200], Loss: 0.0799
+Epoch [1200/3200], Loss: 0.0776
+Epoch [1260/3200], Loss: 0.0753
+Epoch [1320/3200], Loss: 0.0860
+Epoch [1380/3200], Loss: 0.0613
+Epoch [1440/3200], Loss: 0.0246
+Epoch [1500/3200], Loss: 0.0458
+Epoch [1560/3200], Loss: 0.0067
+Epoch [1620/3200], Loss: 0.0094
+Epoch [1680/3200], Loss: 0.0044
+Epoch [1740/3200], Loss: 0.0032
+Epoch [1800/3200], Loss: 0.0387
+Epoch [1860/3200], Loss: 0.0024
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0022
+Epoch [2040/3200], Loss: 0.0017
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0017
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0048
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0019
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0010
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0007
+0.6627897024154663
+0.5907166600227356
+0.5394905805587769
+0.48298951983451843
+0.4577590227127075
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9594
+Epoch [120/3200], Loss: 0.6820
+Epoch [180/3200], Loss: 0.5610
+Epoch [240/3200], Loss: 0.4610
+Epoch [300/3200], Loss: 0.4071
+Epoch [360/3200], Loss: 0.3445
+Epoch [420/3200], Loss: 0.2787
+Epoch [480/3200], Loss: 0.2697
+Epoch [540/3200], Loss: 0.2676
+Epoch [600/3200], Loss: 0.2363
+Epoch [660/3200], Loss: 0.1762
+Epoch [720/3200], Loss: 0.1679
+Epoch [780/3200], Loss: 0.1634
+Epoch [840/3200], Loss: 0.1111
+Epoch [900/3200], Loss: 0.0238
+Epoch [960/3200], Loss: 0.0138
+Epoch [1020/3200], Loss: 0.0102
+Epoch [1080/3200], Loss: 0.0073
+Epoch [1140/3200], Loss: 0.0064
+Epoch [1200/3200], Loss: 0.0046
+Epoch [1260/3200], Loss: 0.0331
+Epoch [1320/3200], Loss: 0.0033
+Epoch [1380/3200], Loss: 0.0036
+Epoch [1440/3200], Loss: 0.0024
+Epoch [1500/3200], Loss: 0.0294
+Epoch [1560/3200], Loss: 0.0022
+Epoch [1620/3200], Loss: 0.0018
+Epoch [1680/3200], Loss: 0.0049
+Epoch [1740/3200], Loss: 0.0015
+Epoch [1800/3200], Loss: 0.0014
+Epoch [1860/3200], Loss: 0.0016
+Epoch [1920/3200], Loss: 0.0013
+Epoch [1980/3200], Loss: 0.0011
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0011
+Epoch [2160/3200], Loss: 0.0033
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0009
+Epoch [2340/3200], Loss: 0.0179
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0008
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0071
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0007
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0006
+Epoch [3060/3200], Loss: 0.0062
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0006
+0.6337868571281433
+0.5819926857948303
+0.5120253562927246
+0.42590829730033875
+0.35782840847969055
+Test Power of C2ST-L:  1.0
+Epoch [60/3200], Loss: 0.9704
+Epoch [120/3200], Loss: 0.7863
+Epoch [180/3200], Loss: 0.5137
+Epoch [240/3200], Loss: 0.4347
+Epoch [300/3200], Loss: 0.3832
+Epoch [360/3200], Loss: 0.3543
+Epoch [420/3200], Loss: 0.2855
+Epoch [480/3200], Loss: 0.2781
+Epoch [540/3200], Loss: 0.2706
+Epoch [600/3200], Loss: 0.2454
+Epoch [660/3200], Loss: 0.1831
+Epoch [720/3200], Loss: 0.1742
+Epoch [780/3200], Loss: 0.1708
+Epoch [840/3200], Loss: 0.1653
+Epoch [900/3200], Loss: 0.1381
+Epoch [960/3200], Loss: 0.1004
+Epoch [1020/3200], Loss: 0.0910
+Epoch [1080/3200], Loss: 0.0878
+Epoch [1140/3200], Loss: 0.0863
+Epoch [1200/3200], Loss: 0.0848
+Epoch [1260/3200], Loss: 0.0837
+Epoch [1320/3200], Loss: 0.1037
+Epoch [1380/3200], Loss: 0.0820
+Epoch [1440/3200], Loss: 0.0810
+Epoch [1500/3200], Loss: 0.0799
+Epoch [1560/3200], Loss: 0.0777
+Epoch [1620/3200], Loss: 0.0762
+Epoch [1680/3200], Loss: 0.1438
+Epoch [1740/3200], Loss: 0.0174
+Epoch [1800/3200], Loss: 0.0078
+Epoch [1860/3200], Loss: 0.0160
+Epoch [1920/3200], Loss: 0.0043
+Epoch [1980/3200], Loss: 0.0032
+Epoch [2040/3200], Loss: 0.0026
+Epoch [2100/3200], Loss: 0.0021
+Epoch [2160/3200], Loss: 0.0024
+Epoch [2220/3200], Loss: 0.0018
+Epoch [2280/3200], Loss: 0.0015
+Epoch [2340/3200], Loss: 0.0105
+Epoch [2400/3200], Loss: 0.0015
+Epoch [2460/3200], Loss: 0.0013
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0040
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0013
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0029
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0024
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.6664184331893921
+0.5716310739517212
+0.509523332118988
+0.42660918831825256
+0.36645200848579407
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9745
+Epoch [120/3200], Loss: 0.7038
+Epoch [180/3200], Loss: 0.5210
+Epoch [240/3200], Loss: 0.4002
+Epoch [300/3200], Loss: 0.3744
+Epoch [360/3200], Loss: 0.3207
+Epoch [420/3200], Loss: 0.2807
+Epoch [480/3200], Loss: 0.2739
+Epoch [540/3200], Loss: 0.2693
+Epoch [600/3200], Loss: 0.2644
+Epoch [660/3200], Loss: 0.2640
+Epoch [720/3200], Loss: 0.1800
+Epoch [780/3200], Loss: 0.1728
+Epoch [840/3200], Loss: 0.1854
+Epoch [900/3200], Loss: 0.1091
+Epoch [960/3200], Loss: 0.1049
+Epoch [1020/3200], Loss: 0.0915
+Epoch [1080/3200], Loss: 0.0854
+Epoch [1140/3200], Loss: 0.0731
+Epoch [1200/3200], Loss: 0.0641
+Epoch [1260/3200], Loss: 0.0168
+Epoch [1320/3200], Loss: 0.0098
+Epoch [1380/3200], Loss: 0.0068
+Epoch [1440/3200], Loss: 0.0077
+Epoch [1500/3200], Loss: 0.0045
+Epoch [1560/3200], Loss: 0.0036
+Epoch [1620/3200], Loss: 0.0030
+Epoch [1680/3200], Loss: 0.0109
+Epoch [1740/3200], Loss: 0.0028
+Epoch [1800/3200], Loss: 0.0022
+Epoch [1860/3200], Loss: 0.0019
+Epoch [1920/3200], Loss: 0.0373
+Epoch [1980/3200], Loss: 0.0017
+Epoch [2040/3200], Loss: 0.0015
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0312
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0040
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0015
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0028
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0054
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0010
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.6212171912193298
+0.540523886680603
+0.46858200430870056
+0.41597864031791687
+0.3699404001235962
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9789
+Epoch [120/3200], Loss: 0.7172
+Epoch [180/3200], Loss: 0.5402
+Epoch [240/3200], Loss: 0.3980
+Epoch [300/3200], Loss: 0.3740
+Epoch [360/3200], Loss: 0.3399
+Epoch [420/3200], Loss: 0.2818
+Epoch [480/3200], Loss: 0.2704
+Epoch [540/3200], Loss: 0.2612
+Epoch [600/3200], Loss: 0.2133
+Epoch [660/3200], Loss: 0.1686
+Epoch [720/3200], Loss: 0.1363
+Epoch [780/3200], Loss: 0.0946
+Epoch [840/3200], Loss: 0.0924
+Epoch [900/3200], Loss: 0.0874
+Epoch [960/3200], Loss: 0.0849
+Epoch [1020/3200], Loss: 0.0879
+Epoch [1080/3200], Loss: 0.0745
+Epoch [1140/3200], Loss: 0.0228
+Epoch [1200/3200], Loss: 0.0102
+Epoch [1260/3200], Loss: 0.0212
+Epoch [1320/3200], Loss: 0.0053
+Epoch [1380/3200], Loss: 0.0039
+Epoch [1440/3200], Loss: 0.0044
+Epoch [1500/3200], Loss: 0.0028
+Epoch [1560/3200], Loss: 0.0045
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0018
+Epoch [1740/3200], Loss: 0.0035
+Epoch [1800/3200], Loss: 0.0016
+Epoch [1860/3200], Loss: 0.0014
+Epoch [1920/3200], Loss: 0.0095
+Epoch [1980/3200], Loss: 0.0013
+Epoch [2040/3200], Loss: 0.0011
+Epoch [2100/3200], Loss: 0.0025
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0016
+Epoch [2340/3200], Loss: 0.0009
+Epoch [2400/3200], Loss: 0.0048
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0007
+Epoch [2820/3200], Loss: 0.0018
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0260
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0143
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0012
+0.6288424134254456
+0.5369403958320618
+0.46382617950439453
+0.400386244058609
+0.3547421991825104
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9744
+Epoch [120/3200], Loss: 0.7234
+Epoch [180/3200], Loss: 0.5056
+Epoch [240/3200], Loss: 0.4723
+Epoch [300/3200], Loss: 0.3860
+Epoch [360/3200], Loss: 0.3741
+Epoch [420/3200], Loss: 0.3664
+Epoch [480/3200], Loss: 0.3502
+Epoch [540/3200], Loss: 0.2822
+Epoch [600/3200], Loss: 0.2660
+Epoch [660/3200], Loss: 0.1848
+Epoch [720/3200], Loss: 0.2133
+Epoch [780/3200], Loss: 0.1137
+Epoch [840/3200], Loss: 0.1144
+Epoch [900/3200], Loss: 0.0974
+Epoch [960/3200], Loss: 0.0997
+Epoch [1020/3200], Loss: 0.0888
+Epoch [1080/3200], Loss: 0.0845
+Epoch [1140/3200], Loss: 0.0779
+Epoch [1200/3200], Loss: 0.0529
+Epoch [1260/3200], Loss: 0.0131
+Epoch [1320/3200], Loss: 0.0079
+Epoch [1380/3200], Loss: 0.0054
+Epoch [1440/3200], Loss: 0.0040
+Epoch [1500/3200], Loss: 0.0074
+Epoch [1560/3200], Loss: 0.0029
+Epoch [1620/3200], Loss: 0.0024
+Epoch [1680/3200], Loss: 0.0077
+Epoch [1740/3200], Loss: 0.0021
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0017
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0028
+Epoch [2040/3200], Loss: 0.0013
+Epoch [2100/3200], Loss: 0.0030
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0019
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0021
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0295
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0029
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0016
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0046
+Epoch [3180/3200], Loss: 0.0007
+0.6543905138969421
+0.5029214024543762
+0.43401870131492615
+0.37876901030540466
+0.3243734538555145
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9874
+Epoch [120/3200], Loss: 0.6669
+Epoch [180/3200], Loss: 0.5328
+Epoch [240/3200], Loss: 0.4055
+Epoch [300/3200], Loss: 0.3750
+Epoch [360/3200], Loss: 0.3623
+Epoch [420/3200], Loss: 0.2902
+Epoch [480/3200], Loss: 0.2772
+Epoch [540/3200], Loss: 0.2479
+Epoch [600/3200], Loss: 0.1925
+Epoch [660/3200], Loss: 0.1850
+Epoch [720/3200], Loss: 0.1792
+Epoch [780/3200], Loss: 0.2052
+Epoch [840/3200], Loss: 0.1721
+Epoch [900/3200], Loss: 0.1688
+Epoch [960/3200], Loss: 0.2201
+Epoch [1020/3200], Loss: 0.1049
+Epoch [1080/3200], Loss: 0.0890
+Epoch [1140/3200], Loss: 0.0836
+Epoch [1200/3200], Loss: 0.0624
+Epoch [1260/3200], Loss: 0.0263
+Epoch [1320/3200], Loss: 0.0103
+Epoch [1380/3200], Loss: 0.0066
+Epoch [1440/3200], Loss: 0.0048
+Epoch [1500/3200], Loss: 0.0038
+Epoch [1560/3200], Loss: 0.0035
+Epoch [1620/3200], Loss: 0.0065
+Epoch [1680/3200], Loss: 0.0022
+Epoch [1740/3200], Loss: 0.0026
+Epoch [1800/3200], Loss: 0.0018
+Epoch [1860/3200], Loss: 0.0027
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0180
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0041
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0023
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0046
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0056
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0006
+Epoch [3120/3200], Loss: 0.0011
+Epoch [3180/3200], Loss: 0.0006
+0.6548939347267151
+0.5508237481117249
+0.5017672777175903
+0.4561906158924103
+0.4532822072505951
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9715
+Epoch [120/3200], Loss: 0.7094
+Epoch [180/3200], Loss: 0.5667
+Epoch [240/3200], Loss: 0.4687
+Epoch [300/3200], Loss: 0.3884
+Epoch [360/3200], Loss: 0.3575
+Epoch [420/3200], Loss: 0.2892
+Epoch [480/3200], Loss: 0.2780
+Epoch [540/3200], Loss: 0.2788
+Epoch [600/3200], Loss: 0.2349
+Epoch [660/3200], Loss: 0.1869
+Epoch [720/3200], Loss: 0.1799
+Epoch [780/3200], Loss: 0.1785
+Epoch [840/3200], Loss: 0.1581
+Epoch [900/3200], Loss: 0.1046
+Epoch [960/3200], Loss: 0.0903
+Epoch [1020/3200], Loss: 0.0862
+Epoch [1080/3200], Loss: 0.1294
+Epoch [1140/3200], Loss: 0.0816
+Epoch [1200/3200], Loss: 0.0147
+Epoch [1260/3200], Loss: 0.0118
+Epoch [1320/3200], Loss: 0.0068
+Epoch [1380/3200], Loss: 0.0049
+Epoch [1440/3200], Loss: 0.0038
+Epoch [1500/3200], Loss: 0.0050
+Epoch [1560/3200], Loss: 0.0030
+Epoch [1620/3200], Loss: 0.0025
+Epoch [1680/3200], Loss: 0.0030
+Epoch [1740/3200], Loss: 0.0021
+Epoch [1800/3200], Loss: 0.0018
+Epoch [1860/3200], Loss: 0.0026
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0168
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0056
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0019
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0026
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0018
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0014
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0010
+0.6420056223869324
+0.5509698987007141
+0.4803510904312134
+0.44110390543937683
+0.4038296043872833
+Test Power of C2ST-L:  1.0
+Epoch [60/3200], Loss: 0.9767
+Epoch [120/3200], Loss: 0.7962
+Epoch [180/3200], Loss: 0.4936
+Epoch [240/3200], Loss: 0.4007
+Epoch [300/3200], Loss: 0.3798
+Epoch [360/3200], Loss: 0.3668
+Epoch [420/3200], Loss: 0.3200
+Epoch [480/3200], Loss: 0.2901
+Epoch [540/3200], Loss: 0.2808
+Epoch [600/3200], Loss: 0.2763
+Epoch [660/3200], Loss: 0.2577
+Epoch [720/3200], Loss: 0.1976
+Epoch [780/3200], Loss: 0.1627
+Epoch [840/3200], Loss: 0.1097
+Epoch [900/3200], Loss: 0.1045
+Epoch [960/3200], Loss: 0.0947
+Epoch [1020/3200], Loss: 0.0906
+Epoch [1080/3200], Loss: 0.0859
+Epoch [1140/3200], Loss: 0.0875
+Epoch [1200/3200], Loss: 0.0147
+Epoch [1260/3200], Loss: 0.0123
+Epoch [1320/3200], Loss: 0.0079
+Epoch [1380/3200], Loss: 0.0132
+Epoch [1440/3200], Loss: 0.0053
+Epoch [1500/3200], Loss: 0.0041
+Epoch [1560/3200], Loss: 0.0045
+Epoch [1620/3200], Loss: 0.0033
+Epoch [1680/3200], Loss: 0.0027
+Epoch [1740/3200], Loss: 0.0023
+Epoch [1800/3200], Loss: 0.0031
+Epoch [1860/3200], Loss: 0.0021
+Epoch [1920/3200], Loss: 0.0018
+Epoch [1980/3200], Loss: 0.0111
+Epoch [2040/3200], Loss: 0.0017
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0615
+Epoch [2220/3200], Loss: 0.0016
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0021
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0018
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0018
+Epoch [2820/3200], Loss: 0.0010
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0022
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0051
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0008
+0.6639471650123596
+0.587785005569458
+0.5154226422309875
+0.46282824873924255
+0.4267469644546509
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 1.0030
+Epoch [120/3200], Loss: 0.7893
+Epoch [180/3200], Loss: 0.5626
+Epoch [240/3200], Loss: 0.4883
+Epoch [300/3200], Loss: 0.3958
+Epoch [360/3200], Loss: 0.3716
+Epoch [420/3200], Loss: 0.3096
+Epoch [480/3200], Loss: 0.2800
+Epoch [540/3200], Loss: 0.2705
+Epoch [600/3200], Loss: 0.2493
+Epoch [660/3200], Loss: 0.1896
+Epoch [720/3200], Loss: 0.1800
+Epoch [780/3200], Loss: 0.1740
+Epoch [840/3200], Loss: 0.1643
+Epoch [900/3200], Loss: 0.1707
+Epoch [960/3200], Loss: 0.1050
+Epoch [1020/3200], Loss: 0.0945
+Epoch [1080/3200], Loss: 0.0903
+Epoch [1140/3200], Loss: 0.0875
+Epoch [1200/3200], Loss: 0.0852
+Epoch [1260/3200], Loss: 0.0826
+Epoch [1320/3200], Loss: 0.0795
+Epoch [1380/3200], Loss: 0.0314
+Epoch [1440/3200], Loss: 0.0140
+Epoch [1500/3200], Loss: 0.0064
+Epoch [1560/3200], Loss: 0.0042
+Epoch [1620/3200], Loss: 0.0056
+Epoch [1680/3200], Loss: 0.0028
+Epoch [1740/3200], Loss: 0.0117
+Epoch [1800/3200], Loss: 0.0022
+Epoch [1860/3200], Loss: 0.0018
+Epoch [1920/3200], Loss: 0.0025
+Epoch [1980/3200], Loss: 0.0016
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0025
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0108
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0047
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0118
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0065
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0010
+Epoch [2940/3200], Loss: 0.0011
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0007
+0.6547164916992188
+0.5821822285652161
+0.4845006763935089
+0.4119735360145569
+0.3516329228878021
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9845
+Epoch [120/3200], Loss: 0.7264
+Epoch [180/3200], Loss: 0.5738
+Epoch [240/3200], Loss: 0.4759
+Epoch [300/3200], Loss: 0.4059
+Epoch [360/3200], Loss: 0.3024
+Epoch [420/3200], Loss: 0.2857
+Epoch [480/3200], Loss: 0.2791
+Epoch [540/3200], Loss: 0.2744
+Epoch [600/3200], Loss: 0.2649
+Epoch [660/3200], Loss: 0.2178
+Epoch [720/3200], Loss: 0.1836
+Epoch [780/3200], Loss: 0.1759
+Epoch [840/3200], Loss: 0.1079
+Epoch [900/3200], Loss: 0.0978
+Epoch [960/3200], Loss: 0.0915
+Epoch [1020/3200], Loss: 0.0882
+Epoch [1080/3200], Loss: 0.0854
+Epoch [1140/3200], Loss: 0.0832
+Epoch [1200/3200], Loss: 0.0845
+Epoch [1260/3200], Loss: 0.0796
+Epoch [1320/3200], Loss: 0.0778
+Epoch [1380/3200], Loss: 0.0861
+Epoch [1440/3200], Loss: 0.0649
+Epoch [1500/3200], Loss: 0.0204
+Epoch [1560/3200], Loss: 0.0185
+Epoch [1620/3200], Loss: 0.0066
+Epoch [1680/3200], Loss: 0.0046
+Epoch [1740/3200], Loss: 0.0836
+Epoch [1800/3200], Loss: 0.0036
+Epoch [1860/3200], Loss: 0.0027
+Epoch [1920/3200], Loss: 0.0022
+Epoch [1980/3200], Loss: 0.0029
+Epoch [2040/3200], Loss: 0.0018
+Epoch [2100/3200], Loss: 0.0122
+Epoch [2160/3200], Loss: 0.0017
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0055
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0056
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0022
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0011
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0013
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0027
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.658683717250824
+0.6173422932624817
+0.5410609841346741
+0.4969651699066162
+0.4888671934604645
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9754
+Epoch [120/3200], Loss: 0.7545
+Epoch [180/3200], Loss: 0.5238
+Epoch [240/3200], Loss: 0.4160
+Epoch [300/3200], Loss: 0.3797
+Epoch [360/3200], Loss: 0.3700
+Epoch [420/3200], Loss: 0.3529
+Epoch [480/3200], Loss: 0.2728
+Epoch [540/3200], Loss: 0.2130
+Epoch [600/3200], Loss: 0.1876
+Epoch [660/3200], Loss: 0.1778
+Epoch [720/3200], Loss: 0.2133
+Epoch [780/3200], Loss: 0.1170
+Epoch [840/3200], Loss: 0.0998
+Epoch [900/3200], Loss: 0.0961
+Epoch [960/3200], Loss: 0.0920
+Epoch [1020/3200], Loss: 0.0898
+Epoch [1080/3200], Loss: 0.0867
+Epoch [1140/3200], Loss: 0.1097
+Epoch [1200/3200], Loss: 0.0813
+Epoch [1260/3200], Loss: 0.0764
+Epoch [1320/3200], Loss: 0.0999
+Epoch [1380/3200], Loss: 0.0277
+Epoch [1440/3200], Loss: 0.0072
+Epoch [1500/3200], Loss: 0.0049
+Epoch [1560/3200], Loss: 0.0046
+Epoch [1620/3200], Loss: 0.0033
+Epoch [1680/3200], Loss: 0.0036
+Epoch [1740/3200], Loss: 0.0025
+Epoch [1800/3200], Loss: 0.0021
+Epoch [1860/3200], Loss: 0.0022
+Epoch [1920/3200], Loss: 0.0018
+Epoch [1980/3200], Loss: 0.0022
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0018
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0177
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0019
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0103
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0420
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0043
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0007
+0.6564627885818481
+0.5695931911468506
+0.5219337940216064
+0.4656263589859009
+0.46562811732292175
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9656
+Epoch [120/3200], Loss: 0.7010
+Epoch [180/3200], Loss: 0.4851
+Epoch [240/3200], Loss: 0.4163
+Epoch [300/3200], Loss: 0.3644
+Epoch [360/3200], Loss: 0.3043
+Epoch [420/3200], Loss: 0.2711
+Epoch [480/3200], Loss: 0.2384
+Epoch [540/3200], Loss: 0.1856
+Epoch [600/3200], Loss: 0.1811
+Epoch [660/3200], Loss: 0.1735
+Epoch [720/3200], Loss: 0.1680
+Epoch [780/3200], Loss: 0.1545
+Epoch [840/3200], Loss: 0.1060
+Epoch [900/3200], Loss: 0.0939
+Epoch [960/3200], Loss: 0.0896
+Epoch [1020/3200], Loss: 0.0869
+Epoch [1080/3200], Loss: 0.0844
+Epoch [1140/3200], Loss: 0.0815
+Epoch [1200/3200], Loss: 0.0761
+Epoch [1260/3200], Loss: 0.0280
+Epoch [1320/3200], Loss: 0.0334
+Epoch [1380/3200], Loss: 0.0082
+Epoch [1440/3200], Loss: 0.0057
+Epoch [1500/3200], Loss: 0.0133
+Epoch [1560/3200], Loss: 0.0042
+Epoch [1620/3200], Loss: 0.0031
+Epoch [1680/3200], Loss: 0.0029
+Epoch [1740/3200], Loss: 0.0022
+Epoch [1800/3200], Loss: 0.0020
+Epoch [1860/3200], Loss: 0.0023
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0052
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0016
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0013
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0011
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0011
+Epoch [3180/3200], Loss: 0.0007
+0.6652769446372986
+0.5852240920066833
+0.4999368488788605
+0.44564512372016907
+0.39448538422584534
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9890
+Epoch [120/3200], Loss: 0.7855
+Epoch [180/3200], Loss: 0.5288
+Epoch [240/3200], Loss: 0.4023
+Epoch [300/3200], Loss: 0.3797
+Epoch [360/3200], Loss: 0.3684
+Epoch [420/3200], Loss: 0.3234
+Epoch [480/3200], Loss: 0.2782
+Epoch [540/3200], Loss: 0.2654
+Epoch [600/3200], Loss: 0.1975
+Epoch [660/3200], Loss: 0.1896
+Epoch [720/3200], Loss: 0.1789
+Epoch [780/3200], Loss: 0.1716
+Epoch [840/3200], Loss: 0.1144
+Epoch [900/3200], Loss: 0.0956
+Epoch [960/3200], Loss: 0.0891
+Epoch [1020/3200], Loss: 0.0836
+Epoch [1080/3200], Loss: 0.0512
+Epoch [1140/3200], Loss: 0.0127
+Epoch [1200/3200], Loss: 0.0098
+Epoch [1260/3200], Loss: 0.0061
+Epoch [1320/3200], Loss: 0.0055
+Epoch [1380/3200], Loss: 0.0034
+Epoch [1440/3200], Loss: 0.0032
+Epoch [1500/3200], Loss: 0.0024
+Epoch [1560/3200], Loss: 0.0026
+Epoch [1620/3200], Loss: 0.0020
+Epoch [1680/3200], Loss: 0.0389
+Epoch [1740/3200], Loss: 0.0017
+Epoch [1800/3200], Loss: 0.0055
+Epoch [1860/3200], Loss: 0.0015
+Epoch [1920/3200], Loss: 0.0013
+Epoch [1980/3200], Loss: 0.0017
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0024
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0015
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0166
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0015
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0018
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0227
+0.6603610515594482
+0.5678474307060242
+0.45983773469924927
+0.3883327841758728
+0.33004793524742126
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9610
+Epoch [120/3200], Loss: 0.7024
+Epoch [180/3200], Loss: 0.5034
+Epoch [240/3200], Loss: 0.4593
+Epoch [300/3200], Loss: 0.3843
+Epoch [360/3200], Loss: 0.3653
+Epoch [420/3200], Loss: 0.2875
+Epoch [480/3200], Loss: 0.2747
+Epoch [540/3200], Loss: 0.2657
+Epoch [600/3200], Loss: 0.2167
+Epoch [660/3200], Loss: 0.1882
+Epoch [720/3200], Loss: 0.1913
+Epoch [780/3200], Loss: 0.1760
+Epoch [840/3200], Loss: 0.1538
+Epoch [900/3200], Loss: 0.1032
+Epoch [960/3200], Loss: 0.0971
+Epoch [1020/3200], Loss: 0.1019
+Epoch [1080/3200], Loss: 0.0933
+Epoch [1140/3200], Loss: 0.0913
+Epoch [1200/3200], Loss: 0.0892
+Epoch [1260/3200], Loss: 0.0866
+Epoch [1320/3200], Loss: 0.0798
+Epoch [1380/3200], Loss: 0.0750
+Epoch [1440/3200], Loss: 0.0147
+Epoch [1500/3200], Loss: 0.0083
+Epoch [1560/3200], Loss: 0.0069
+Epoch [1620/3200], Loss: 0.0047
+Epoch [1680/3200], Loss: 0.0036
+Epoch [1740/3200], Loss: 0.0034
+Epoch [1800/3200], Loss: 0.0026
+Epoch [1860/3200], Loss: 0.0054
+Epoch [1920/3200], Loss: 0.0023
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0021
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0015
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0513
+Epoch [2460/3200], Loss: 0.0013
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0031
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0028
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0016
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0185
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0035
+0.6575701236724854
+0.544373095035553
+0.5613678693771362
+0.4253389537334442
+0.3816031813621521
+Test Power of C2ST-L:  1.0
+Epoch [60/3200], Loss: 0.9613
+Epoch [120/3200], Loss: 0.7963
+Epoch [180/3200], Loss: 0.5104
+Epoch [240/3200], Loss: 0.4738
+Epoch [300/3200], Loss: 0.3979
+Epoch [360/3200], Loss: 0.3475
+Epoch [420/3200], Loss: 0.2964
+Epoch [480/3200], Loss: 0.2884
+Epoch [540/3200], Loss: 0.2824
+Epoch [600/3200], Loss: 0.1979
+Epoch [660/3200], Loss: 0.1866
+Epoch [720/3200], Loss: 0.1871
+Epoch [780/3200], Loss: 0.1783
+Epoch [840/3200], Loss: 0.1738
+Epoch [900/3200], Loss: 0.1653
+Epoch [960/3200], Loss: 0.1155
+Epoch [1020/3200], Loss: 0.1008
+Epoch [1080/3200], Loss: 0.0934
+Epoch [1140/3200], Loss: 0.0868
+Epoch [1200/3200], Loss: 0.0858
+Epoch [1260/3200], Loss: 0.0162
+Epoch [1320/3200], Loss: 0.0085
+Epoch [1380/3200], Loss: 0.0060
+Epoch [1440/3200], Loss: 0.0046
+Epoch [1500/3200], Loss: 0.0037
+Epoch [1560/3200], Loss: 0.0046
+Epoch [1620/3200], Loss: 0.0030
+Epoch [1680/3200], Loss: 0.0025
+Epoch [1740/3200], Loss: 0.0022
+Epoch [1800/3200], Loss: 0.0023
+Epoch [1860/3200], Loss: 0.0018
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0025
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0015
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0174
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0012
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0027
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0010
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0063
+Epoch [3180/3200], Loss: 0.0007
+0.6651055812835693
+0.5950743556022644
+0.5320208072662354
+0.47610560059547424
+0.4393281936645508
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9571
+Epoch [120/3200], Loss: 0.6890
+Epoch [180/3200], Loss: 0.4891
+Epoch [240/3200], Loss: 0.4002
+Epoch [300/3200], Loss: 0.3739
+Epoch [360/3200], Loss: 0.3342
+Epoch [420/3200], Loss: 0.2792
+Epoch [480/3200], Loss: 0.2695
+Epoch [540/3200], Loss: 0.2630
+Epoch [600/3200], Loss: 0.2508
+Epoch [660/3200], Loss: 0.1954
+Epoch [720/3200], Loss: 0.1759
+Epoch [780/3200], Loss: 0.1509
+Epoch [840/3200], Loss: 0.1023
+Epoch [900/3200], Loss: 0.0948
+Epoch [960/3200], Loss: 0.0929
+Epoch [1020/3200], Loss: 0.0908
+Epoch [1080/3200], Loss: 0.0895
+Epoch [1140/3200], Loss: 0.1016
+Epoch [1200/3200], Loss: 0.0879
+Epoch [1260/3200], Loss: 0.0869
+Epoch [1320/3200], Loss: 0.0966
+Epoch [1380/3200], Loss: 0.0848
+Epoch [1440/3200], Loss: 0.0830
+Epoch [1500/3200], Loss: 0.0832
+Epoch [1560/3200], Loss: 0.0736
+Epoch [1620/3200], Loss: 0.0405
+Epoch [1680/3200], Loss: 0.0116
+Epoch [1740/3200], Loss: 0.0098
+Epoch [1800/3200], Loss: 0.0060
+Epoch [1860/3200], Loss: 0.0045
+Epoch [1920/3200], Loss: 0.0041
+Epoch [1980/3200], Loss: 0.0031
+Epoch [2040/3200], Loss: 0.0099
+Epoch [2100/3200], Loss: 0.0026
+Epoch [2160/3200], Loss: 0.0021
+Epoch [2220/3200], Loss: 0.0041
+Epoch [2280/3200], Loss: 0.0020
+Epoch [2340/3200], Loss: 0.0017
+Epoch [2400/3200], Loss: 0.0068
+Epoch [2460/3200], Loss: 0.0016
+Epoch [2520/3200], Loss: 0.0013
+Epoch [2580/3200], Loss: 0.0014
+Epoch [2640/3200], Loss: 0.0014
+Epoch [2700/3200], Loss: 0.0012
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0012
+Epoch [2880/3200], Loss: 0.0010
+Epoch [2940/3200], Loss: 0.0016
+Epoch [3000/3200], Loss: 0.0010
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0013
+Epoch [3180/3200], Loss: 0.0009
+0.661249041557312
+0.5751630663871765
+0.4493214786052704
+0.38687294721603394
+0.46135103702545166
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9547
+Epoch [120/3200], Loss: 0.7021
+Epoch [180/3200], Loss: 0.5379
+Epoch [240/3200], Loss: 0.4496
+Epoch [300/3200], Loss: 0.3692
+Epoch [360/3200], Loss: 0.2917
+Epoch [420/3200], Loss: 0.2758
+Epoch [480/3200], Loss: 0.2744
+Epoch [540/3200], Loss: 0.2729
+Epoch [600/3200], Loss: 0.2597
+Epoch [660/3200], Loss: 0.2011
+Epoch [720/3200], Loss: 0.1080
+Epoch [780/3200], Loss: 0.0995
+Epoch [840/3200], Loss: 0.0902
+Epoch [900/3200], Loss: 0.0863
+Epoch [960/3200], Loss: 0.0815
+Epoch [1020/3200], Loss: 0.0771
+Epoch [1080/3200], Loss: 0.1001
+Epoch [1140/3200], Loss: 0.0290
+Epoch [1200/3200], Loss: 0.0118
+Epoch [1260/3200], Loss: 0.0191
+Epoch [1320/3200], Loss: 0.0070
+Epoch [1380/3200], Loss: 0.0049
+Epoch [1440/3200], Loss: 0.0038
+Epoch [1500/3200], Loss: 0.0041
+Epoch [1560/3200], Loss: 0.0029
+Epoch [1620/3200], Loss: 0.0023
+Epoch [1680/3200], Loss: 0.0027
+Epoch [1740/3200], Loss: 0.0020
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0021
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0013
+Epoch [2040/3200], Loss: 0.0018
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0017
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0034
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0037
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0404
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0016
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0021
+0.6292733550071716
+0.48454004526138306
+0.4083711802959442
+0.3636837303638458
+0.32444220781326294
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9872
+Epoch [120/3200], Loss: 0.7323
+Epoch [180/3200], Loss: 0.5049
+Epoch [240/3200], Loss: 0.4222
+Epoch [300/3200], Loss: 0.3851
+Epoch [360/3200], Loss: 0.3473
+Epoch [420/3200], Loss: 0.2930
+Epoch [480/3200], Loss: 0.2780
+Epoch [540/3200], Loss: 0.2733
+Epoch [600/3200], Loss: 0.2621
+Epoch [660/3200], Loss: 0.1863
+Epoch [720/3200], Loss: 0.1843
+Epoch [780/3200], Loss: 0.1716
+Epoch [840/3200], Loss: 0.1631
+Epoch [900/3200], Loss: 0.1368
+Epoch [960/3200], Loss: 0.0929
+Epoch [1020/3200], Loss: 0.0885
+Epoch [1080/3200], Loss: 0.0863
+Epoch [1140/3200], Loss: 0.0853
+Epoch [1200/3200], Loss: 0.0825
+Epoch [1260/3200], Loss: 0.0921
+Epoch [1320/3200], Loss: 0.0413
+Epoch [1380/3200], Loss: 0.0336
+Epoch [1440/3200], Loss: 0.0077
+Epoch [1500/3200], Loss: 0.0050
+Epoch [1560/3200], Loss: 0.0041
+Epoch [1620/3200], Loss: 0.0038
+Epoch [1680/3200], Loss: 0.0026
+Epoch [1740/3200], Loss: 0.0028
+Epoch [1800/3200], Loss: 0.0020
+Epoch [1860/3200], Loss: 0.0045
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0181
+Epoch [2040/3200], Loss: 0.0015
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0020
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0030
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0061
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0014
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0010
+Epoch [3180/3200], Loss: 0.0007
+0.6665042042732239
+0.567912757396698
+0.47428467869758606
+0.3804185390472412
+0.3298661410808563
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9580
+Epoch [120/3200], Loss: 0.7213
+Epoch [180/3200], Loss: 0.6204
+Epoch [240/3200], Loss: 0.4749
+Epoch [300/3200], Loss: 0.4471
+Epoch [360/3200], Loss: 0.3375
+Epoch [420/3200], Loss: 0.2949
+Epoch [480/3200], Loss: 0.2786
+Epoch [540/3200], Loss: 0.2725
+Epoch [600/3200], Loss: 0.2672
+Epoch [660/3200], Loss: 0.2634
+Epoch [720/3200], Loss: 0.2605
+Epoch [780/3200], Loss: 0.2525
+Epoch [840/3200], Loss: 0.1995
+Epoch [900/3200], Loss: 0.1663
+Epoch [960/3200], Loss: 0.0955
+Epoch [1020/3200], Loss: 0.0881
+Epoch [1080/3200], Loss: 0.0874
+Epoch [1140/3200], Loss: 0.0800
+Epoch [1200/3200], Loss: 0.0806
+Epoch [1260/3200], Loss: 0.0413
+Epoch [1320/3200], Loss: 0.0106
+Epoch [1380/3200], Loss: 0.0068
+Epoch [1440/3200], Loss: 0.0051
+Epoch [1500/3200], Loss: 0.0123
+Epoch [1560/3200], Loss: 0.0038
+Epoch [1620/3200], Loss: 0.0031
+Epoch [1680/3200], Loss: 0.0026
+Epoch [1740/3200], Loss: 0.0023
+Epoch [1800/3200], Loss: 0.0026
+Epoch [1860/3200], Loss: 0.0019
+Epoch [1920/3200], Loss: 0.0037
+Epoch [1980/3200], Loss: 0.0016
+Epoch [2040/3200], Loss: 0.0030
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0024
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0024
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0012
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0029
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0043
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0030
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0007
+0.6574295163154602
+0.531593382358551
+0.4591015577316284
+0.3627479076385498
+0.26584628224372864
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9647
+Epoch [120/3200], Loss: 0.7058
+Epoch [180/3200], Loss: 0.5651
+Epoch [240/3200], Loss: 0.4341
+Epoch [300/3200], Loss: 0.3719
+Epoch [360/3200], Loss: 0.2948
+Epoch [420/3200], Loss: 0.2717
+Epoch [480/3200], Loss: 0.2631
+Epoch [540/3200], Loss: 0.2585
+Epoch [600/3200], Loss: 0.2528
+Epoch [660/3200], Loss: 0.2476
+Epoch [720/3200], Loss: 0.2297
+Epoch [780/3200], Loss: 0.1316
+Epoch [840/3200], Loss: 0.0988
+Epoch [900/3200], Loss: 0.0908
+Epoch [960/3200], Loss: 0.0864
+Epoch [1020/3200], Loss: 0.0834
+Epoch [1080/3200], Loss: 0.0781
+Epoch [1140/3200], Loss: 0.0702
+Epoch [1200/3200], Loss: 0.0328
+Epoch [1260/3200], Loss: 0.1203
+Epoch [1320/3200], Loss: 0.0104
+Epoch [1380/3200], Loss: 0.0100
+Epoch [1440/3200], Loss: 0.0064
+Epoch [1500/3200], Loss: 0.0049
+Epoch [1560/3200], Loss: 0.0111
+Epoch [1620/3200], Loss: 0.0036
+Epoch [1680/3200], Loss: 0.0029
+Epoch [1740/3200], Loss: 0.0033
+Epoch [1800/3200], Loss: 0.0024
+Epoch [1860/3200], Loss: 0.0020
+Epoch [1920/3200], Loss: 0.0022
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0077
+Epoch [2100/3200], Loss: 0.0016
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0021
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0018
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0020
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0030
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0018
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0011
+Epoch [3180/3200], Loss: 0.0007
+0.6453655362129211
+0.5984883904457092
+0.5706700682640076
+0.5376781821250916
+0.469445139169693
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9446
+Epoch [120/3200], Loss: 0.7496
+Epoch [180/3200], Loss: 0.5363
+Epoch [240/3200], Loss: 0.4224
+Epoch [300/3200], Loss: 0.3682
+Epoch [360/3200], Loss: 0.3538
+Epoch [420/3200], Loss: 0.2886
+Epoch [480/3200], Loss: 0.2635
+Epoch [540/3200], Loss: 0.1967
+Epoch [600/3200], Loss: 0.1750
+Epoch [660/3200], Loss: 0.1103
+Epoch [720/3200], Loss: 0.0996
+Epoch [780/3200], Loss: 0.0953
+Epoch [840/3200], Loss: 0.0923
+Epoch [900/3200], Loss: 0.1015
+Epoch [960/3200], Loss: 0.0862
+Epoch [1020/3200], Loss: 0.1038
+Epoch [1080/3200], Loss: 0.0814
+Epoch [1140/3200], Loss: 0.0829
+Epoch [1200/3200], Loss: 0.0701
+Epoch [1260/3200], Loss: 0.0325
+Epoch [1320/3200], Loss: 0.0112
+Epoch [1380/3200], Loss: 0.0375
+Epoch [1440/3200], Loss: 0.0062
+Epoch [1500/3200], Loss: 0.0046
+Epoch [1560/3200], Loss: 0.0036
+Epoch [1620/3200], Loss: 0.0041
+Epoch [1680/3200], Loss: 0.0030
+Epoch [1740/3200], Loss: 0.0024
+Epoch [1800/3200], Loss: 0.0035
+Epoch [1860/3200], Loss: 0.0020
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0022
+Epoch [2040/3200], Loss: 0.0015
+Epoch [2100/3200], Loss: 0.0033
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0014
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0013
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0021
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0011
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0326
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0009
+0.657450795173645
+0.5687690377235413
+0.4828581213951111
+0.4134579598903656
+0.3477649390697479
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9379
+Epoch [120/3200], Loss: 0.6846
+Epoch [180/3200], Loss: 0.5324
+Epoch [240/3200], Loss: 0.4699
+Epoch [300/3200], Loss: 0.4396
+Epoch [360/3200], Loss: 0.3582
+Epoch [420/3200], Loss: 0.2899
+Epoch [480/3200], Loss: 0.2667
+Epoch [540/3200], Loss: 0.2731
+Epoch [600/3200], Loss: 0.1786
+Epoch [660/3200], Loss: 0.1710
+Epoch [720/3200], Loss: 0.1611
+Epoch [780/3200], Loss: 0.1057
+Epoch [840/3200], Loss: 0.0884
+Epoch [900/3200], Loss: 0.0836
+Epoch [960/3200], Loss: 0.0807
+Epoch [1020/3200], Loss: 0.0757
+Epoch [1080/3200], Loss: 0.0472
+Epoch [1140/3200], Loss: 0.0143
+Epoch [1200/3200], Loss: 0.0097
+Epoch [1260/3200], Loss: 0.0065
+Epoch [1320/3200], Loss: 0.0077
+Epoch [1380/3200], Loss: 0.0044
+Epoch [1440/3200], Loss: 0.0045
+Epoch [1500/3200], Loss: 0.0032
+Epoch [1560/3200], Loss: 0.0026
+Epoch [1620/3200], Loss: 0.0026
+Epoch [1680/3200], Loss: 0.0021
+Epoch [1740/3200], Loss: 0.0090
+Epoch [1800/3200], Loss: 0.0018
+Epoch [1860/3200], Loss: 0.0015
+Epoch [1920/3200], Loss: 0.0043
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0013
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0191
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0037
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0070
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0011
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0037
+0.6429191827774048
+0.5513724088668823
+0.47634944319725037
+0.4412747919559479
+0.3966529667377472
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9729
+Epoch [120/3200], Loss: 0.7080
+Epoch [180/3200], Loss: 0.4867
+Epoch [240/3200], Loss: 0.3987
+Epoch [300/3200], Loss: 0.3716
+Epoch [360/3200], Loss: 0.3520
+Epoch [420/3200], Loss: 0.2816
+Epoch [480/3200], Loss: 0.2713
+Epoch [540/3200], Loss: 0.2637
+Epoch [600/3200], Loss: 0.2435
+Epoch [660/3200], Loss: 0.1848
+Epoch [720/3200], Loss: 0.1269
+Epoch [780/3200], Loss: 0.1022
+Epoch [840/3200], Loss: 0.0946
+Epoch [900/3200], Loss: 0.0903
+Epoch [960/3200], Loss: 0.0873
+Epoch [1020/3200], Loss: 0.0851
+Epoch [1080/3200], Loss: 0.0838
+Epoch [1140/3200], Loss: 0.0807
+Epoch [1200/3200], Loss: 0.0779
+Epoch [1260/3200], Loss: 0.0754
+Epoch [1320/3200], Loss: 0.0548
+Epoch [1380/3200], Loss: 0.0949
+Epoch [1440/3200], Loss: 0.0097
+Epoch [1500/3200], Loss: 0.1289
+Epoch [1560/3200], Loss: 0.0054
+Epoch [1620/3200], Loss: 0.0037
+Epoch [1680/3200], Loss: 0.0044
+Epoch [1740/3200], Loss: 0.0027
+Epoch [1800/3200], Loss: 0.0022
+Epoch [1860/3200], Loss: 0.0024
+Epoch [1920/3200], Loss: 0.0019
+Epoch [1980/3200], Loss: 0.0058
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0020
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0030
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0119
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0036
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0023
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0078
+Epoch [3180/3200], Loss: 0.0009
+0.657408595085144
+0.5467150807380676
+0.4917866885662079
+0.4417874217033386
+0.38880082964897156
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9674
+Epoch [120/3200], Loss: 0.6603
+Epoch [180/3200], Loss: 0.4787
+Epoch [240/3200], Loss: 0.4405
+Epoch [300/3200], Loss: 0.3605
+Epoch [360/3200], Loss: 0.2890
+Epoch [420/3200], Loss: 0.2688
+Epoch [480/3200], Loss: 0.2574
+Epoch [540/3200], Loss: 0.2093
+Epoch [600/3200], Loss: 0.1861
+Epoch [660/3200], Loss: 0.1807
+Epoch [720/3200], Loss: 0.1751
+Epoch [780/3200], Loss: 0.1714
+Epoch [840/3200], Loss: 0.1611
+Epoch [900/3200], Loss: 0.1561
+Epoch [960/3200], Loss: 0.0881
+Epoch [1020/3200], Loss: 0.0829
+Epoch [1080/3200], Loss: 0.0858
+Epoch [1140/3200], Loss: 0.0789
+Epoch [1200/3200], Loss: 0.0655
+Epoch [1260/3200], Loss: 0.0245
+Epoch [1320/3200], Loss: 0.0218
+Epoch [1380/3200], Loss: 0.0072
+Epoch [1440/3200], Loss: 0.0264
+Epoch [1500/3200], Loss: 0.0044
+Epoch [1560/3200], Loss: 0.0034
+Epoch [1620/3200], Loss: 0.0080
+Epoch [1680/3200], Loss: 0.0026
+Epoch [1740/3200], Loss: 0.0022
+Epoch [1800/3200], Loss: 0.0022
+Epoch [1860/3200], Loss: 0.0021
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0019
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0017
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0045
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0013
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0047
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0015
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0052
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0010
+0.6659995913505554
+0.5620456337928772
+0.5167304277420044
+0.48037177324295044
+0.44556939601898193
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 1.0132
+Epoch [120/3200], Loss: 0.7098
+Epoch [180/3200], Loss: 0.4968
+Epoch [240/3200], Loss: 0.4676
+Epoch [300/3200], Loss: 0.3400
+Epoch [360/3200], Loss: 0.2879
+Epoch [420/3200], Loss: 0.2821
+Epoch [480/3200], Loss: 0.2753
+Epoch [540/3200], Loss: 0.2712
+Epoch [600/3200], Loss: 0.2827
+Epoch [660/3200], Loss: 0.2392
+Epoch [720/3200], Loss: 0.1814
+Epoch [780/3200], Loss: 0.1712
+Epoch [840/3200], Loss: 0.1214
+Epoch [900/3200], Loss: 0.1051
+Epoch [960/3200], Loss: 0.0939
+Epoch [1020/3200], Loss: 0.0887
+Epoch [1080/3200], Loss: 0.0817
+Epoch [1140/3200], Loss: 0.0322
+Epoch [1200/3200], Loss: 0.0095
+Epoch [1260/3200], Loss: 0.0078
+Epoch [1320/3200], Loss: 0.0053
+Epoch [1380/3200], Loss: 0.0041
+Epoch [1440/3200], Loss: 0.0041
+Epoch [1500/3200], Loss: 0.0031
+Epoch [1560/3200], Loss: 0.0032
+Epoch [1620/3200], Loss: 0.0025
+Epoch [1680/3200], Loss: 0.0022
+Epoch [1740/3200], Loss: 0.0163
+Epoch [1800/3200], Loss: 0.0020
+Epoch [1860/3200], Loss: 0.0016
+Epoch [1920/3200], Loss: 0.0014
+Epoch [1980/3200], Loss: 0.0021
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0016
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0012
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0293
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0007
+0.6633439660072327
+0.5637115240097046
+0.5094218850135803
+0.4657253623008728
+0.43623507022857666
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9426
+Epoch [120/3200], Loss: 0.7092
+Epoch [180/3200], Loss: 0.5000
+Epoch [240/3200], Loss: 0.3933
+Epoch [300/3200], Loss: 0.3757
+Epoch [360/3200], Loss: 0.3680
+Epoch [420/3200], Loss: 0.3234
+Epoch [480/3200], Loss: 0.2752
+Epoch [540/3200], Loss: 0.2688
+Epoch [600/3200], Loss: 0.2633
+Epoch [660/3200], Loss: 0.2565
+Epoch [720/3200], Loss: 0.2015
+Epoch [780/3200], Loss: 0.1769
+Epoch [840/3200], Loss: 0.1665
+Epoch [900/3200], Loss: 0.1564
+Epoch [960/3200], Loss: 0.1065
+Epoch [1020/3200], Loss: 0.0893
+Epoch [1080/3200], Loss: 0.0846
+Epoch [1140/3200], Loss: 0.0752
+Epoch [1200/3200], Loss: 0.0262
+Epoch [1260/3200], Loss: 0.0102
+Epoch [1320/3200], Loss: 0.0070
+Epoch [1380/3200], Loss: 0.0053
+Epoch [1440/3200], Loss: 0.0538
+Epoch [1500/3200], Loss: 0.0038
+Epoch [1560/3200], Loss: 0.0031
+Epoch [1620/3200], Loss: 0.0141
+Epoch [1680/3200], Loss: 0.0025
+Epoch [1740/3200], Loss: 0.0021
+Epoch [1800/3200], Loss: 0.0019
+Epoch [1860/3200], Loss: 0.0021
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0017
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0014
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0083
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0011
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0018
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0093
+0.6320770382881165
+0.5173308253288269
+0.4259094297885895
+0.3791548013687134
+0.3187704384326935
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9599
+Epoch [120/3200], Loss: 0.7813
+Epoch [180/3200], Loss: 0.5299
+Epoch [240/3200], Loss: 0.4574
+Epoch [300/3200], Loss: 0.3748
+Epoch [360/3200], Loss: 0.3590
+Epoch [420/3200], Loss: 0.2955
+Epoch [480/3200], Loss: 0.2370
+Epoch [540/3200], Loss: 0.1860
+Epoch [600/3200], Loss: 0.1776
+Epoch [660/3200], Loss: 0.1702
+Epoch [720/3200], Loss: 0.1625
+Epoch [780/3200], Loss: 0.0963
+Epoch [840/3200], Loss: 0.0899
+Epoch [900/3200], Loss: 0.0862
+Epoch [960/3200], Loss: 0.0831
+Epoch [1020/3200], Loss: 0.0830
+Epoch [1080/3200], Loss: 0.0763
+Epoch [1140/3200], Loss: 0.1322
+Epoch [1200/3200], Loss: 0.0193
+Epoch [1260/3200], Loss: 0.0097
+Epoch [1320/3200], Loss: 0.0084
+Epoch [1380/3200], Loss: 0.0060
+Epoch [1440/3200], Loss: 0.0049
+Epoch [1500/3200], Loss: 0.0046
+Epoch [1560/3200], Loss: 0.0036
+Epoch [1620/3200], Loss: 0.0030
+Epoch [1680/3200], Loss: 0.0038
+Epoch [1740/3200], Loss: 0.0027
+Epoch [1800/3200], Loss: 0.0023
+Epoch [1860/3200], Loss: 0.0020
+Epoch [1920/3200], Loss: 0.0023
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0167
+Epoch [2160/3200], Loss: 0.0016
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0016
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0022
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0393
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0011
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0007
+0.6546318531036377
+0.5647546052932739
+0.4821516275405884
+0.41820546984672546
+0.36377522349357605
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9671
+Epoch [120/3200], Loss: 0.7136
+Epoch [180/3200], Loss: 0.4979
+Epoch [240/3200], Loss: 0.4733
+Epoch [300/3200], Loss: 0.3994
+Epoch [360/3200], Loss: 0.3771
+Epoch [420/3200], Loss: 0.3605
+Epoch [480/3200], Loss: 0.2848
+Epoch [540/3200], Loss: 0.2693
+Epoch [600/3200], Loss: 0.2588
+Epoch [660/3200], Loss: 0.2262
+Epoch [720/3200], Loss: 0.1135
+Epoch [780/3200], Loss: 0.0983
+Epoch [840/3200], Loss: 0.0919
+Epoch [900/3200], Loss: 0.0873
+Epoch [960/3200], Loss: 0.0851
+Epoch [1020/3200], Loss: 0.0833
+Epoch [1080/3200], Loss: 0.0732
+Epoch [1140/3200], Loss: 0.0691
+Epoch [1200/3200], Loss: 0.0120
+Epoch [1260/3200], Loss: 0.0073
+Epoch [1320/3200], Loss: 0.0053
+Epoch [1380/3200], Loss: 0.0052
+Epoch [1440/3200], Loss: 0.0038
+Epoch [1500/3200], Loss: 0.0031
+Epoch [1560/3200], Loss: 0.0026
+Epoch [1620/3200], Loss: 0.0045
+Epoch [1680/3200], Loss: 0.0023
+Epoch [1740/3200], Loss: 0.0020
+Epoch [1800/3200], Loss: 0.0025
+Epoch [1860/3200], Loss: 0.0017
+Epoch [1920/3200], Loss: 0.0072
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0081
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0033
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0014
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0050
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0012
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0146
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0012
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0121
+0.6181488633155823
+0.5213841795921326
+0.45205411314964294
+0.38473284244537354
+0.36039450764656067
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9705
+Epoch [120/3200], Loss: 0.7036
+Epoch [180/3200], Loss: 0.6077
+Epoch [240/3200], Loss: 0.4729
+Epoch [300/3200], Loss: 0.3894
+Epoch [360/3200], Loss: 0.3570
+Epoch [420/3200], Loss: 0.2890
+Epoch [480/3200], Loss: 0.2758
+Epoch [540/3200], Loss: 0.2763
+Epoch [600/3200], Loss: 0.2605
+Epoch [660/3200], Loss: 0.2042
+Epoch [720/3200], Loss: 0.1754
+Epoch [780/3200], Loss: 0.1442
+Epoch [840/3200], Loss: 0.0991
+Epoch [900/3200], Loss: 0.0911
+Epoch [960/3200], Loss: 0.0671
+Epoch [1020/3200], Loss: 0.0191
+Epoch [1080/3200], Loss: 0.0130
+Epoch [1140/3200], Loss: 0.0078
+Epoch [1200/3200], Loss: 0.0064
+Epoch [1260/3200], Loss: 0.0045
+Epoch [1320/3200], Loss: 0.0042
+Epoch [1380/3200], Loss: 0.0031
+Epoch [1440/3200], Loss: 0.0034
+Epoch [1500/3200], Loss: 0.0023
+Epoch [1560/3200], Loss: 0.0020
+Epoch [1620/3200], Loss: 0.0030
+Epoch [1680/3200], Loss: 0.0018
+Epoch [1740/3200], Loss: 0.0015
+Epoch [1800/3200], Loss: 0.0024
+Epoch [1860/3200], Loss: 0.0014
+Epoch [1920/3200], Loss: 0.0012
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0013
+Epoch [2100/3200], Loss: 0.0011
+Epoch [2160/3200], Loss: 0.0045
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0025
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0008
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0062
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0053
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0019
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0065
+Epoch [3180/3200], Loss: 0.0007
+0.6673710346221924
+0.5753803849220276
+0.4985407888889313
+0.43653249740600586
+0.38148465752601624
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9760
+Epoch [120/3200], Loss: 0.7186
+Epoch [180/3200], Loss: 0.4950
+Epoch [240/3200], Loss: 0.4765
+Epoch [300/3200], Loss: 0.3636
+Epoch [360/3200], Loss: 0.3583
+Epoch [420/3200], Loss: 0.3180
+Epoch [480/3200], Loss: 0.2714
+Epoch [540/3200], Loss: 0.2629
+Epoch [600/3200], Loss: 0.2674
+Epoch [660/3200], Loss: 0.1838
+Epoch [720/3200], Loss: 0.1746
+Epoch [780/3200], Loss: 0.1701
+Epoch [840/3200], Loss: 0.1657
+Epoch [900/3200], Loss: 0.1576
+Epoch [960/3200], Loss: 0.1266
+Epoch [1020/3200], Loss: 0.0980
+Epoch [1080/3200], Loss: 0.0914
+Epoch [1140/3200], Loss: 0.0973
+Epoch [1200/3200], Loss: 0.0853
+Epoch [1260/3200], Loss: 0.0814
+Epoch [1320/3200], Loss: 0.0749
+Epoch [1380/3200], Loss: 0.0187
+Epoch [1440/3200], Loss: 0.0120
+Epoch [1500/3200], Loss: 0.0067
+Epoch [1560/3200], Loss: 0.0059
+Epoch [1620/3200], Loss: 0.0040
+Epoch [1680/3200], Loss: 0.0042
+Epoch [1740/3200], Loss: 0.0029
+Epoch [1800/3200], Loss: 0.0024
+Epoch [1860/3200], Loss: 0.0026
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0017
+Epoch [2040/3200], Loss: 0.0024
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0016
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0042
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0021
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0023
+Epoch [3120/3200], Loss: 0.0010
+Epoch [3180/3200], Loss: 0.0007
+0.6604811549186707
+0.5873737931251526
+0.5315032601356506
+0.47165369987487793
+0.4022345542907715
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9498
+Epoch [120/3200], Loss: 0.6864
+Epoch [180/3200], Loss: 0.4965
+Epoch [240/3200], Loss: 0.4650
+Epoch [300/3200], Loss: 0.3672
+Epoch [360/3200], Loss: 0.3002
+Epoch [420/3200], Loss: 0.2723
+Epoch [480/3200], Loss: 0.2662
+Epoch [540/3200], Loss: 0.2693
+Epoch [600/3200], Loss: 0.1876
+Epoch [660/3200], Loss: 0.1799
+Epoch [720/3200], Loss: 0.1754
+Epoch [780/3200], Loss: 0.1712
+Epoch [840/3200], Loss: 0.1633
+Epoch [900/3200], Loss: 0.1206
+Epoch [960/3200], Loss: 0.0884
+Epoch [1020/3200], Loss: 0.0844
+Epoch [1080/3200], Loss: 0.0817
+Epoch [1140/3200], Loss: 0.0797
+Epoch [1200/3200], Loss: 0.0752
+Epoch [1260/3200], Loss: 0.1093
+Epoch [1320/3200], Loss: 0.0199
+Epoch [1380/3200], Loss: 0.0116
+Epoch [1440/3200], Loss: 0.0089
+Epoch [1500/3200], Loss: 0.0115
+Epoch [1560/3200], Loss: 0.0051
+Epoch [1620/3200], Loss: 0.0052
+Epoch [1680/3200], Loss: 0.0034
+Epoch [1740/3200], Loss: 0.0072
+Epoch [1800/3200], Loss: 0.0028
+Epoch [1860/3200], Loss: 0.0023
+Epoch [1920/3200], Loss: 0.0024
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0039
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0026
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0039
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0018
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0067
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0010
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0016
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0045
+Epoch [3180/3200], Loss: 0.0007
+0.6324191689491272
+0.5313817262649536
+0.43635252118110657
+0.3694808781147003
+0.31380751729011536
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9911
+Epoch [120/3200], Loss: 0.7813
+Epoch [180/3200], Loss: 0.5099
+Epoch [240/3200], Loss: 0.4605
+Epoch [300/3200], Loss: 0.3852
+Epoch [360/3200], Loss: 0.3756
+Epoch [420/3200], Loss: 0.3701
+Epoch [480/3200], Loss: 0.3594
+Epoch [540/3200], Loss: 0.2832
+Epoch [600/3200], Loss: 0.2679
+Epoch [660/3200], Loss: 0.2546
+Epoch [720/3200], Loss: 0.3790
+Epoch [780/3200], Loss: 0.1860
+Epoch [840/3200], Loss: 0.1749
+Epoch [900/3200], Loss: 0.1645
+Epoch [960/3200], Loss: 0.0740
+Epoch [1020/3200], Loss: 0.0289
+Epoch [1080/3200], Loss: 0.0139
+Epoch [1140/3200], Loss: 0.0174
+Epoch [1200/3200], Loss: 0.0078
+Epoch [1260/3200], Loss: 0.0057
+Epoch [1320/3200], Loss: 0.0044
+Epoch [1380/3200], Loss: 0.0036
+Epoch [1440/3200], Loss: 0.0034
+Epoch [1500/3200], Loss: 0.0027
+Epoch [1560/3200], Loss: 0.0044
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0019
+Epoch [1740/3200], Loss: 0.0020
+Epoch [1800/3200], Loss: 0.0016
+Epoch [1860/3200], Loss: 0.0014
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0013
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0015
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0012
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0049
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0012
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0011
+Epoch [3180/3200], Loss: 0.0007
+0.6437963843345642
+0.5279855728149414
+0.4671989679336548
+0.413255512714386
+0.3742670714855194
+Test Power of C2ST-L:  1.0
+Epoch [60/3200], Loss: 0.9273
+Epoch [120/3200], Loss: 0.7646
+Epoch [180/3200], Loss: 0.5592
+Epoch [240/3200], Loss: 0.3924
+Epoch [300/3200], Loss: 0.3638
+Epoch [360/3200], Loss: 0.3445
+Epoch [420/3200], Loss: 0.2758
+Epoch [480/3200], Loss: 0.2627
+Epoch [540/3200], Loss: 0.2546
+Epoch [600/3200], Loss: 0.2465
+Epoch [660/3200], Loss: 0.1900
+Epoch [720/3200], Loss: 0.1708
+Epoch [780/3200], Loss: 0.1726
+Epoch [840/3200], Loss: 0.1578
+Epoch [900/3200], Loss: 0.1229
+Epoch [960/3200], Loss: 0.0933
+Epoch [1020/3200], Loss: 0.0893
+Epoch [1080/3200], Loss: 0.0856
+Epoch [1140/3200], Loss: 0.0893
+Epoch [1200/3200], Loss: 0.0819
+Epoch [1260/3200], Loss: 0.0800
+Epoch [1320/3200], Loss: 0.0785
+Epoch [1380/3200], Loss: 0.0744
+Epoch [1440/3200], Loss: 0.1717
+Epoch [1500/3200], Loss: 0.0190
+Epoch [1560/3200], Loss: 0.0103
+Epoch [1620/3200], Loss: 0.0089
+Epoch [1680/3200], Loss: 0.0060
+Epoch [1740/3200], Loss: 0.0062
+Epoch [1800/3200], Loss: 0.0043
+Epoch [1860/3200], Loss: 0.0033
+Epoch [1920/3200], Loss: 0.0026
+Epoch [1980/3200], Loss: 0.0037
+Epoch [2040/3200], Loss: 0.0022
+Epoch [2100/3200], Loss: 0.0019
+Epoch [2160/3200], Loss: 0.0016
+Epoch [2220/3200], Loss: 0.0016
+Epoch [2280/3200], Loss: 0.0014
+Epoch [2340/3200], Loss: 0.0305
+Epoch [2400/3200], Loss: 0.0013
+Epoch [2460/3200], Loss: 0.0093
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0013
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0016
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0011
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0051
+Epoch [3180/3200], Loss: 0.0009
+0.6402184367179871
+0.577699601650238
+0.5468088984489441
+0.5113717913627625
+0.4621317386627197
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9634
+Epoch [120/3200], Loss: 0.6922
+Epoch [180/3200], Loss: 0.5044
+Epoch [240/3200], Loss: 0.4595
+Epoch [300/3200], Loss: 0.3811
+Epoch [360/3200], Loss: 0.3615
+Epoch [420/3200], Loss: 0.2978
+Epoch [480/3200], Loss: 0.2820
+Epoch [540/3200], Loss: 0.2764
+Epoch [600/3200], Loss: 0.2728
+Epoch [660/3200], Loss: 0.2690
+Epoch [720/3200], Loss: 0.2654
+Epoch [780/3200], Loss: 0.2620
+Epoch [840/3200], Loss: 0.2728
+Epoch [900/3200], Loss: 0.1917
+Epoch [960/3200], Loss: 0.1778
+Epoch [1020/3200], Loss: 0.1739
+Epoch [1080/3200], Loss: 0.1641
+Epoch [1140/3200], Loss: 0.1413
+Epoch [1200/3200], Loss: 0.0929
+Epoch [1260/3200], Loss: 0.0637
+Epoch [1320/3200], Loss: 0.0150
+Epoch [1380/3200], Loss: 0.0098
+Epoch [1440/3200], Loss: 0.0432
+Epoch [1500/3200], Loss: 0.0061
+Epoch [1560/3200], Loss: 0.0048
+Epoch [1620/3200], Loss: 0.0039
+Epoch [1680/3200], Loss: 0.0032
+Epoch [1740/3200], Loss: 0.0037
+Epoch [1800/3200], Loss: 0.0026
+Epoch [1860/3200], Loss: 0.0022
+Epoch [1920/3200], Loss: 0.0033
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0016
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0020
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0058
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0037
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0010
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0037
+Epoch [3180/3200], Loss: 0.0008
+0.6544989943504333
+0.567509651184082
+0.46880069375038147
+0.406572550535202
+0.3637382388114929
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9776
+Epoch [120/3200], Loss: 0.7394
+Epoch [180/3200], Loss: 0.5141
+Epoch [240/3200], Loss: 0.4558
+Epoch [300/3200], Loss: 0.3678
+Epoch [360/3200], Loss: 0.3039
+Epoch [420/3200], Loss: 0.2811
+Epoch [480/3200], Loss: 0.2374
+Epoch [540/3200], Loss: 0.1921
+Epoch [600/3200], Loss: 0.1813
+Epoch [660/3200], Loss: 0.1244
+Epoch [720/3200], Loss: 0.1039
+Epoch [780/3200], Loss: 0.0949
+Epoch [840/3200], Loss: 0.0904
+Epoch [900/3200], Loss: 0.0875
+Epoch [960/3200], Loss: 0.0850
+Epoch [1020/3200], Loss: 0.0853
+Epoch [1080/3200], Loss: 0.0774
+Epoch [1140/3200], Loss: 0.0719
+Epoch [1200/3200], Loss: 0.0155
+Epoch [1260/3200], Loss: 0.0092
+Epoch [1320/3200], Loss: 0.0090
+Epoch [1380/3200], Loss: 0.0059
+Epoch [1440/3200], Loss: 0.0046
+Epoch [1500/3200], Loss: 0.0045
+Epoch [1560/3200], Loss: 0.0044
+Epoch [1620/3200], Loss: 0.0032
+Epoch [1680/3200], Loss: 0.0027
+Epoch [1740/3200], Loss: 0.0023
+Epoch [1800/3200], Loss: 0.0024
+Epoch [1860/3200], Loss: 0.0019
+Epoch [1920/3200], Loss: 0.0267
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0015
+Epoch [2100/3200], Loss: 0.0049
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0022
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0037
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0013
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0015
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0066
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0019
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.6679158210754395
+0.6021119952201843
+0.5151047706604004
+0.4670538008213043
+0.4061254858970642
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9957
+Epoch [120/3200], Loss: 0.7611
+Epoch [180/3200], Loss: 0.5345
+Epoch [240/3200], Loss: 0.4812
+Epoch [300/3200], Loss: 0.3961
+Epoch [360/3200], Loss: 0.3812
+Epoch [420/3200], Loss: 0.3652
+Epoch [480/3200], Loss: 0.2861
+Epoch [540/3200], Loss: 0.2926
+Epoch [600/3200], Loss: 0.2707
+Epoch [660/3200], Loss: 0.2610
+Epoch [720/3200], Loss: 0.2956
+Epoch [780/3200], Loss: 0.1831
+Epoch [840/3200], Loss: 0.1771
+Epoch [900/3200], Loss: 0.1031
+Epoch [960/3200], Loss: 0.0969
+Epoch [1020/3200], Loss: 0.0923
+Epoch [1080/3200], Loss: 0.0900
+Epoch [1140/3200], Loss: 0.0353
+Epoch [1200/3200], Loss: 0.0251
+Epoch [1260/3200], Loss: 0.0134
+Epoch [1320/3200], Loss: 0.0095
+Epoch [1380/3200], Loss: 0.0073
+Epoch [1440/3200], Loss: 0.0058
+Epoch [1500/3200], Loss: 0.0047
+Epoch [1560/3200], Loss: 0.0040
+Epoch [1620/3200], Loss: 0.0034
+Epoch [1680/3200], Loss: 0.0047
+Epoch [1740/3200], Loss: 0.0028
+Epoch [1800/3200], Loss: 0.0024
+Epoch [1860/3200], Loss: 0.0021
+Epoch [1920/3200], Loss: 0.0034
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0024
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0034
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0027
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0014
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0019
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0024
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0098
+0.6699589490890503
+0.6139324307441711
+0.5470908880233765
+0.5054483413696289
+0.4407918155193329
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9397
+Epoch [120/3200], Loss: 0.6925
+Epoch [180/3200], Loss: 0.5219
+Epoch [240/3200], Loss: 0.4701
+Epoch [300/3200], Loss: 0.3971
+Epoch [360/3200], Loss: 0.3724
+Epoch [420/3200], Loss: 0.2854
+Epoch [480/3200], Loss: 0.2798
+Epoch [540/3200], Loss: 0.2264
+Epoch [600/3200], Loss: 0.1818
+Epoch [660/3200], Loss: 0.1730
+Epoch [720/3200], Loss: 0.1667
+Epoch [780/3200], Loss: 0.1765
+Epoch [840/3200], Loss: 0.1008
+Epoch [900/3200], Loss: 0.0925
+Epoch [960/3200], Loss: 0.0993
+Epoch [1020/3200], Loss: 0.0719
+Epoch [1080/3200], Loss: 0.0189
+Epoch [1140/3200], Loss: 0.0522
+Epoch [1200/3200], Loss: 0.0068
+Epoch [1260/3200], Loss: 0.0049
+Epoch [1320/3200], Loss: 0.0075
+Epoch [1380/3200], Loss: 0.0035
+Epoch [1440/3200], Loss: 0.0028
+Epoch [1500/3200], Loss: 0.0027
+Epoch [1560/3200], Loss: 0.0022
+Epoch [1620/3200], Loss: 0.0029
+Epoch [1680/3200], Loss: 0.0018
+Epoch [1740/3200], Loss: 0.0017
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0014
+Epoch [1920/3200], Loss: 0.0013
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0061
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0017
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0013
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0031
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0014
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0313
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0015
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0040
+0.6536596417427063
+0.5881507396697998
+0.5322414636611938
+0.4494953751564026
+0.392442524433136
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9902
+Epoch [120/3200], Loss: 0.7240
+Epoch [180/3200], Loss: 0.5165
+Epoch [240/3200], Loss: 0.4707
+Epoch [300/3200], Loss: 0.3902
+Epoch [360/3200], Loss: 0.3382
+Epoch [420/3200], Loss: 0.2851
+Epoch [480/3200], Loss: 0.2710
+Epoch [540/3200], Loss: 0.1928
+Epoch [600/3200], Loss: 0.2121
+Epoch [660/3200], Loss: 0.1757
+Epoch [720/3200], Loss: 0.1673
+Epoch [780/3200], Loss: 0.1000
+Epoch [840/3200], Loss: 0.0979
+Epoch [900/3200], Loss: 0.0691
+Epoch [960/3200], Loss: 0.0158
+Epoch [1020/3200], Loss: 0.0320
+Epoch [1080/3200], Loss: 0.0070
+Epoch [1140/3200], Loss: 0.0053
+Epoch [1200/3200], Loss: 0.0086
+Epoch [1260/3200], Loss: 0.0037
+Epoch [1320/3200], Loss: 0.0044
+Epoch [1380/3200], Loss: 0.0029
+Epoch [1440/3200], Loss: 0.0025
+Epoch [1500/3200], Loss: 0.0029
+Epoch [1560/3200], Loss: 0.0021
+Epoch [1620/3200], Loss: 0.0018
+Epoch [1680/3200], Loss: 0.0021
+Epoch [1740/3200], Loss: 0.0016
+Epoch [1800/3200], Loss: 0.0021
+Epoch [1860/3200], Loss: 0.0015
+Epoch [1920/3200], Loss: 0.0577
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0028
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0121
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0035
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0014
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0011
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0023
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0162
+0.6421587467193604
+0.5732737183570862
+0.49432849884033203
+0.44797778129577637
+0.4479816257953644
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9787
+Epoch [120/3200], Loss: 0.7343
+Epoch [180/3200], Loss: 0.4852
+Epoch [240/3200], Loss: 0.4469
+Epoch [300/3200], Loss: 0.3704
+Epoch [360/3200], Loss: 0.3383
+Epoch [420/3200], Loss: 0.2815
+Epoch [480/3200], Loss: 0.2573
+Epoch [540/3200], Loss: 0.1999
+Epoch [600/3200], Loss: 0.1867
+Epoch [660/3200], Loss: 0.1799
+Epoch [720/3200], Loss: 0.1764
+Epoch [780/3200], Loss: 0.1709
+Epoch [840/3200], Loss: 0.1773
+Epoch [900/3200], Loss: 0.1599
+Epoch [960/3200], Loss: 0.1233
+Epoch [1020/3200], Loss: 0.1002
+Epoch [1080/3200], Loss: 0.0940
+Epoch [1140/3200], Loss: 0.0908
+Epoch [1200/3200], Loss: 0.0876
+Epoch [1260/3200], Loss: 0.1017
+Epoch [1320/3200], Loss: 0.0843
+Epoch [1380/3200], Loss: 0.0821
+Epoch [1440/3200], Loss: 0.0809
+Epoch [1500/3200], Loss: 0.0588
+Epoch [1560/3200], Loss: 0.0310
+Epoch [1620/3200], Loss: 0.0097
+Epoch [1680/3200], Loss: 0.0151
+Epoch [1740/3200], Loss: 0.0065
+Epoch [1800/3200], Loss: 0.0047
+Epoch [1860/3200], Loss: 0.0037
+Epoch [1920/3200], Loss: 0.0045
+Epoch [1980/3200], Loss: 0.0029
+Epoch [2040/3200], Loss: 0.0024
+Epoch [2100/3200], Loss: 0.0050
+Epoch [2160/3200], Loss: 0.0021
+Epoch [2220/3200], Loss: 0.0018
+Epoch [2280/3200], Loss: 0.0016
+Epoch [2340/3200], Loss: 0.0022
+Epoch [2400/3200], Loss: 0.0015
+Epoch [2460/3200], Loss: 0.0013
+Epoch [2520/3200], Loss: 0.0048
+Epoch [2580/3200], Loss: 0.0015
+Epoch [2640/3200], Loss: 0.0012
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0029
+Epoch [2820/3200], Loss: 0.0012
+Epoch [2880/3200], Loss: 0.0010
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0013
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0392
+Epoch [3180/3200], Loss: 0.0010
+0.6674391627311707
+0.6033202409744263
+0.5380171537399292
+0.47567251324653625
+0.4297957420349121
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9632
+Epoch [120/3200], Loss: 0.7188
+Epoch [180/3200], Loss: 0.5405
+Epoch [240/3200], Loss: 0.4249
+Epoch [300/3200], Loss: 0.3838
+Epoch [360/3200], Loss: 0.3700
+Epoch [420/3200], Loss: 0.3055
+Epoch [480/3200], Loss: 0.2863
+Epoch [540/3200], Loss: 0.2807
+Epoch [600/3200], Loss: 0.2102
+Epoch [660/3200], Loss: 0.1644
+Epoch [720/3200], Loss: 0.1120
+Epoch [780/3200], Loss: 0.1004
+Epoch [840/3200], Loss: 0.0952
+Epoch [900/3200], Loss: 0.0909
+Epoch [960/3200], Loss: 0.0874
+Epoch [1020/3200], Loss: 0.0747
+Epoch [1080/3200], Loss: 0.0493
+Epoch [1140/3200], Loss: 0.1286
+Epoch [1200/3200], Loss: 0.0109
+Epoch [1260/3200], Loss: 0.0075
+Epoch [1320/3200], Loss: 0.0083
+Epoch [1380/3200], Loss: 0.0053
+Epoch [1440/3200], Loss: 0.0042
+Epoch [1500/3200], Loss: 0.0035
+Epoch [1560/3200], Loss: 0.0092
+Epoch [1620/3200], Loss: 0.0031
+Epoch [1680/3200], Loss: 0.0025
+Epoch [1740/3200], Loss: 0.0066
+Epoch [1800/3200], Loss: 0.0020
+Epoch [1860/3200], Loss: 0.0018
+Epoch [1920/3200], Loss: 0.0053
+Epoch [1980/3200], Loss: 0.0017
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0028
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0018
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0068
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0038
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0012
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0077
+Epoch [3180/3200], Loss: 0.0007
+0.6623371243476868
+0.5824230909347534
+0.5024405717849731
+0.4428495764732361
+0.40785712003707886
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9297
+Epoch [120/3200], Loss: 0.7293
+Epoch [180/3200], Loss: 0.5602
+Epoch [240/3200], Loss: 0.4568
+Epoch [300/3200], Loss: 0.4396
+Epoch [360/3200], Loss: 0.3632
+Epoch [420/3200], Loss: 0.3513
+Epoch [480/3200], Loss: 0.3337
+Epoch [540/3200], Loss: 0.2660
+Epoch [600/3200], Loss: 0.2447
+Epoch [660/3200], Loss: 0.1938
+Epoch [720/3200], Loss: 0.1768
+Epoch [780/3200], Loss: 0.1703
+Epoch [840/3200], Loss: 0.1640
+Epoch [900/3200], Loss: 0.1574
+Epoch [960/3200], Loss: 0.1246
+Epoch [1020/3200], Loss: 0.0965
+Epoch [1080/3200], Loss: 0.0819
+Epoch [1140/3200], Loss: 0.0367
+Epoch [1200/3200], Loss: 0.0254
+Epoch [1260/3200], Loss: 0.0108
+Epoch [1320/3200], Loss: 0.0077
+Epoch [1380/3200], Loss: 0.0104
+Epoch [1440/3200], Loss: 0.0056
+Epoch [1500/3200], Loss: 0.0044
+Epoch [1560/3200], Loss: 0.0045
+Epoch [1620/3200], Loss: 0.0034
+Epoch [1680/3200], Loss: 0.0029
+Epoch [1740/3200], Loss: 0.0051
+Epoch [1800/3200], Loss: 0.0026
+Epoch [1860/3200], Loss: 0.0022
+Epoch [1920/3200], Loss: 0.0032
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0025
+Epoch [2100/3200], Loss: 0.0019
+Epoch [2160/3200], Loss: 0.0016
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0017
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0019
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0079
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0010
+Epoch [2820/3200], Loss: 0.0061
+Epoch [2880/3200], Loss: 0.0011
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0026
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0010
+0.6697477102279663
+0.6024612188339233
+0.5428261160850525
+0.4771377146244049
+0.42003005743026733
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9651
+Epoch [120/3200], Loss: 0.7224
+Epoch [180/3200], Loss: 0.5746
+Epoch [240/3200], Loss: 0.4690
+Epoch [300/3200], Loss: 0.3831
+Epoch [360/3200], Loss: 0.3586
+Epoch [420/3200], Loss: 0.3128
+Epoch [480/3200], Loss: 0.2748
+Epoch [540/3200], Loss: 0.2631
+Epoch [600/3200], Loss: 0.2807
+Epoch [660/3200], Loss: 0.1866
+Epoch [720/3200], Loss: 0.1797
+Epoch [780/3200], Loss: 0.1752
+Epoch [840/3200], Loss: 0.1708
+Epoch [900/3200], Loss: 0.1650
+Epoch [960/3200], Loss: 0.1442
+Epoch [1020/3200], Loss: 0.0972
+Epoch [1080/3200], Loss: 0.0867
+Epoch [1140/3200], Loss: 0.0935
+Epoch [1200/3200], Loss: 0.0182
+Epoch [1260/3200], Loss: 0.0104
+Epoch [1320/3200], Loss: 0.0185
+Epoch [1380/3200], Loss: 0.0058
+Epoch [1440/3200], Loss: 0.0049
+Epoch [1500/3200], Loss: 0.0071
+Epoch [1560/3200], Loss: 0.0036
+Epoch [1620/3200], Loss: 0.0029
+Epoch [1680/3200], Loss: 0.0037
+Epoch [1740/3200], Loss: 0.0025
+Epoch [1800/3200], Loss: 0.0022
+Epoch [1860/3200], Loss: 0.0063
+Epoch [1920/3200], Loss: 0.0019
+Epoch [1980/3200], Loss: 0.0359
+Epoch [2040/3200], Loss: 0.0018
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0078
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0016
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0016
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0050
+Epoch [2760/3200], Loss: 0.0010
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0061
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0093
+Epoch [3120/3200], Loss: 0.0010
+Epoch [3180/3200], Loss: 0.0008
+0.6494290828704834
+0.5368977189064026
+0.4758189618587494
+0.42019349336624146
+0.3665514886379242
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9476
+Epoch [120/3200], Loss: 0.7624
+Epoch [180/3200], Loss: 0.5780
+Epoch [240/3200], Loss: 0.4658
+Epoch [300/3200], Loss: 0.4308
+Epoch [360/3200], Loss: 0.3148
+Epoch [420/3200], Loss: 0.2791
+Epoch [480/3200], Loss: 0.2721
+Epoch [540/3200], Loss: 0.2678
+Epoch [600/3200], Loss: 0.2630
+Epoch [660/3200], Loss: 0.2888
+Epoch [720/3200], Loss: 0.1969
+Epoch [780/3200], Loss: 0.1412
+Epoch [840/3200], Loss: 0.1009
+Epoch [900/3200], Loss: 0.1367
+Epoch [960/3200], Loss: 0.0919
+Epoch [1020/3200], Loss: 0.1135
+Epoch [1080/3200], Loss: 0.0884
+Epoch [1140/3200], Loss: 0.0867
+Epoch [1200/3200], Loss: 0.0856
+Epoch [1260/3200], Loss: 0.0837
+Epoch [1320/3200], Loss: 0.0864
+Epoch [1380/3200], Loss: 0.0791
+Epoch [1440/3200], Loss: 0.0754
+Epoch [1500/3200], Loss: 0.0610
+Epoch [1560/3200], Loss: 0.0151
+Epoch [1620/3200], Loss: 0.0065
+Epoch [1680/3200], Loss: 0.0078
+Epoch [1740/3200], Loss: 0.0035
+Epoch [1800/3200], Loss: 0.0027
+Epoch [1860/3200], Loss: 0.0028
+Epoch [1920/3200], Loss: 0.0021
+Epoch [1980/3200], Loss: 0.0237
+Epoch [2040/3200], Loss: 0.0019
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0038
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0015
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0281
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0014
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0010
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0043
+Epoch [3180/3200], Loss: 0.0008
+0.6402716636657715
+0.5424020886421204
+0.4908705949783325
+0.45695725083351135
+0.4314115345478058
+Test Power of C2ST-L:  1.0
+Epoch [60/3200], Loss: 0.9843
+Epoch [120/3200], Loss: 0.7932
+Epoch [180/3200], Loss: 0.5472
+Epoch [240/3200], Loss: 0.4553
+Epoch [300/3200], Loss: 0.3859
+Epoch [360/3200], Loss: 0.3076
+Epoch [420/3200], Loss: 0.2913
+Epoch [480/3200], Loss: 0.2837
+Epoch [540/3200], Loss: 0.2760
+Epoch [600/3200], Loss: 0.2667
+Epoch [660/3200], Loss: 0.2461
+Epoch [720/3200], Loss: 0.1353
+Epoch [780/3200], Loss: 0.1071
+Epoch [840/3200], Loss: 0.0961
+Epoch [900/3200], Loss: 0.0930
+Epoch [960/3200], Loss: 0.0893
+Epoch [1020/3200], Loss: 0.0863
+Epoch [1080/3200], Loss: 0.0828
+Epoch [1140/3200], Loss: 0.0733
+Epoch [1200/3200], Loss: 0.0389
+Epoch [1260/3200], Loss: 0.0128
+Epoch [1320/3200], Loss: 0.0080
+Epoch [1380/3200], Loss: 0.0067
+Epoch [1440/3200], Loss: 0.0045
+Epoch [1500/3200], Loss: 0.0037
+Epoch [1560/3200], Loss: 0.0076
+Epoch [1620/3200], Loss: 0.0026
+Epoch [1680/3200], Loss: 0.0024
+Epoch [1740/3200], Loss: 0.0019
+Epoch [1800/3200], Loss: 0.0042
+Epoch [1860/3200], Loss: 0.0016
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0016
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0031
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0019
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0027
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0010
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0047
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0110
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0061
+0.6603105664253235
+0.6021085381507874
+0.5496487617492676
+0.48723307251930237
+0.4541102945804596
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9657
+Epoch [120/3200], Loss: 0.7216
+Epoch [180/3200], Loss: 0.5045
+Epoch [240/3200], Loss: 0.4379
+Epoch [300/3200], Loss: 0.3818
+Epoch [360/3200], Loss: 0.3591
+Epoch [420/3200], Loss: 0.2870
+Epoch [480/3200], Loss: 0.2808
+Epoch [540/3200], Loss: 0.2729
+Epoch [600/3200], Loss: 0.2569
+Epoch [660/3200], Loss: 0.1946
+Epoch [720/3200], Loss: 0.1764
+Epoch [780/3200], Loss: 0.1179
+Epoch [840/3200], Loss: 0.0986
+Epoch [900/3200], Loss: 0.0940
+Epoch [960/3200], Loss: 0.0915
+Epoch [1020/3200], Loss: 0.0913
+Epoch [1080/3200], Loss: 0.0887
+Epoch [1140/3200], Loss: 0.0874
+Epoch [1200/3200], Loss: 0.0882
+Epoch [1260/3200], Loss: 0.0841
+Epoch [1320/3200], Loss: 0.0771
+Epoch [1380/3200], Loss: 0.0288
+Epoch [1440/3200], Loss: 0.0086
+Epoch [1500/3200], Loss: 0.0088
+Epoch [1560/3200], Loss: 0.0044
+Epoch [1620/3200], Loss: 0.0033
+Epoch [1680/3200], Loss: 0.0038
+Epoch [1740/3200], Loss: 0.0025
+Epoch [1800/3200], Loss: 0.0021
+Epoch [1860/3200], Loss: 0.0028
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0172
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0356
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0024
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0014
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0006
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0006
+0.652564287185669
+0.5524084568023682
+0.4690195918083191
+0.410083532333374
+0.37451091408729553
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9453
+Epoch [120/3200], Loss: 0.7197
+Epoch [180/3200], Loss: 0.5501
+Epoch [240/3200], Loss: 0.4670
+Epoch [300/3200], Loss: 0.3860
+Epoch [360/3200], Loss: 0.3698
+Epoch [420/3200], Loss: 0.3285
+Epoch [480/3200], Loss: 0.2902
+Epoch [540/3200], Loss: 0.2796
+Epoch [600/3200], Loss: 0.2618
+Epoch [660/3200], Loss: 0.2432
+Epoch [720/3200], Loss: 0.1890
+Epoch [780/3200], Loss: 0.1336
+Epoch [840/3200], Loss: 0.1032
+Epoch [900/3200], Loss: 0.1046
+Epoch [960/3200], Loss: 0.0936
+Epoch [1020/3200], Loss: 0.0915
+Epoch [1080/3200], Loss: 0.0894
+Epoch [1140/3200], Loss: 0.0953
+Epoch [1200/3200], Loss: 0.0835
+Epoch [1260/3200], Loss: 0.0373
+Epoch [1320/3200], Loss: 0.0235
+Epoch [1380/3200], Loss: 0.0101
+Epoch [1440/3200], Loss: 0.0067
+Epoch [1500/3200], Loss: 0.0049
+Epoch [1560/3200], Loss: 0.0037
+Epoch [1620/3200], Loss: 0.0035
+Epoch [1680/3200], Loss: 0.0027
+Epoch [1740/3200], Loss: 0.0022
+Epoch [1800/3200], Loss: 0.0028
+Epoch [1860/3200], Loss: 0.0018
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0032
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0017
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0200
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0042
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0010
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0035
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0007
+0.6798850893974304
+0.5924275517463684
+0.5275269150733948
+0.5154953002929688
+0.4220423400402069
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9749
+Epoch [120/3200], Loss: 0.7878
+Epoch [180/3200], Loss: 0.5719
+Epoch [240/3200], Loss: 0.4774
+Epoch [300/3200], Loss: 0.3896
+Epoch [360/3200], Loss: 0.3705
+Epoch [420/3200], Loss: 0.3028
+Epoch [480/3200], Loss: 0.2837
+Epoch [540/3200], Loss: 0.2714
+Epoch [600/3200], Loss: 0.1985
+Epoch [660/3200], Loss: 0.1872
+Epoch [720/3200], Loss: 0.1428
+Epoch [780/3200], Loss: 0.1014
+Epoch [840/3200], Loss: 0.0958
+Epoch [900/3200], Loss: 0.1201
+Epoch [960/3200], Loss: 0.0919
+Epoch [1020/3200], Loss: 0.0903
+Epoch [1080/3200], Loss: 0.0911
+Epoch [1140/3200], Loss: 0.0878
+Epoch [1200/3200], Loss: 0.0865
+Epoch [1260/3200], Loss: 0.0901
+Epoch [1320/3200], Loss: 0.0840
+Epoch [1380/3200], Loss: 0.0825
+Epoch [1440/3200], Loss: 0.0810
+Epoch [1500/3200], Loss: 0.0786
+Epoch [1560/3200], Loss: 0.0803
+Epoch [1620/3200], Loss: 0.1116
+Epoch [1680/3200], Loss: 0.0153
+Epoch [1740/3200], Loss: 0.0111
+Epoch [1800/3200], Loss: 0.0073
+Epoch [1860/3200], Loss: 0.0246
+Epoch [1920/3200], Loss: 0.0051
+Epoch [1980/3200], Loss: 0.0038
+Epoch [2040/3200], Loss: 0.0030
+Epoch [2100/3200], Loss: 0.0050
+Epoch [2160/3200], Loss: 0.0024
+Epoch [2220/3200], Loss: 0.0043
+Epoch [2280/3200], Loss: 0.0020
+Epoch [2340/3200], Loss: 0.0017
+Epoch [2400/3200], Loss: 0.0037
+Epoch [2460/3200], Loss: 0.0016
+Epoch [2520/3200], Loss: 0.0014
+Epoch [2580/3200], Loss: 0.0018
+Epoch [2640/3200], Loss: 0.0013
+Epoch [2700/3200], Loss: 0.0013
+Epoch [2760/3200], Loss: 0.0013
+Epoch [2820/3200], Loss: 0.0011
+Epoch [2880/3200], Loss: 0.0012
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0014
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0023
+Epoch [3180/3200], Loss: 0.0009
+0.6549028158187866
+0.5827771425247192
+0.5191019773483276
+0.4966890513896942
+0.4171074628829956
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9599
+Epoch [120/3200], Loss: 0.7052
+Epoch [180/3200], Loss: 0.5679
+Epoch [240/3200], Loss: 0.4357
+Epoch [300/3200], Loss: 0.3712
+Epoch [360/3200], Loss: 0.3534
+Epoch [420/3200], Loss: 0.2842
+Epoch [480/3200], Loss: 0.2732
+Epoch [540/3200], Loss: 0.2688
+Epoch [600/3200], Loss: 0.2620
+Epoch [660/3200], Loss: 0.2523
+Epoch [720/3200], Loss: 0.1702
+Epoch [780/3200], Loss: 0.1178
+Epoch [840/3200], Loss: 0.0972
+Epoch [900/3200], Loss: 0.0927
+Epoch [960/3200], Loss: 0.0903
+Epoch [1020/3200], Loss: 0.0897
+Epoch [1080/3200], Loss: 0.0880
+Epoch [1140/3200], Loss: 0.0870
+Epoch [1200/3200], Loss: 0.0973
+Epoch [1260/3200], Loss: 0.0849
+Epoch [1320/3200], Loss: 0.0829
+Epoch [1380/3200], Loss: 0.0671
+Epoch [1440/3200], Loss: 0.0329
+Epoch [1500/3200], Loss: 0.0099
+Epoch [1560/3200], Loss: 0.0067
+Epoch [1620/3200], Loss: 0.0052
+Epoch [1680/3200], Loss: 0.0051
+Epoch [1740/3200], Loss: 0.0064
+Epoch [1800/3200], Loss: 0.0032
+Epoch [1860/3200], Loss: 0.0024
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0052
+Epoch [2040/3200], Loss: 0.0018
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0021
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0015
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0018
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0023
+Epoch [2760/3200], Loss: 0.0010
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0085
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0022
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0040
+0.661170244216919
+0.5551674365997314
+0.4818708896636963
+0.4357011616230011
+0.40392783284187317
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9795
+Epoch [120/3200], Loss: 0.7536
+Epoch [180/3200], Loss: 0.4998
+Epoch [240/3200], Loss: 0.4447
+Epoch [300/3200], Loss: 0.3824
+Epoch [360/3200], Loss: 0.3727
+Epoch [420/3200], Loss: 0.3595
+Epoch [480/3200], Loss: 0.2993
+Epoch [540/3200], Loss: 0.2894
+Epoch [600/3200], Loss: 0.2743
+Epoch [660/3200], Loss: 0.2656
+Epoch [720/3200], Loss: 0.1940
+Epoch [780/3200], Loss: 0.1812
+Epoch [840/3200], Loss: 0.1759
+Epoch [900/3200], Loss: 0.1651
+Epoch [960/3200], Loss: 0.1186
+Epoch [1020/3200], Loss: 0.0989
+Epoch [1080/3200], Loss: 0.1096
+Epoch [1140/3200], Loss: 0.0932
+Epoch [1200/3200], Loss: 0.0910
+Epoch [1260/3200], Loss: 0.0936
+Epoch [1320/3200], Loss: 0.0882
+Epoch [1380/3200], Loss: 0.0859
+Epoch [1440/3200], Loss: 0.0851
+Epoch [1500/3200], Loss: 0.0292
+Epoch [1560/3200], Loss: 0.0178
+Epoch [1620/3200], Loss: 0.0095
+Epoch [1680/3200], Loss: 0.0066
+Epoch [1740/3200], Loss: 0.0050
+Epoch [1800/3200], Loss: 0.0039
+Epoch [1860/3200], Loss: 0.0035
+Epoch [1920/3200], Loss: 0.0028
+Epoch [1980/3200], Loss: 0.0505
+Epoch [2040/3200], Loss: 0.0024
+Epoch [2100/3200], Loss: 0.0020
+Epoch [2160/3200], Loss: 0.0042
+Epoch [2220/3200], Loss: 0.0017
+Epoch [2280/3200], Loss: 0.0015
+Epoch [2340/3200], Loss: 0.0016
+Epoch [2400/3200], Loss: 0.0013
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0032
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0053
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0015
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0021
+Epoch [3000/3200], Loss: 0.0010
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0172
+Epoch [3180/3200], Loss: 0.0009
+0.6442672610282898
+0.5871867537498474
+0.5117475390434265
+0.46625426411628723
+0.4404970407485962
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9755
+Epoch [120/3200], Loss: 0.7930
+Epoch [180/3200], Loss: 0.5072
+Epoch [240/3200], Loss: 0.4648
+Epoch [300/3200], Loss: 0.3852
+Epoch [360/3200], Loss: 0.3790
+Epoch [420/3200], Loss: 0.3716
+Epoch [480/3200], Loss: 0.3660
+Epoch [540/3200], Loss: 0.4341
+Epoch [600/3200], Loss: 0.2837
+Epoch [660/3200], Loss: 0.2908
+Epoch [720/3200], Loss: 0.2483
+Epoch [780/3200], Loss: 0.1851
+Epoch [840/3200], Loss: 0.2564
+Epoch [900/3200], Loss: 0.1111
+Epoch [960/3200], Loss: 0.1002
+Epoch [1020/3200], Loss: 0.0958
+Epoch [1080/3200], Loss: 0.0929
+Epoch [1140/3200], Loss: 0.0919
+Epoch [1200/3200], Loss: 0.0864
+Epoch [1260/3200], Loss: 0.0294
+Epoch [1320/3200], Loss: 0.0166
+Epoch [1380/3200], Loss: 0.0093
+Epoch [1440/3200], Loss: 0.0064
+Epoch [1500/3200], Loss: 0.0108
+Epoch [1560/3200], Loss: 0.0045
+Epoch [1620/3200], Loss: 0.0035
+Epoch [1680/3200], Loss: 0.0029
+Epoch [1740/3200], Loss: 0.0034
+Epoch [1800/3200], Loss: 0.0025
+Epoch [1860/3200], Loss: 0.0021
+Epoch [1920/3200], Loss: 0.0074
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0021
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0050
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0035
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0039
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0016
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0010
+0.6671402454376221
+0.5549594163894653
+0.4892076551914215
+0.38665586709976196
+0.3356879651546478
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9446
+Epoch [120/3200], Loss: 0.7752
+Epoch [180/3200], Loss: 0.5313
+Epoch [240/3200], Loss: 0.4679
+Epoch [300/3200], Loss: 0.3914
+Epoch [360/3200], Loss: 0.3106
+Epoch [420/3200], Loss: 0.2852
+Epoch [480/3200], Loss: 0.2777
+Epoch [540/3200], Loss: 0.2728
+Epoch [600/3200], Loss: 0.2679
+Epoch [660/3200], Loss: 0.2568
+Epoch [720/3200], Loss: 0.1973
+Epoch [780/3200], Loss: 0.1835
+Epoch [840/3200], Loss: 0.1699
+Epoch [900/3200], Loss: 0.1069
+Epoch [960/3200], Loss: 0.1028
+Epoch [1020/3200], Loss: 0.0942
+Epoch [1080/3200], Loss: 0.0916
+Epoch [1140/3200], Loss: 0.0907
+Epoch [1200/3200], Loss: 0.0884
+Epoch [1260/3200], Loss: 0.0864
+Epoch [1320/3200], Loss: 0.0681
+Epoch [1380/3200], Loss: 0.0120
+Epoch [1440/3200], Loss: 0.0102
+Epoch [1500/3200], Loss: 0.0048
+Epoch [1560/3200], Loss: 0.0035
+Epoch [1620/3200], Loss: 0.0047
+Epoch [1680/3200], Loss: 0.0024
+Epoch [1740/3200], Loss: 0.0028
+Epoch [1800/3200], Loss: 0.0019
+Epoch [1860/3200], Loss: 0.0016
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0021
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0023
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0328
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0069
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0180
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0009
+0.6362249255180359
+0.5672803521156311
+0.48030054569244385
+0.4144245982170105
+0.39114394783973694
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9571
+Epoch [120/3200], Loss: 0.6895
+Epoch [180/3200], Loss: 0.5326
+Epoch [240/3200], Loss: 0.4650
+Epoch [300/3200], Loss: 0.3768
+Epoch [360/3200], Loss: 0.3584
+Epoch [420/3200], Loss: 0.2953
+Epoch [480/3200], Loss: 0.2754
+Epoch [540/3200], Loss: 0.2354
+Epoch [600/3200], Loss: 0.1845
+Epoch [660/3200], Loss: 0.1612
+Epoch [720/3200], Loss: 0.1099
+Epoch [780/3200], Loss: 0.0991
+Epoch [840/3200], Loss: 0.0946
+Epoch [900/3200], Loss: 0.1075
+Epoch [960/3200], Loss: 0.0891
+Epoch [1020/3200], Loss: 0.0860
+Epoch [1080/3200], Loss: 0.0809
+Epoch [1140/3200], Loss: 0.0587
+Epoch [1200/3200], Loss: 0.0153
+Epoch [1260/3200], Loss: 0.0127
+Epoch [1320/3200], Loss: 0.0062
+Epoch [1380/3200], Loss: 0.0042
+Epoch [1440/3200], Loss: 0.0033
+Epoch [1500/3200], Loss: 0.0113
+Epoch [1560/3200], Loss: 0.0027
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0024
+Epoch [1740/3200], Loss: 0.0019
+Epoch [1800/3200], Loss: 0.0016
+Epoch [1860/3200], Loss: 0.0063
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0013
+Epoch [2040/3200], Loss: 0.0024
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0015
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0017
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0030
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0062
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0020
+0.6559332013130188
+0.5701678395271301
+0.4810926914215088
+0.41385358572006226
+0.3720778524875641
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9668
+Epoch [120/3200], Loss: 0.6924
+Epoch [180/3200], Loss: 0.4957
+Epoch [240/3200], Loss: 0.3929
+Epoch [300/3200], Loss: 0.3721
+Epoch [360/3200], Loss: 0.3644
+Epoch [420/3200], Loss: 0.2860
+Epoch [480/3200], Loss: 0.2730
+Epoch [540/3200], Loss: 0.2656
+Epoch [600/3200], Loss: 0.2473
+Epoch [660/3200], Loss: 0.1862
+Epoch [720/3200], Loss: 0.1765
+Epoch [780/3200], Loss: 0.1713
+Epoch [840/3200], Loss: 0.1685
+Epoch [900/3200], Loss: 0.1114
+Epoch [960/3200], Loss: 0.0887
+Epoch [1020/3200], Loss: 0.0668
+Epoch [1080/3200], Loss: 0.0177
+Epoch [1140/3200], Loss: 0.0562
+Epoch [1200/3200], Loss: 0.0097
+Epoch [1260/3200], Loss: 0.0070
+Epoch [1320/3200], Loss: 0.0064
+Epoch [1380/3200], Loss: 0.0047
+Epoch [1440/3200], Loss: 0.0039
+Epoch [1500/3200], Loss: 0.0034
+Epoch [1560/3200], Loss: 0.0062
+Epoch [1620/3200], Loss: 0.0027
+Epoch [1680/3200], Loss: 0.0022
+Epoch [1740/3200], Loss: 0.0044
+Epoch [1800/3200], Loss: 0.0019
+Epoch [1860/3200], Loss: 0.0017
+Epoch [1920/3200], Loss: 0.0027
+Epoch [1980/3200], Loss: 0.0016
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0019
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0023
+Epoch [2340/3200], Loss: 0.0014
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0035
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0023
+Epoch [2880/3200], Loss: 0.0010
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0035
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0019
+0.6534284949302673
+0.5737705826759338
+0.5181512236595154
+0.42650729417800903
+0.3620610237121582
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9689
+Epoch [120/3200], Loss: 0.7347
+Epoch [180/3200], Loss: 0.5054
+Epoch [240/3200], Loss: 0.4599
+Epoch [300/3200], Loss: 0.3771
+Epoch [360/3200], Loss: 0.3289
+Epoch [420/3200], Loss: 0.2840
+Epoch [480/3200], Loss: 0.2648
+Epoch [540/3200], Loss: 0.2096
+Epoch [600/3200], Loss: 0.2365
+Epoch [660/3200], Loss: 0.1775
+Epoch [720/3200], Loss: 0.1713
+Epoch [780/3200], Loss: 0.1666
+Epoch [840/3200], Loss: 0.1631
+Epoch [900/3200], Loss: 0.1582
+Epoch [960/3200], Loss: 0.1451
+Epoch [1020/3200], Loss: 0.1021
+Epoch [1080/3200], Loss: 0.0746
+Epoch [1140/3200], Loss: 0.0302
+Epoch [1200/3200], Loss: 0.0126
+Epoch [1260/3200], Loss: 0.0109
+Epoch [1320/3200], Loss: 0.0068
+Epoch [1380/3200], Loss: 0.0080
+Epoch [1440/3200], Loss: 0.0044
+Epoch [1500/3200], Loss: 0.0034
+Epoch [1560/3200], Loss: 0.0033
+Epoch [1620/3200], Loss: 0.0026
+Epoch [1680/3200], Loss: 0.0149
+Epoch [1740/3200], Loss: 0.0022
+Epoch [1800/3200], Loss: 0.0019
+Epoch [1860/3200], Loss: 0.0035
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0022
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0039
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0016
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0017
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0197
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0011
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0012
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0039
+Epoch [3180/3200], Loss: 0.0008
+0.6563013792037964
+0.5790018439292908
+0.5095202922821045
+0.4561214745044708
+0.404029905796051
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9688
+Epoch [120/3200], Loss: 0.7423
+Epoch [180/3200], Loss: 0.5673
+Epoch [240/3200], Loss: 0.4781
+Epoch [300/3200], Loss: 0.3814
+Epoch [360/3200], Loss: 0.3482
+Epoch [420/3200], Loss: 0.2794
+Epoch [480/3200], Loss: 0.2713
+Epoch [540/3200], Loss: 0.2665
+Epoch [600/3200], Loss: 0.2613
+Epoch [660/3200], Loss: 0.2371
+Epoch [720/3200], Loss: 0.1785
+Epoch [780/3200], Loss: 0.1732
+Epoch [840/3200], Loss: 0.1690
+Epoch [900/3200], Loss: 0.1658
+Epoch [960/3200], Loss: 0.1625
+Epoch [1020/3200], Loss: 0.1779
+Epoch [1080/3200], Loss: 0.0939
+Epoch [1140/3200], Loss: 0.1013
+Epoch [1200/3200], Loss: 0.0777
+Epoch [1260/3200], Loss: 0.0750
+Epoch [1320/3200], Loss: 0.0732
+Epoch [1380/3200], Loss: 0.0695
+Epoch [1440/3200], Loss: 0.0497
+Epoch [1500/3200], Loss: 0.0270
+Epoch [1560/3200], Loss: 0.0117
+Epoch [1620/3200], Loss: 0.0071
+Epoch [1680/3200], Loss: 0.0071
+Epoch [1740/3200], Loss: 0.0042
+Epoch [1800/3200], Loss: 0.0033
+Epoch [1860/3200], Loss: 0.0153
+Epoch [1920/3200], Loss: 0.0025
+Epoch [1980/3200], Loss: 0.0020
+Epoch [2040/3200], Loss: 0.0055
+Epoch [2100/3200], Loss: 0.0018
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0019
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0013
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0018
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0047
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0015
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0139
+Epoch [3180/3200], Loss: 0.0007
+0.6545573472976685
+0.579600989818573
+0.5345896482467651
+0.46304646134376526
+0.3974357843399048
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9625
+Epoch [120/3200], Loss: 0.6826
+Epoch [180/3200], Loss: 0.4744
+Epoch [240/3200], Loss: 0.3817
+Epoch [300/3200], Loss: 0.3566
+Epoch [360/3200], Loss: 0.2859
+Epoch [420/3200], Loss: 0.2701
+Epoch [480/3200], Loss: 0.2637
+Epoch [540/3200], Loss: 0.2618
+Epoch [600/3200], Loss: 0.2471
+Epoch [660/3200], Loss: 0.1886
+Epoch [720/3200], Loss: 0.1753
+Epoch [780/3200], Loss: 0.1816
+Epoch [840/3200], Loss: 0.1581
+Epoch [900/3200], Loss: 0.1067
+Epoch [960/3200], Loss: 0.0926
+Epoch [1020/3200], Loss: 0.0909
+Epoch [1080/3200], Loss: 0.0851
+Epoch [1140/3200], Loss: 0.0813
+Epoch [1200/3200], Loss: 0.0786
+Epoch [1260/3200], Loss: 0.3281
+Epoch [1320/3200], Loss: 0.0514
+Epoch [1380/3200], Loss: 0.0157
+Epoch [1440/3200], Loss: 0.0088
+Epoch [1500/3200], Loss: 0.0062
+Epoch [1560/3200], Loss: 0.0048
+Epoch [1620/3200], Loss: 0.0038
+Epoch [1680/3200], Loss: 0.0031
+Epoch [1740/3200], Loss: 0.0026
+Epoch [1800/3200], Loss: 0.0023
+Epoch [1860/3200], Loss: 0.0034
+Epoch [1920/3200], Loss: 0.0018
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0015
+Epoch [2100/3200], Loss: 0.0017
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0078
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0014
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0013
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0011
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0009
+0.6654346585273743
+0.5481674671173096
+0.4826726019382477
+0.4256090223789215
+0.36332133412361145
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9631
+Epoch [120/3200], Loss: 0.7749
+Epoch [180/3200], Loss: 0.5751
+Epoch [240/3200], Loss: 0.4704
+Epoch [300/3200], Loss: 0.4396
+Epoch [360/3200], Loss: 0.3588
+Epoch [420/3200], Loss: 0.3385
+Epoch [480/3200], Loss: 0.2743
+Epoch [540/3200], Loss: 0.2008
+Epoch [600/3200], Loss: 0.1827
+Epoch [660/3200], Loss: 0.1789
+Epoch [720/3200], Loss: 0.1751
+Epoch [780/3200], Loss: 0.1182
+Epoch [840/3200], Loss: 0.0998
+Epoch [900/3200], Loss: 0.0891
+Epoch [960/3200], Loss: 0.0857
+Epoch [1020/3200], Loss: 0.0818
+Epoch [1080/3200], Loss: 0.0780
+Epoch [1140/3200], Loss: 0.0728
+Epoch [1200/3200], Loss: 0.0448
+Epoch [1260/3200], Loss: 0.0137
+Epoch [1320/3200], Loss: 0.0075
+Epoch [1380/3200], Loss: 0.0062
+Epoch [1440/3200], Loss: 0.0045
+Epoch [1500/3200], Loss: 0.0146
+Epoch [1560/3200], Loss: 0.0035
+Epoch [1620/3200], Loss: 0.0027
+Epoch [1680/3200], Loss: 0.0050
+Epoch [1740/3200], Loss: 0.0024
+Epoch [1800/3200], Loss: 0.0020
+Epoch [1860/3200], Loss: 0.0024
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0018
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0017
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0027
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0039
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0055
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0150
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.6784855723381042
+0.5866823196411133
+0.5416306257247925
+0.5003656148910522
+0.4632044732570648
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9589
+Epoch [120/3200], Loss: 0.7533
+Epoch [180/3200], Loss: 0.5332
+Epoch [240/3200], Loss: 0.4558
+Epoch [300/3200], Loss: 0.3727
+Epoch [360/3200], Loss: 0.3444
+Epoch [420/3200], Loss: 0.2753
+Epoch [480/3200], Loss: 0.2629
+Epoch [540/3200], Loss: 0.2566
+Epoch [600/3200], Loss: 0.2508
+Epoch [660/3200], Loss: 0.2470
+Epoch [720/3200], Loss: 0.1917
+Epoch [780/3200], Loss: 0.1585
+Epoch [840/3200], Loss: 0.1157
+Epoch [900/3200], Loss: 0.0898
+Epoch [960/3200], Loss: 0.0846
+Epoch [1020/3200], Loss: 0.0814
+Epoch [1080/3200], Loss: 0.0683
+Epoch [1140/3200], Loss: 0.0195
+Epoch [1200/3200], Loss: 0.0082
+Epoch [1260/3200], Loss: 0.0070
+Epoch [1320/3200], Loss: 0.0044
+Epoch [1380/3200], Loss: 0.0044
+Epoch [1440/3200], Loss: 0.0030
+Epoch [1500/3200], Loss: 0.0024
+Epoch [1560/3200], Loss: 0.0028
+Epoch [1620/3200], Loss: 0.0019
+Epoch [1680/3200], Loss: 0.0016
+Epoch [1740/3200], Loss: 0.0018
+Epoch [1800/3200], Loss: 0.0014
+Epoch [1860/3200], Loss: 0.0016
+Epoch [1920/3200], Loss: 0.0014
+Epoch [1980/3200], Loss: 0.0011
+Epoch [2040/3200], Loss: 0.0183
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0010
+Epoch [2220/3200], Loss: 0.0009
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0009
+Epoch [2400/3200], Loss: 0.0156
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0035
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0007
+Epoch [2760/3200], Loss: 0.0078
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0023
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0006
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0006
+0.6670699715614319
+0.604476809501648
+0.5338000059127808
+0.47769472002983093
+0.4163518249988556
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9479
+Epoch [120/3200], Loss: 0.6797
+Epoch [180/3200], Loss: 0.4861
+Epoch [240/3200], Loss: 0.4134
+Epoch [300/3200], Loss: 0.3678
+Epoch [360/3200], Loss: 0.3361
+Epoch [420/3200], Loss: 0.2836
+Epoch [480/3200], Loss: 0.2780
+Epoch [540/3200], Loss: 0.2695
+Epoch [600/3200], Loss: 0.2407
+Epoch [660/3200], Loss: 0.1886
+Epoch [720/3200], Loss: 0.1849
+Epoch [780/3200], Loss: 0.2020
+Epoch [840/3200], Loss: 0.1039
+Epoch [900/3200], Loss: 0.0956
+Epoch [960/3200], Loss: 0.0911
+Epoch [1020/3200], Loss: 0.0878
+Epoch [1080/3200], Loss: 0.0855
+Epoch [1140/3200], Loss: 0.0850
+Epoch [1200/3200], Loss: 0.0818
+Epoch [1260/3200], Loss: 0.0764
+Epoch [1320/3200], Loss: 0.0416
+Epoch [1380/3200], Loss: 0.0218
+Epoch [1440/3200], Loss: 0.0062
+Epoch [1500/3200], Loss: 0.0444
+Epoch [1560/3200], Loss: 0.0042
+Epoch [1620/3200], Loss: 0.0032
+Epoch [1680/3200], Loss: 0.0038
+Epoch [1740/3200], Loss: 0.0024
+Epoch [1800/3200], Loss: 0.0025
+Epoch [1860/3200], Loss: 0.0019
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0039
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0016
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0027
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0018
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0014
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0202
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0008
+0.6349058151245117
+0.5505624413490295
+0.4852001368999481
+0.41328608989715576
+0.36080852150917053
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9480
+Epoch [120/3200], Loss: 0.7530
+Epoch [180/3200], Loss: 0.5373
+Epoch [240/3200], Loss: 0.4467
+Epoch [300/3200], Loss: 0.3854
+Epoch [360/3200], Loss: 0.3271
+Epoch [420/3200], Loss: 0.2757
+Epoch [480/3200], Loss: 0.2677
+Epoch [540/3200], Loss: 0.2634
+Epoch [600/3200], Loss: 0.2540
+Epoch [660/3200], Loss: 0.2357
+Epoch [720/3200], Loss: 0.1848
+Epoch [780/3200], Loss: 0.1710
+Epoch [840/3200], Loss: 0.1482
+Epoch [900/3200], Loss: 0.0984
+Epoch [960/3200], Loss: 0.0897
+Epoch [1020/3200], Loss: 0.0873
+Epoch [1080/3200], Loss: 0.0844
+Epoch [1140/3200], Loss: 0.0826
+Epoch [1200/3200], Loss: 0.0812
+Epoch [1260/3200], Loss: 0.0789
+Epoch [1320/3200], Loss: 0.0754
+Epoch [1380/3200], Loss: 0.0895
+Epoch [1440/3200], Loss: 0.0335
+Epoch [1500/3200], Loss: 0.0111
+Epoch [1560/3200], Loss: 0.0108
+Epoch [1620/3200], Loss: 0.0062
+Epoch [1680/3200], Loss: 0.0047
+Epoch [1740/3200], Loss: 0.0051
+Epoch [1800/3200], Loss: 0.0035
+Epoch [1860/3200], Loss: 0.0029
+Epoch [1920/3200], Loss: 0.0037
+Epoch [1980/3200], Loss: 0.0025
+Epoch [2040/3200], Loss: 0.0021
+Epoch [2100/3200], Loss: 0.0018
+Epoch [2160/3200], Loss: 0.0035
+Epoch [2220/3200], Loss: 0.0017
+Epoch [2280/3200], Loss: 0.0015
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0018
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0050
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0023
+Epoch [2820/3200], Loss: 0.0011
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0035
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0011
+0.6675110459327698
+0.613518238067627
+0.5320760607719421
+0.4772534966468811
+0.4698956310749054
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9741
+Epoch [120/3200], Loss: 0.7158
+Epoch [180/3200], Loss: 0.5635
+Epoch [240/3200], Loss: 0.4387
+Epoch [300/3200], Loss: 0.3758
+Epoch [360/3200], Loss: 0.3511
+Epoch [420/3200], Loss: 0.2858
+Epoch [480/3200], Loss: 0.2880
+Epoch [540/3200], Loss: 0.2682
+Epoch [600/3200], Loss: 0.2608
+Epoch [660/3200], Loss: 0.2031
+Epoch [720/3200], Loss: 0.1826
+Epoch [780/3200], Loss: 0.1813
+Epoch [840/3200], Loss: 0.1654
+Epoch [900/3200], Loss: 0.0977
+Epoch [960/3200], Loss: 0.0912
+Epoch [1020/3200], Loss: 0.0882
+Epoch [1080/3200], Loss: 0.0889
+Epoch [1140/3200], Loss: 0.0848
+Epoch [1200/3200], Loss: 0.0833
+Epoch [1260/3200], Loss: 0.0819
+Epoch [1320/3200], Loss: 0.0812
+Epoch [1380/3200], Loss: 0.0790
+Epoch [1440/3200], Loss: 0.0749
+Epoch [1500/3200], Loss: 0.0508
+Epoch [1560/3200], Loss: 0.0145
+Epoch [1620/3200], Loss: 0.0122
+Epoch [1680/3200], Loss: 0.0109
+Epoch [1740/3200], Loss: 0.0036
+Epoch [1800/3200], Loss: 0.0028
+Epoch [1860/3200], Loss: 0.0029
+Epoch [1920/3200], Loss: 0.0022
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0018
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0019
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0179
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0040
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0270
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0042
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0006
+0.668031632900238
+0.5694117546081543
+0.4841555953025818
+0.42499855160713196
+0.3867807984352112
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9495
+Epoch [120/3200], Loss: 0.7332
+Epoch [180/3200], Loss: 0.5548
+Epoch [240/3200], Loss: 0.4650
+Epoch [300/3200], Loss: 0.3673
+Epoch [360/3200], Loss: 0.2916
+Epoch [420/3200], Loss: 0.2801
+Epoch [480/3200], Loss: 0.2722
+Epoch [540/3200], Loss: 0.2670
+Epoch [600/3200], Loss: 0.2547
+Epoch [660/3200], Loss: 0.1966
+Epoch [720/3200], Loss: 0.1702
+Epoch [780/3200], Loss: 0.1167
+Epoch [840/3200], Loss: 0.0994
+Epoch [900/3200], Loss: 0.0947
+Epoch [960/3200], Loss: 0.0927
+Epoch [1020/3200], Loss: 0.0913
+Epoch [1080/3200], Loss: 0.0921
+Epoch [1140/3200], Loss: 0.0881
+Epoch [1200/3200], Loss: 0.0881
+Epoch [1260/3200], Loss: 0.0838
+Epoch [1320/3200], Loss: 0.0780
+Epoch [1380/3200], Loss: 0.0284
+Epoch [1440/3200], Loss: 0.0254
+Epoch [1500/3200], Loss: 0.0110
+Epoch [1560/3200], Loss: 0.0084
+Epoch [1620/3200], Loss: 0.0067
+Epoch [1680/3200], Loss: 0.0079
+Epoch [1740/3200], Loss: 0.0047
+Epoch [1800/3200], Loss: 0.0046
+Epoch [1860/3200], Loss: 0.0036
+Epoch [1920/3200], Loss: 0.0044
+Epoch [1980/3200], Loss: 0.0031
+Epoch [2040/3200], Loss: 0.0026
+Epoch [2100/3200], Loss: 0.0108
+Epoch [2160/3200], Loss: 0.0024
+Epoch [2220/3200], Loss: 0.0020
+Epoch [2280/3200], Loss: 0.0028
+Epoch [2340/3200], Loss: 0.0019
+Epoch [2400/3200], Loss: 0.0017
+Epoch [2460/3200], Loss: 0.0017
+Epoch [2520/3200], Loss: 0.0017
+Epoch [2580/3200], Loss: 0.0014
+Epoch [2640/3200], Loss: 0.0111
+Epoch [2700/3200], Loss: 0.0015
+Epoch [2760/3200], Loss: 0.0012
+Epoch [2820/3200], Loss: 0.0068
+Epoch [2880/3200], Loss: 0.0013
+Epoch [2940/3200], Loss: 0.0011
+Epoch [3000/3200], Loss: 0.0197
+Epoch [3060/3200], Loss: 0.0011
+Epoch [3120/3200], Loss: 0.0010
+Epoch [3180/3200], Loss: 0.0042
+0.647930383682251
+0.5118644833564758
+0.39888668060302734
+0.3272859454154968
+0.2694489061832428
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9686
+Epoch [120/3200], Loss: 0.7328
+Epoch [180/3200], Loss: 0.5253
+Epoch [240/3200], Loss: 0.4814
+Epoch [300/3200], Loss: 0.4984
+Epoch [360/3200], Loss: 0.3029
+Epoch [420/3200], Loss: 0.2871
+Epoch [480/3200], Loss: 0.2751
+Epoch [540/3200], Loss: 0.2691
+Epoch [600/3200], Loss: 0.2701
+Epoch [660/3200], Loss: 0.2184
+Epoch [720/3200], Loss: 0.1728
+Epoch [780/3200], Loss: 0.1363
+Epoch [840/3200], Loss: 0.0712
+Epoch [900/3200], Loss: 0.0321
+Epoch [960/3200], Loss: 0.0138
+Epoch [1020/3200], Loss: 0.0088
+Epoch [1080/3200], Loss: 0.0063
+Epoch [1140/3200], Loss: 0.0066
+Epoch [1200/3200], Loss: 0.0043
+Epoch [1260/3200], Loss: 0.0035
+Epoch [1320/3200], Loss: 0.0029
+Epoch [1380/3200], Loss: 0.0044
+Epoch [1440/3200], Loss: 0.0024
+Epoch [1500/3200], Loss: 0.0026
+Epoch [1560/3200], Loss: 0.0022
+Epoch [1620/3200], Loss: 0.0018
+Epoch [1680/3200], Loss: 0.0038
+Epoch [1740/3200], Loss: 0.0016
+Epoch [1800/3200], Loss: 0.0014
+Epoch [1860/3200], Loss: 0.0235
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0012
+Epoch [2040/3200], Loss: 0.0109
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0014
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0013
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0017
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0051
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0117
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0010
+Epoch [3180/3200], Loss: 0.0007
+0.6246777772903442
+0.5106990337371826
+0.4363657534122467
+0.38555046916007996
+0.3394065201282501
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9468
+Epoch [120/3200], Loss: 0.7201
+Epoch [180/3200], Loss: 0.4969
+Epoch [240/3200], Loss: 0.4653
+Epoch [300/3200], Loss: 0.3775
+Epoch [360/3200], Loss: 0.3377
+Epoch [420/3200], Loss: 0.2820
+Epoch [480/3200], Loss: 0.2733
+Epoch [540/3200], Loss: 0.2671
+Epoch [600/3200], Loss: 0.2173
+Epoch [660/3200], Loss: 0.1844
+Epoch [720/3200], Loss: 0.1677
+Epoch [780/3200], Loss: 0.1289
+Epoch [840/3200], Loss: 0.0976
+Epoch [900/3200], Loss: 0.0928
+Epoch [960/3200], Loss: 0.0904
+Epoch [1020/3200], Loss: 0.0889
+Epoch [1080/3200], Loss: 0.0878
+Epoch [1140/3200], Loss: 0.0870
+Epoch [1200/3200], Loss: 0.0863
+Epoch [1260/3200], Loss: 0.0856
+Epoch [1320/3200], Loss: 0.0850
+Epoch [1380/3200], Loss: 0.0843
+Epoch [1440/3200], Loss: 0.0837
+Epoch [1500/3200], Loss: 0.0824
+Epoch [1560/3200], Loss: 0.1285
+Epoch [1620/3200], Loss: 0.0570
+Epoch [1680/3200], Loss: 0.0231
+Epoch [1740/3200], Loss: 0.0091
+Epoch [1800/3200], Loss: 0.0059
+Epoch [1860/3200], Loss: 0.0043
+Epoch [1920/3200], Loss: 0.0034
+Epoch [1980/3200], Loss: 0.0053
+Epoch [2040/3200], Loss: 0.0026
+Epoch [2100/3200], Loss: 0.0021
+Epoch [2160/3200], Loss: 0.0018
+Epoch [2220/3200], Loss: 0.0022
+Epoch [2280/3200], Loss: 0.0016
+Epoch [2340/3200], Loss: 0.0014
+Epoch [2400/3200], Loss: 0.0119
+Epoch [2460/3200], Loss: 0.0014
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0119
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0018
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.6424118280410767
+0.5597304105758667
+0.5117483735084534
+0.4451735019683838
+0.383287638425827
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9602
+Epoch [120/3200], Loss: 0.6966
+Epoch [180/3200], Loss: 0.5824
+Epoch [240/3200], Loss: 0.4670
+Epoch [300/3200], Loss: 0.3883
+Epoch [360/3200], Loss: 0.3486
+Epoch [420/3200], Loss: 0.2832
+Epoch [480/3200], Loss: 0.2717
+Epoch [540/3200], Loss: 0.2628
+Epoch [600/3200], Loss: 0.2216
+Epoch [660/3200], Loss: 0.1905
+Epoch [720/3200], Loss: 0.1845
+Epoch [780/3200], Loss: 0.1819
+Epoch [840/3200], Loss: 0.1752
+Epoch [900/3200], Loss: 0.2218
+Epoch [960/3200], Loss: 0.1172
+Epoch [1020/3200], Loss: 0.0942
+Epoch [1080/3200], Loss: 0.0910
+Epoch [1140/3200], Loss: 0.0872
+Epoch [1200/3200], Loss: 0.0845
+Epoch [1260/3200], Loss: 0.0822
+Epoch [1320/3200], Loss: 0.0779
+Epoch [1380/3200], Loss: 0.0664
+Epoch [1440/3200], Loss: 0.0266
+Epoch [1500/3200], Loss: 0.0084
+Epoch [1560/3200], Loss: 0.0072
+Epoch [1620/3200], Loss: 0.0047
+Epoch [1680/3200], Loss: 0.0037
+Epoch [1740/3200], Loss: 0.0030
+Epoch [1800/3200], Loss: 0.0115
+Epoch [1860/3200], Loss: 0.0026
+Epoch [1920/3200], Loss: 0.0022
+Epoch [1980/3200], Loss: 0.0022
+Epoch [2040/3200], Loss: 0.0022
+Epoch [2100/3200], Loss: 0.0017
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0021
+Epoch [2280/3200], Loss: 0.0014
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0013
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0029
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0012
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0011
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0022
+0.6451348066329956
+0.5681621432304382
+0.49089503288269043
+0.41380056738853455
+0.34489205479621887
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9683
+Epoch [120/3200], Loss: 0.7092
+Epoch [180/3200], Loss: 0.5870
+Epoch [240/3200], Loss: 0.4865
+Epoch [300/3200], Loss: 0.4612
+Epoch [360/3200], Loss: 0.3861
+Epoch [420/3200], Loss: 0.3742
+Epoch [480/3200], Loss: 0.3055
+Epoch [540/3200], Loss: 0.3516
+Epoch [600/3200], Loss: 0.2431
+Epoch [660/3200], Loss: 0.1883
+Epoch [720/3200], Loss: 0.1738
+Epoch [780/3200], Loss: 0.1031
+Epoch [840/3200], Loss: 0.0983
+Epoch [900/3200], Loss: 0.0969
+Epoch [960/3200], Loss: 0.0932
+Epoch [1020/3200], Loss: 0.0914
+Epoch [1080/3200], Loss: 0.1103
+Epoch [1140/3200], Loss: 0.0895
+Epoch [1200/3200], Loss: 0.0882
+Epoch [1260/3200], Loss: 0.0890
+Epoch [1320/3200], Loss: 0.0858
+Epoch [1380/3200], Loss: 0.0815
+Epoch [1440/3200], Loss: 0.0526
+Epoch [1500/3200], Loss: 0.0200
+Epoch [1560/3200], Loss: 0.0097
+Epoch [1620/3200], Loss: 0.0066
+Epoch [1680/3200], Loss: 0.0050
+Epoch [1740/3200], Loss: 0.0053
+Epoch [1800/3200], Loss: 0.0035
+Epoch [1860/3200], Loss: 0.0029
+Epoch [1920/3200], Loss: 0.0043
+Epoch [1980/3200], Loss: 0.0024
+Epoch [2040/3200], Loss: 0.0020
+Epoch [2100/3200], Loss: 0.0021
+Epoch [2160/3200], Loss: 0.0017
+Epoch [2220/3200], Loss: 0.0020
+Epoch [2280/3200], Loss: 0.0014
+Epoch [2340/3200], Loss: 0.0120
+Epoch [2400/3200], Loss: 0.0015
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0063
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0197
+Epoch [2820/3200], Loss: 0.0010
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0020
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0011
+Epoch [3180/3200], Loss: 0.0008
+0.6387372016906738
+0.5361506342887878
+0.4364159107208252
+0.36416754126548767
+0.30013737082481384
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9708
+Epoch [120/3200], Loss: 0.7304
+Epoch [180/3200], Loss: 0.4836
+Epoch [240/3200], Loss: 0.4602
+Epoch [300/3200], Loss: 0.3748
+Epoch [360/3200], Loss: 0.3800
+Epoch [420/3200], Loss: 0.2801
+Epoch [480/3200], Loss: 0.2624
+Epoch [540/3200], Loss: 0.2474
+Epoch [600/3200], Loss: 0.1843
+Epoch [660/3200], Loss: 0.1474
+Epoch [720/3200], Loss: 0.1012
+Epoch [780/3200], Loss: 0.0926
+Epoch [840/3200], Loss: 0.0855
+Epoch [900/3200], Loss: 0.0824
+Epoch [960/3200], Loss: 0.0728
+Epoch [1020/3200], Loss: 0.0709
+Epoch [1080/3200], Loss: 0.0164
+Epoch [1140/3200], Loss: 0.0087
+Epoch [1200/3200], Loss: 0.0059
+Epoch [1260/3200], Loss: 0.0061
+Epoch [1320/3200], Loss: 0.0037
+Epoch [1380/3200], Loss: 0.0047
+Epoch [1440/3200], Loss: 0.0027
+Epoch [1500/3200], Loss: 0.0086
+Epoch [1560/3200], Loss: 0.0023
+Epoch [1620/3200], Loss: 0.0019
+Epoch [1680/3200], Loss: 0.0017
+Epoch [1740/3200], Loss: 0.0017
+Epoch [1800/3200], Loss: 0.0015
+Epoch [1860/3200], Loss: 0.0037
+Epoch [1920/3200], Loss: 0.0013
+Epoch [1980/3200], Loss: 0.0305
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0011
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0196
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0079
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0251
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0086
+Epoch [3180/3200], Loss: 0.0007
+0.6439220309257507
+0.5814456343650818
+0.527887225151062
+0.4619784653186798
+0.4256173074245453
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9548
+Epoch [120/3200], Loss: 0.7123
+Epoch [180/3200], Loss: 0.5435
+Epoch [240/3200], Loss: 0.4541
+Epoch [300/3200], Loss: 0.3623
+Epoch [360/3200], Loss: 0.2832
+Epoch [420/3200], Loss: 0.2755
+Epoch [480/3200], Loss: 0.2671
+Epoch [540/3200], Loss: 0.2566
+Epoch [600/3200], Loss: 0.1997
+Epoch [660/3200], Loss: 0.1830
+Epoch [720/3200], Loss: 0.1791
+Epoch [780/3200], Loss: 0.1787
+Epoch [840/3200], Loss: 0.1717
+Epoch [900/3200], Loss: 0.1646
+Epoch [960/3200], Loss: 0.1100
+Epoch [1020/3200], Loss: 0.0952
+Epoch [1080/3200], Loss: 0.0908
+Epoch [1140/3200], Loss: 0.0900
+Epoch [1200/3200], Loss: 0.0874
+Epoch [1260/3200], Loss: 0.0851
+Epoch [1320/3200], Loss: 0.0857
+Epoch [1380/3200], Loss: 0.1098
+Epoch [1440/3200], Loss: 0.0119
+Epoch [1500/3200], Loss: 0.0069
+Epoch [1560/3200], Loss: 0.0230
+Epoch [1620/3200], Loss: 0.0039
+Epoch [1680/3200], Loss: 0.0029
+Epoch [1740/3200], Loss: 0.0024
+Epoch [1800/3200], Loss: 0.0027
+Epoch [1860/3200], Loss: 0.0019
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0033
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0112
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0065
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0015
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0007
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0016
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0058
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0017
+0.6601665616035461
+0.5657846927642822
+0.4886668026447296
+0.4253101646900177
+0.3521641790866852
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9449
+Epoch [120/3200], Loss: 0.7072
+Epoch [180/3200], Loss: 0.5159
+Epoch [240/3200], Loss: 0.4707
+Epoch [300/3200], Loss: 0.4003
+Epoch [360/3200], Loss: 0.2952
+Epoch [420/3200], Loss: 0.2826
+Epoch [480/3200], Loss: 0.2741
+Epoch [540/3200], Loss: 0.2691
+Epoch [600/3200], Loss: 0.2636
+Epoch [660/3200], Loss: 0.2471
+Epoch [720/3200], Loss: 0.1746
+Epoch [780/3200], Loss: 0.1828
+Epoch [840/3200], Loss: 0.0962
+Epoch [900/3200], Loss: 0.0895
+Epoch [960/3200], Loss: 0.0888
+Epoch [1020/3200], Loss: 0.0920
+Epoch [1080/3200], Loss: 0.0184
+Epoch [1140/3200], Loss: 0.0148
+Epoch [1200/3200], Loss: 0.0071
+Epoch [1260/3200], Loss: 0.0055
+Epoch [1320/3200], Loss: 0.0043
+Epoch [1380/3200], Loss: 0.0040
+Epoch [1440/3200], Loss: 0.0033
+Epoch [1500/3200], Loss: 0.0026
+Epoch [1560/3200], Loss: 0.0025
+Epoch [1620/3200], Loss: 0.0205
+Epoch [1680/3200], Loss: 0.0019
+Epoch [1740/3200], Loss: 0.0049
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0067
+Epoch [1920/3200], Loss: 0.0014
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0061
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0020
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0173
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0024
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0045
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0033
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0013
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0010
+Epoch [3180/3200], Loss: 0.0007
+0.636756181716919
+0.5497187376022339
+0.47751399874687195
+0.4147936999797821
+0.35129591822624207
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9872
+Epoch [120/3200], Loss: 0.7599
+Epoch [180/3200], Loss: 0.5709
+Epoch [240/3200], Loss: 0.4289
+Epoch [300/3200], Loss: 0.3886
+Epoch [360/3200], Loss: 0.3742
+Epoch [420/3200], Loss: 0.3509
+Epoch [480/3200], Loss: 0.2729
+Epoch [540/3200], Loss: 0.2013
+Epoch [600/3200], Loss: 0.1550
+Epoch [660/3200], Loss: 0.1093
+Epoch [720/3200], Loss: 0.1001
+Epoch [780/3200], Loss: 0.0955
+Epoch [840/3200], Loss: 0.0940
+Epoch [900/3200], Loss: 0.0900
+Epoch [960/3200], Loss: 0.0869
+Epoch [1020/3200], Loss: 0.0821
+Epoch [1080/3200], Loss: 0.0563
+Epoch [1140/3200], Loss: 0.0262
+Epoch [1200/3200], Loss: 0.0107
+Epoch [1260/3200], Loss: 0.0070
+Epoch [1320/3200], Loss: 0.0080
+Epoch [1380/3200], Loss: 0.0044
+Epoch [1440/3200], Loss: 0.0036
+Epoch [1500/3200], Loss: 0.0042
+Epoch [1560/3200], Loss: 0.0032
+Epoch [1620/3200], Loss: 0.0021
+Epoch [1680/3200], Loss: 0.0023
+Epoch [1740/3200], Loss: 0.0017
+Epoch [1800/3200], Loss: 0.0057
+Epoch [1860/3200], Loss: 0.0015
+Epoch [1920/3200], Loss: 0.0199
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0035
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0019
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0041
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0033
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0007
+Epoch [2820/3200], Loss: 0.0036
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0015
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0380
+Epoch [3180/3200], Loss: 0.0007
+0.6570119857788086
+0.5771563053131104
+0.4930512011051178
+0.4342227876186371
+0.3922457695007324
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9603
+Epoch [120/3200], Loss: 0.7106
+Epoch [180/3200], Loss: 0.5493
+Epoch [240/3200], Loss: 0.4720
+Epoch [300/3200], Loss: 0.3913
+Epoch [360/3200], Loss: 0.3767
+Epoch [420/3200], Loss: 0.3543
+Epoch [480/3200], Loss: 0.2807
+Epoch [540/3200], Loss: 0.2191
+Epoch [600/3200], Loss: 0.1929
+Epoch [660/3200], Loss: 0.1842
+Epoch [720/3200], Loss: 0.1182
+Epoch [780/3200], Loss: 0.1001
+Epoch [840/3200], Loss: 0.0965
+Epoch [900/3200], Loss: 0.0936
+Epoch [960/3200], Loss: 0.0911
+Epoch [1020/3200], Loss: 0.0897
+Epoch [1080/3200], Loss: 0.0850
+Epoch [1140/3200], Loss: 0.0122
+Epoch [1200/3200], Loss: 0.0103
+Epoch [1260/3200], Loss: 0.0062
+Epoch [1320/3200], Loss: 0.0047
+Epoch [1380/3200], Loss: 0.0058
+Epoch [1440/3200], Loss: 0.0033
+Epoch [1500/3200], Loss: 0.0032
+Epoch [1560/3200], Loss: 0.0026
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0042
+Epoch [1740/3200], Loss: 0.0019
+Epoch [1800/3200], Loss: 0.0116
+Epoch [1860/3200], Loss: 0.0016
+Epoch [1920/3200], Loss: 0.0034
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0013
+Epoch [2100/3200], Loss: 0.0025
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0025
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0050
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0035
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0013
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0031
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0012
+Epoch [3180/3200], Loss: 0.0008
+0.6531717777252197
+0.5849337577819824
+0.5147552490234375
+0.4676538407802582
+0.4379161298274994
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9830
+Epoch [120/3200], Loss: 0.7177
+Epoch [180/3200], Loss: 0.5937
+Epoch [240/3200], Loss: 0.4848
+Epoch [300/3200], Loss: 0.4616
+Epoch [360/3200], Loss: 0.3751
+Epoch [420/3200], Loss: 0.3131
+Epoch [480/3200], Loss: 0.2867
+Epoch [540/3200], Loss: 0.2971
+Epoch [600/3200], Loss: 0.2722
+Epoch [660/3200], Loss: 0.2505
+Epoch [720/3200], Loss: 0.1919
+Epoch [780/3200], Loss: 0.1468
+Epoch [840/3200], Loss: 0.1129
+Epoch [900/3200], Loss: 0.0993
+Epoch [960/3200], Loss: 0.0944
+Epoch [1020/3200], Loss: 0.0905
+Epoch [1080/3200], Loss: 0.0826
+Epoch [1140/3200], Loss: 0.0434
+Epoch [1200/3200], Loss: 0.0148
+Epoch [1260/3200], Loss: 0.0097
+Epoch [1320/3200], Loss: 0.0066
+Epoch [1380/3200], Loss: 0.0063
+Epoch [1440/3200], Loss: 0.0468
+Epoch [1500/3200], Loss: 0.0041
+Epoch [1560/3200], Loss: 0.0032
+Epoch [1620/3200], Loss: 0.0026
+Epoch [1680/3200], Loss: 0.0151
+Epoch [1740/3200], Loss: 0.0024
+Epoch [1800/3200], Loss: 0.0019
+Epoch [1860/3200], Loss: 0.0017
+Epoch [1920/3200], Loss: 0.0019
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0363
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0022
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0013
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0013
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0081
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0033
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0050
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.625182032585144
+0.5641632080078125
+0.5152979493141174
+0.4810529351234436
+0.4263225197792053
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9857
+Epoch [120/3200], Loss: 0.8042
+Epoch [180/3200], Loss: 0.5271
+Epoch [240/3200], Loss: 0.4496
+Epoch [300/3200], Loss: 0.3822
+Epoch [360/3200], Loss: 0.3617
+Epoch [420/3200], Loss: 0.2891
+Epoch [480/3200], Loss: 0.2936
+Epoch [540/3200], Loss: 0.2503
+Epoch [600/3200], Loss: 0.1843
+Epoch [660/3200], Loss: 0.1745
+Epoch [720/3200], Loss: 0.1683
+Epoch [780/3200], Loss: 0.1708
+Epoch [840/3200], Loss: 0.1079
+Epoch [900/3200], Loss: 0.0847
+Epoch [960/3200], Loss: 0.0780
+Epoch [1020/3200], Loss: 0.0606
+Epoch [1080/3200], Loss: 0.0199
+Epoch [1140/3200], Loss: 0.0111
+Epoch [1200/3200], Loss: 0.0100
+Epoch [1260/3200], Loss: 0.0064
+Epoch [1320/3200], Loss: 0.0048
+Epoch [1380/3200], Loss: 0.0055
+Epoch [1440/3200], Loss: 0.0035
+Epoch [1500/3200], Loss: 0.0080
+Epoch [1560/3200], Loss: 0.0027
+Epoch [1620/3200], Loss: 0.0023
+Epoch [1680/3200], Loss: 0.0138
+Epoch [1740/3200], Loss: 0.0020
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0033
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0087
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0108
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0032
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0015
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0014
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0080
+Epoch [3180/3200], Loss: 0.0008
+0.6553137302398682
+0.5667580366134644
+0.4979460537433624
+0.4403625428676605
+0.4261828064918518
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9858
+Epoch [120/3200], Loss: 0.7217
+Epoch [180/3200], Loss: 0.5291
+Epoch [240/3200], Loss: 0.4616
+Epoch [300/3200], Loss: 0.3794
+Epoch [360/3200], Loss: 0.3674
+Epoch [420/3200], Loss: 0.3521
+Epoch [480/3200], Loss: 0.2843
+Epoch [540/3200], Loss: 0.2644
+Epoch [600/3200], Loss: 0.2057
+Epoch [660/3200], Loss: 0.1851
+Epoch [720/3200], Loss: 0.1577
+Epoch [780/3200], Loss: 0.1070
+Epoch [840/3200], Loss: 0.1020
+Epoch [900/3200], Loss: 0.0953
+Epoch [960/3200], Loss: 0.0924
+Epoch [1020/3200], Loss: 0.0901
+Epoch [1080/3200], Loss: 0.0894
+Epoch [1140/3200], Loss: 0.0861
+Epoch [1200/3200], Loss: 0.0818
+Epoch [1260/3200], Loss: 0.0610
+Epoch [1320/3200], Loss: 0.0251
+Epoch [1380/3200], Loss: 0.0105
+Epoch [1440/3200], Loss: 0.0070
+Epoch [1500/3200], Loss: 0.0053
+Epoch [1560/3200], Loss: 0.0057
+Epoch [1620/3200], Loss: 0.0038
+Epoch [1680/3200], Loss: 0.0032
+Epoch [1740/3200], Loss: 0.0027
+Epoch [1800/3200], Loss: 0.0023
+Epoch [1860/3200], Loss: 0.0025
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0043
+Epoch [2040/3200], Loss: 0.0019
+Epoch [2100/3200], Loss: 0.0016
+Epoch [2160/3200], Loss: 0.0016
+Epoch [2220/3200], Loss: 0.0016
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0024
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0013
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0012
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0012
+Epoch [3180/3200], Loss: 0.0007
+0.6162105798721313
+0.5137841105461121
+0.46529924869537354
+0.42565155029296875
+0.3661670386791229
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9839
+Epoch [120/3200], Loss: 0.6957
+Epoch [180/3200], Loss: 0.5307
+Epoch [240/3200], Loss: 0.4566
+Epoch [300/3200], Loss: 0.3745
+Epoch [360/3200], Loss: 0.3616
+Epoch [420/3200], Loss: 0.3475
+Epoch [480/3200], Loss: 0.2643
+Epoch [540/3200], Loss: 0.2481
+Epoch [600/3200], Loss: 0.1800
+Epoch [660/3200], Loss: 0.1676
+Epoch [720/3200], Loss: 0.1403
+Epoch [780/3200], Loss: 0.0949
+Epoch [840/3200], Loss: 0.0885
+Epoch [900/3200], Loss: 0.0847
+Epoch [960/3200], Loss: 0.0835
+Epoch [1020/3200], Loss: 0.0808
+Epoch [1080/3200], Loss: 0.0810
+Epoch [1140/3200], Loss: 0.0767
+Epoch [1200/3200], Loss: 0.1070
+Epoch [1260/3200], Loss: 0.0174
+Epoch [1320/3200], Loss: 0.0086
+Epoch [1380/3200], Loss: 0.0058
+Epoch [1440/3200], Loss: 0.0054
+Epoch [1500/3200], Loss: 0.0039
+Epoch [1560/3200], Loss: 0.0032
+Epoch [1620/3200], Loss: 0.0034
+Epoch [1680/3200], Loss: 0.0027
+Epoch [1740/3200], Loss: 0.0023
+Epoch [1800/3200], Loss: 0.0020
+Epoch [1860/3200], Loss: 0.0024
+Epoch [1920/3200], Loss: 0.0018
+Epoch [1980/3200], Loss: 0.0016
+Epoch [2040/3200], Loss: 0.0015
+Epoch [2100/3200], Loss: 0.0042
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0015
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0047
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0102
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0060
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0037
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0008
+0.6630674600601196
+0.5692315101623535
+0.48557183146476746
+0.45097047090530396
+0.4253239631652832
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9803
+Epoch [120/3200], Loss: 0.7001
+Epoch [180/3200], Loss: 0.5534
+Epoch [240/3200], Loss: 0.4755
+Epoch [300/3200], Loss: 0.4036
+Epoch [360/3200], Loss: 0.3377
+Epoch [420/3200], Loss: 0.2830
+Epoch [480/3200], Loss: 0.2708
+Epoch [540/3200], Loss: 0.2089
+Epoch [600/3200], Loss: 0.1875
+Epoch [660/3200], Loss: 0.1877
+Epoch [720/3200], Loss: 0.1798
+Epoch [780/3200], Loss: 0.1766
+Epoch [840/3200], Loss: 0.1734
+Epoch [900/3200], Loss: 0.1635
+Epoch [960/3200], Loss: 0.1092
+Epoch [1020/3200], Loss: 0.0913
+Epoch [1080/3200], Loss: 0.0869
+Epoch [1140/3200], Loss: 0.0840
+Epoch [1200/3200], Loss: 0.0819
+Epoch [1260/3200], Loss: 0.0740
+Epoch [1320/3200], Loss: 0.0298
+Epoch [1380/3200], Loss: 0.0134
+Epoch [1440/3200], Loss: 0.0109
+Epoch [1500/3200], Loss: 0.0059
+Epoch [1560/3200], Loss: 0.0393
+Epoch [1620/3200], Loss: 0.0039
+Epoch [1680/3200], Loss: 0.0030
+Epoch [1740/3200], Loss: 0.0029
+Epoch [1800/3200], Loss: 0.0023
+Epoch [1860/3200], Loss: 0.0026
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0016
+Epoch [2040/3200], Loss: 0.0014
+Epoch [2100/3200], Loss: 0.0041
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0014
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0013
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0050
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0022
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0185
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0007
+0.6606730222702026
+0.5725989937782288
+0.5073532462120056
+0.45174866914749146
+0.4166649281978607
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9489
+Epoch [120/3200], Loss: 0.7519
+Epoch [180/3200], Loss: 0.4839
+Epoch [240/3200], Loss: 0.3911
+Epoch [300/3200], Loss: 0.3741
+Epoch [360/3200], Loss: 0.3615
+Epoch [420/3200], Loss: 0.2950
+Epoch [480/3200], Loss: 0.2619
+Epoch [540/3200], Loss: 0.1948
+Epoch [600/3200], Loss: 0.1748
+Epoch [660/3200], Loss: 0.1682
+Epoch [720/3200], Loss: 0.1603
+Epoch [780/3200], Loss: 0.1109
+Epoch [840/3200], Loss: 0.0914
+Epoch [900/3200], Loss: 0.0863
+Epoch [960/3200], Loss: 0.0833
+Epoch [1020/3200], Loss: 0.0812
+Epoch [1080/3200], Loss: 0.0803
+Epoch [1140/3200], Loss: 0.0787
+Epoch [1200/3200], Loss: 0.0776
+Epoch [1260/3200], Loss: 0.0768
+Epoch [1320/3200], Loss: 0.0522
+Epoch [1380/3200], Loss: 0.0112
+Epoch [1440/3200], Loss: 0.0111
+Epoch [1500/3200], Loss: 0.0052
+Epoch [1560/3200], Loss: 0.0035
+Epoch [1620/3200], Loss: 0.0027
+Epoch [1680/3200], Loss: 0.0059
+Epoch [1740/3200], Loss: 0.0022
+Epoch [1800/3200], Loss: 0.0018
+Epoch [1860/3200], Loss: 0.0049
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0024
+Epoch [2220/3200], Loss: 0.0012
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0077
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0016
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0016
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0234
+Epoch [3180/3200], Loss: 0.0007
+0.661421000957489
+0.6090312004089355
+0.5480112433433533
+0.49867159128189087
+0.4450386166572571
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9841
+Epoch [120/3200], Loss: 0.7833
+Epoch [180/3200], Loss: 0.5802
+Epoch [240/3200], Loss: 0.4733
+Epoch [300/3200], Loss: 0.3865
+Epoch [360/3200], Loss: 0.3723
+Epoch [420/3200], Loss: 0.3626
+Epoch [480/3200], Loss: 0.3493
+Epoch [540/3200], Loss: 0.2699
+Epoch [600/3200], Loss: 0.1884
+Epoch [660/3200], Loss: 0.1787
+Epoch [720/3200], Loss: 0.1797
+Epoch [780/3200], Loss: 0.1682
+Epoch [840/3200], Loss: 0.1178
+Epoch [900/3200], Loss: 0.0969
+Epoch [960/3200], Loss: 0.0918
+Epoch [1020/3200], Loss: 0.0920
+Epoch [1080/3200], Loss: 0.0885
+Epoch [1140/3200], Loss: 0.0868
+Epoch [1200/3200], Loss: 0.0854
+Epoch [1260/3200], Loss: 0.0876
+Epoch [1320/3200], Loss: 0.0830
+Epoch [1380/3200], Loss: 0.0806
+Epoch [1440/3200], Loss: 0.0777
+Epoch [1500/3200], Loss: 0.1733
+Epoch [1560/3200], Loss: 0.0166
+Epoch [1620/3200], Loss: 0.0083
+Epoch [1680/3200], Loss: 0.0062
+Epoch [1740/3200], Loss: 0.0045
+Epoch [1800/3200], Loss: 0.0120
+Epoch [1860/3200], Loss: 0.0031
+Epoch [1920/3200], Loss: 0.0026
+Epoch [1980/3200], Loss: 0.0021
+Epoch [2040/3200], Loss: 0.0022
+Epoch [2100/3200], Loss: 0.0018
+Epoch [2160/3200], Loss: 0.0021
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0155
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0013
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0337
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0256
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0011
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0011
+Epoch [3180/3200], Loss: 0.0007
+0.6292937994003296
+0.5157607197761536
+0.41276296973228455
+0.38073062896728516
+0.35990244150161743
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9641
+Epoch [120/3200], Loss: 0.7714
+Epoch [180/3200], Loss: 0.6148
+Epoch [240/3200], Loss: 0.4624
+Epoch [300/3200], Loss: 0.3859
+Epoch [360/3200], Loss: 0.3450
+Epoch [420/3200], Loss: 0.2883
+Epoch [480/3200], Loss: 0.2803
+Epoch [540/3200], Loss: 0.3017
+Epoch [600/3200], Loss: 0.2679
+Epoch [660/3200], Loss: 0.2622
+Epoch [720/3200], Loss: 0.2627
+Epoch [780/3200], Loss: 0.1761
+Epoch [840/3200], Loss: 0.1664
+Epoch [900/3200], Loss: 0.1192
+Epoch [960/3200], Loss: 0.0894
+Epoch [1020/3200], Loss: 0.0674
+Epoch [1080/3200], Loss: 0.0137
+Epoch [1140/3200], Loss: 0.0084
+Epoch [1200/3200], Loss: 0.0060
+Epoch [1260/3200], Loss: 0.0813
+Epoch [1320/3200], Loss: 0.0041
+Epoch [1380/3200], Loss: 0.0031
+Epoch [1440/3200], Loss: 0.0025
+Epoch [1500/3200], Loss: 0.0037
+Epoch [1560/3200], Loss: 0.0020
+Epoch [1620/3200], Loss: 0.0017
+Epoch [1680/3200], Loss: 0.0020
+Epoch [1740/3200], Loss: 0.0015
+Epoch [1800/3200], Loss: 0.0013
+Epoch [1860/3200], Loss: 0.0031
+Epoch [1920/3200], Loss: 0.0012
+Epoch [1980/3200], Loss: 0.0011
+Epoch [2040/3200], Loss: 0.0021
+Epoch [2100/3200], Loss: 0.0011
+Epoch [2160/3200], Loss: 0.0010
+Epoch [2220/3200], Loss: 0.0009
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0009
+Epoch [2400/3200], Loss: 0.0008
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0007
+Epoch [2640/3200], Loss: 0.0014
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0007
+Epoch [2820/3200], Loss: 0.0061
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0006
+Epoch [3000/3200], Loss: 0.0013
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0232
+Epoch [3180/3200], Loss: 0.0007
+0.6526232361793518
+0.5655782222747803
+0.5304955840110779
+0.4437864422798157
+0.44911959767341614
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9627
+Epoch [120/3200], Loss: 0.7573
+Epoch [180/3200], Loss: 0.5530
+Epoch [240/3200], Loss: 0.4435
+Epoch [300/3200], Loss: 0.3721
+Epoch [360/3200], Loss: 0.3528
+Epoch [420/3200], Loss: 0.2758
+Epoch [480/3200], Loss: 0.2637
+Epoch [540/3200], Loss: 0.2558
+Epoch [600/3200], Loss: 0.2511
+Epoch [660/3200], Loss: 0.2451
+Epoch [720/3200], Loss: 0.2308
+Epoch [780/3200], Loss: 0.1741
+Epoch [840/3200], Loss: 0.1626
+Epoch [900/3200], Loss: 0.1570
+Epoch [960/3200], Loss: 0.1463
+Epoch [1020/3200], Loss: 0.0954
+Epoch [1080/3200], Loss: 0.0746
+Epoch [1140/3200], Loss: 0.0411
+Epoch [1200/3200], Loss: 0.0169
+Epoch [1260/3200], Loss: 0.0102
+Epoch [1320/3200], Loss: 0.0076
+Epoch [1380/3200], Loss: 0.0225
+Epoch [1440/3200], Loss: 0.0049
+Epoch [1500/3200], Loss: 0.0038
+Epoch [1560/3200], Loss: 0.0055
+Epoch [1620/3200], Loss: 0.0028
+Epoch [1680/3200], Loss: 0.0024
+Epoch [1740/3200], Loss: 0.0034
+Epoch [1800/3200], Loss: 0.0020
+Epoch [1860/3200], Loss: 0.0068
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0015
+Epoch [2040/3200], Loss: 0.0042
+Epoch [2100/3200], Loss: 0.0014
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0043
+Epoch [2280/3200], Loss: 0.0014
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0010
+Epoch [2460/3200], Loss: 0.0017
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0019
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0082
+Epoch [2820/3200], Loss: 0.0010
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0018
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0012
+Epoch [3180/3200], Loss: 0.0007
+0.6684467196464539
+0.5784220695495605
+0.48081520199775696
+0.41717585921287537
+0.3666861355304718
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9708
+Epoch [120/3200], Loss: 0.6581
+Epoch [180/3200], Loss: 0.5080
+Epoch [240/3200], Loss: 0.4613
+Epoch [300/3200], Loss: 0.4092
+Epoch [360/3200], Loss: 0.3519
+Epoch [420/3200], Loss: 0.2833
+Epoch [480/3200], Loss: 0.2725
+Epoch [540/3200], Loss: 0.2442
+Epoch [600/3200], Loss: 0.1860
+Epoch [660/3200], Loss: 0.1758
+Epoch [720/3200], Loss: 0.1704
+Epoch [780/3200], Loss: 0.1532
+Epoch [840/3200], Loss: 0.1033
+Epoch [900/3200], Loss: 0.0928
+Epoch [960/3200], Loss: 0.0894
+Epoch [1020/3200], Loss: 0.0827
+Epoch [1080/3200], Loss: 0.0308
+Epoch [1140/3200], Loss: 0.0148
+Epoch [1200/3200], Loss: 0.0080
+Epoch [1260/3200], Loss: 0.0082
+Epoch [1320/3200], Loss: 0.0049
+Epoch [1380/3200], Loss: 0.0038
+Epoch [1440/3200], Loss: 0.0031
+Epoch [1500/3200], Loss: 0.0073
+Epoch [1560/3200], Loss: 0.0028
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0019
+Epoch [1740/3200], Loss: 0.0022
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0014
+Epoch [1920/3200], Loss: 0.0012
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0016
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0023
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0008
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0007
+Epoch [2700/3200], Loss: 0.0014
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0102
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0006
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0006
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0010
+0.6298502087593079
+0.5024772882461548
+0.40581440925598145
+0.32744765281677246
+0.27736803889274597
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9554
+Epoch [120/3200], Loss: 0.7696
+Epoch [180/3200], Loss: 0.5806
+Epoch [240/3200], Loss: 0.4738
+Epoch [300/3200], Loss: 0.4445
+Epoch [360/3200], Loss: 0.3041
+Epoch [420/3200], Loss: 0.2810
+Epoch [480/3200], Loss: 0.2648
+Epoch [540/3200], Loss: 0.1980
+Epoch [600/3200], Loss: 0.1837
+Epoch [660/3200], Loss: 0.1779
+Epoch [720/3200], Loss: 0.1653
+Epoch [780/3200], Loss: 0.1068
+Epoch [840/3200], Loss: 0.0962
+Epoch [900/3200], Loss: 0.0901
+Epoch [960/3200], Loss: 0.0874
+Epoch [1020/3200], Loss: 0.0827
+Epoch [1080/3200], Loss: 0.1146
+Epoch [1140/3200], Loss: 0.0319
+Epoch [1200/3200], Loss: 0.0090
+Epoch [1260/3200], Loss: 0.0059
+Epoch [1320/3200], Loss: 0.0045
+Epoch [1380/3200], Loss: 0.0052
+Epoch [1440/3200], Loss: 0.0033
+Epoch [1500/3200], Loss: 0.0027
+Epoch [1560/3200], Loss: 0.0033
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0018
+Epoch [1740/3200], Loss: 0.0044
+Epoch [1800/3200], Loss: 0.0016
+Epoch [1860/3200], Loss: 0.0014
+Epoch [1920/3200], Loss: 0.0029
+Epoch [1980/3200], Loss: 0.0013
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0009
+Epoch [2400/3200], Loss: 0.0023
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0016
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0008
+Epoch [2700/3200], Loss: 0.0134
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0078
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0011
+0.6411619186401367
+0.5649670362472534
+0.5024095177650452
+0.4261566400527954
+0.389248251914978
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9500
+Epoch [120/3200], Loss: 0.6870
+Epoch [180/3200], Loss: 0.4843
+Epoch [240/3200], Loss: 0.4384
+Epoch [300/3200], Loss: 0.3636
+Epoch [360/3200], Loss: 0.3085
+Epoch [420/3200], Loss: 0.2836
+Epoch [480/3200], Loss: 0.2729
+Epoch [540/3200], Loss: 0.2685
+Epoch [600/3200], Loss: 0.2645
+Epoch [660/3200], Loss: 0.2703
+Epoch [720/3200], Loss: 0.1953
+Epoch [780/3200], Loss: 0.1759
+Epoch [840/3200], Loss: 0.1681
+Epoch [900/3200], Loss: 0.1383
+Epoch [960/3200], Loss: 0.0960
+Epoch [1020/3200], Loss: 0.0897
+Epoch [1080/3200], Loss: 0.0882
+Epoch [1140/3200], Loss: 0.0847
+Epoch [1200/3200], Loss: 0.0821
+Epoch [1260/3200], Loss: 0.0771
+Epoch [1320/3200], Loss: 0.0232
+Epoch [1380/3200], Loss: 0.0823
+Epoch [1440/3200], Loss: 0.0077
+Epoch [1500/3200], Loss: 0.0053
+Epoch [1560/3200], Loss: 0.0059
+Epoch [1620/3200], Loss: 0.0036
+Epoch [1680/3200], Loss: 0.0029
+Epoch [1740/3200], Loss: 0.0028
+Epoch [1800/3200], Loss: 0.0022
+Epoch [1860/3200], Loss: 0.0157
+Epoch [1920/3200], Loss: 0.0018
+Epoch [1980/3200], Loss: 0.0016
+Epoch [2040/3200], Loss: 0.0064
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0013
+Epoch [2220/3200], Loss: 0.0177
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0014
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0428
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0270
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0047
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0010
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0010
+0.6351490020751953
+0.5802261233329773
+0.536450982093811
+0.4830852746963501
+0.42834678292274475
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9594
+Epoch [120/3200], Loss: 0.7714
+Epoch [180/3200], Loss: 0.5718
+Epoch [240/3200], Loss: 0.4098
+Epoch [300/3200], Loss: 0.3768
+Epoch [360/3200], Loss: 0.3544
+Epoch [420/3200], Loss: 0.2823
+Epoch [480/3200], Loss: 0.2709
+Epoch [540/3200], Loss: 0.2638
+Epoch [600/3200], Loss: 0.2561
+Epoch [660/3200], Loss: 0.2349
+Epoch [720/3200], Loss: 0.1844
+Epoch [780/3200], Loss: 0.1123
+Epoch [840/3200], Loss: 0.0957
+Epoch [900/3200], Loss: 0.1447
+Epoch [960/3200], Loss: 0.0212
+Epoch [1020/3200], Loss: 0.0121
+Epoch [1080/3200], Loss: 0.0099
+Epoch [1140/3200], Loss: 0.0070
+Epoch [1200/3200], Loss: 0.0060
+Epoch [1260/3200], Loss: 0.0046
+Epoch [1320/3200], Loss: 0.0062
+Epoch [1380/3200], Loss: 0.0034
+Epoch [1440/3200], Loss: 0.0038
+Epoch [1500/3200], Loss: 0.0026
+Epoch [1560/3200], Loss: 0.0064
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0019
+Epoch [1740/3200], Loss: 0.0024
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0015
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0013
+Epoch [2040/3200], Loss: 0.0064
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0041
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0013
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0351
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0014
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0016
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0011
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0007
+0.6636805534362793
+0.5825673937797546
+0.497610479593277
+0.42662087082862854
+0.36374300718307495
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9597
+Epoch [120/3200], Loss: 0.7736
+Epoch [180/3200], Loss: 0.5246
+Epoch [240/3200], Loss: 0.4648
+Epoch [300/3200], Loss: 0.3785
+Epoch [360/3200], Loss: 0.3652
+Epoch [420/3200], Loss: 0.3577
+Epoch [480/3200], Loss: 0.3404
+Epoch [540/3200], Loss: 0.2718
+Epoch [600/3200], Loss: 0.2568
+Epoch [660/3200], Loss: 0.2599
+Epoch [720/3200], Loss: 0.2201
+Epoch [780/3200], Loss: 0.1798
+Epoch [840/3200], Loss: 0.1656
+Epoch [900/3200], Loss: 0.1427
+Epoch [960/3200], Loss: 0.1044
+Epoch [1020/3200], Loss: 0.0880
+Epoch [1080/3200], Loss: 0.0853
+Epoch [1140/3200], Loss: 0.0813
+Epoch [1200/3200], Loss: 0.0794
+Epoch [1260/3200], Loss: 0.0772
+Epoch [1320/3200], Loss: 0.0757
+Epoch [1380/3200], Loss: 0.0716
+Epoch [1440/3200], Loss: 0.0539
+Epoch [1500/3200], Loss: 0.0272
+Epoch [1560/3200], Loss: 0.0111
+Epoch [1620/3200], Loss: 0.0070
+Epoch [1680/3200], Loss: 0.0050
+Epoch [1740/3200], Loss: 0.0039
+Epoch [1800/3200], Loss: 0.0109
+Epoch [1860/3200], Loss: 0.0028
+Epoch [1920/3200], Loss: 0.0024
+Epoch [1980/3200], Loss: 0.0024
+Epoch [2040/3200], Loss: 0.0020
+Epoch [2100/3200], Loss: 0.0016
+Epoch [2160/3200], Loss: 0.0027
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0013
+Epoch [2340/3200], Loss: 0.0034
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0018
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0015
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0030
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0012
+Epoch [3180/3200], Loss: 0.0008
+0.6372184157371521
+0.5657762289047241
+0.4981984496116638
+0.4250572621822357
+0.3579777777194977
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9843
+Epoch [120/3200], Loss: 0.7555
+Epoch [180/3200], Loss: 0.5804
+Epoch [240/3200], Loss: 0.5233
+Epoch [300/3200], Loss: 0.3849
+Epoch [360/3200], Loss: 0.3504
+Epoch [420/3200], Loss: 0.3238
+Epoch [480/3200], Loss: 0.2585
+Epoch [540/3200], Loss: 0.2800
+Epoch [600/3200], Loss: 0.1814
+Epoch [660/3200], Loss: 0.1717
+Epoch [720/3200], Loss: 0.1301
+Epoch [780/3200], Loss: 0.0936
+Epoch [840/3200], Loss: 0.0839
+Epoch [900/3200], Loss: 0.0804
+Epoch [960/3200], Loss: 0.0758
+Epoch [1020/3200], Loss: 0.0736
+Epoch [1080/3200], Loss: 0.0709
+Epoch [1140/3200], Loss: 0.0709
+Epoch [1200/3200], Loss: 0.0609
+Epoch [1260/3200], Loss: 0.0275
+Epoch [1320/3200], Loss: 0.0087
+Epoch [1380/3200], Loss: 0.0111
+Epoch [1440/3200], Loss: 0.0051
+Epoch [1500/3200], Loss: 0.0039
+Epoch [1560/3200], Loss: 0.0044
+Epoch [1620/3200], Loss: 0.0030
+Epoch [1680/3200], Loss: 0.0034
+Epoch [1740/3200], Loss: 0.0025
+Epoch [1800/3200], Loss: 0.0021
+Epoch [1860/3200], Loss: 0.0018
+Epoch [1920/3200], Loss: 0.0021
+Epoch [1980/3200], Loss: 0.0016
+Epoch [2040/3200], Loss: 0.0015
+Epoch [2100/3200], Loss: 0.0018
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0015
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0050
+Epoch [2460/3200], Loss: 0.0011
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0023
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0017
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0019
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0008
+0.63791823387146
+0.5673155188560486
+0.5102457404136658
+0.432807058095932
+0.3789106607437134
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9693
+Epoch [120/3200], Loss: 0.7228
+Epoch [180/3200], Loss: 0.5661
+Epoch [240/3200], Loss: 0.4743
+Epoch [300/3200], Loss: 0.3873
+Epoch [360/3200], Loss: 0.3704
+Epoch [420/3200], Loss: 0.3237
+Epoch [480/3200], Loss: 0.2825
+Epoch [540/3200], Loss: 0.2729
+Epoch [600/3200], Loss: 0.2667
+Epoch [660/3200], Loss: 0.2591
+Epoch [720/3200], Loss: 0.2284
+Epoch [780/3200], Loss: 0.1734
+Epoch [840/3200], Loss: 0.1058
+Epoch [900/3200], Loss: 0.0978
+Epoch [960/3200], Loss: 0.1005
+Epoch [1020/3200], Loss: 0.0892
+Epoch [1080/3200], Loss: 0.0857
+Epoch [1140/3200], Loss: 0.1078
+Epoch [1200/3200], Loss: 0.0637
+Epoch [1260/3200], Loss: 0.0136
+Epoch [1320/3200], Loss: 0.0074
+Epoch [1380/3200], Loss: 0.0052
+Epoch [1440/3200], Loss: 0.0040
+Epoch [1500/3200], Loss: 0.0036
+Epoch [1560/3200], Loss: 0.0028
+Epoch [1620/3200], Loss: 0.0053
+Epoch [1680/3200], Loss: 0.0022
+Epoch [1740/3200], Loss: 0.0019
+Epoch [1800/3200], Loss: 0.0572
+Epoch [1860/3200], Loss: 0.0017
+Epoch [1920/3200], Loss: 0.0014
+Epoch [1980/3200], Loss: 0.0387
+Epoch [2040/3200], Loss: 0.0013
+Epoch [2100/3200], Loss: 0.0011
+Epoch [2160/3200], Loss: 0.0014
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0421
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0072
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0203
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0007
+Epoch [2820/3200], Loss: 0.0014
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0375
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0009
+0.6639886498451233
+0.563391923904419
+0.48080772161483765
+0.4208284318447113
+0.37079212069511414
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9560
+Epoch [120/3200], Loss: 0.7117
+Epoch [180/3200], Loss: 0.5298
+Epoch [240/3200], Loss: 0.4811
+Epoch [300/3200], Loss: 0.4583
+Epoch [360/3200], Loss: 0.3361
+Epoch [420/3200], Loss: 0.2839
+Epoch [480/3200], Loss: 0.2707
+Epoch [540/3200], Loss: 0.2068
+Epoch [600/3200], Loss: 0.1833
+Epoch [660/3200], Loss: 0.1735
+Epoch [720/3200], Loss: 0.1632
+Epoch [780/3200], Loss: 0.1016
+Epoch [840/3200], Loss: 0.0879
+Epoch [900/3200], Loss: 0.1010
+Epoch [960/3200], Loss: 0.0798
+Epoch [1020/3200], Loss: 0.0721
+Epoch [1080/3200], Loss: 0.0233
+Epoch [1140/3200], Loss: 0.0092
+Epoch [1200/3200], Loss: 0.0077
+Epoch [1260/3200], Loss: 0.0050
+Epoch [1320/3200], Loss: 0.0038
+Epoch [1380/3200], Loss: 0.0046
+Epoch [1440/3200], Loss: 0.0028
+Epoch [1500/3200], Loss: 0.0023
+Epoch [1560/3200], Loss: 0.0026
+Epoch [1620/3200], Loss: 0.0019
+Epoch [1680/3200], Loss: 0.0023
+Epoch [1740/3200], Loss: 0.0016
+Epoch [1800/3200], Loss: 0.0014
+Epoch [1860/3200], Loss: 0.0017
+Epoch [1920/3200], Loss: 0.0012
+Epoch [1980/3200], Loss: 0.0011
+Epoch [2040/3200], Loss: 0.0011
+Epoch [2100/3200], Loss: 0.0131
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0009
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0009
+Epoch [2400/3200], Loss: 0.0047
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0007
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0035
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0016
+0.6437105536460876
+0.5688115954399109
+0.46869954466819763
+0.4015626907348633
+0.348129004240036
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9748
+Epoch [120/3200], Loss: 0.7253
+Epoch [180/3200], Loss: 0.5165
+Epoch [240/3200], Loss: 0.4764
+Epoch [300/3200], Loss: 0.3967
+Epoch [360/3200], Loss: 0.3759
+Epoch [420/3200], Loss: 0.2921
+Epoch [480/3200], Loss: 0.2798
+Epoch [540/3200], Loss: 0.2745
+Epoch [600/3200], Loss: 0.2707
+Epoch [660/3200], Loss: 0.2494
+Epoch [720/3200], Loss: 0.1944
+Epoch [780/3200], Loss: 0.1877
+Epoch [840/3200], Loss: 0.1852
+Epoch [900/3200], Loss: 0.1827
+Epoch [960/3200], Loss: 0.1802
+Epoch [1020/3200], Loss: 0.1753
+Epoch [1080/3200], Loss: 0.1206
+Epoch [1140/3200], Loss: 0.0990
+Epoch [1200/3200], Loss: 0.0940
+Epoch [1260/3200], Loss: 0.0889
+Epoch [1320/3200], Loss: 0.0837
+Epoch [1380/3200], Loss: 0.0723
+Epoch [1440/3200], Loss: 0.0126
+Epoch [1500/3200], Loss: 0.0081
+Epoch [1560/3200], Loss: 0.0056
+Epoch [1620/3200], Loss: 0.0041
+Epoch [1680/3200], Loss: 0.0037
+Epoch [1740/3200], Loss: 0.0029
+Epoch [1800/3200], Loss: 0.0028
+Epoch [1860/3200], Loss: 0.0022
+Epoch [1920/3200], Loss: 0.0083
+Epoch [1980/3200], Loss: 0.0019
+Epoch [2040/3200], Loss: 0.0017
+Epoch [2100/3200], Loss: 0.0021
+Epoch [2160/3200], Loss: 0.0016
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0025
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0019
+Epoch [2520/3200], Loss: 0.0012
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0018
+Epoch [2700/3200], Loss: 0.0010
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0025
+Epoch [2880/3200], Loss: 0.0010
+Epoch [2940/3200], Loss: 0.0009
+Epoch [3000/3200], Loss: 0.0028
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0056
+0.6640539169311523
+0.5723606944084167
+0.485029399394989
+0.40821370482444763
+0.3553580045700073
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9653
+Epoch [120/3200], Loss: 0.7373
+Epoch [180/3200], Loss: 0.5092
+Epoch [240/3200], Loss: 0.4660
+Epoch [300/3200], Loss: 0.3807
+Epoch [360/3200], Loss: 0.3426
+Epoch [420/3200], Loss: 0.2879
+Epoch [480/3200], Loss: 0.2775
+Epoch [540/3200], Loss: 0.2688
+Epoch [600/3200], Loss: 0.2357
+Epoch [660/3200], Loss: 0.1947
+Epoch [720/3200], Loss: 0.1789
+Epoch [780/3200], Loss: 0.1717
+Epoch [840/3200], Loss: 0.1651
+Epoch [900/3200], Loss: 0.1442
+Epoch [960/3200], Loss: 0.0754
+Epoch [1020/3200], Loss: 0.0213
+Epoch [1080/3200], Loss: 0.0291
+Epoch [1140/3200], Loss: 0.0081
+Epoch [1200/3200], Loss: 0.0057
+Epoch [1260/3200], Loss: 0.0422
+Epoch [1320/3200], Loss: 0.0037
+Epoch [1380/3200], Loss: 0.0063
+Epoch [1440/3200], Loss: 0.0029
+Epoch [1500/3200], Loss: 0.0022
+Epoch [1560/3200], Loss: 0.0274
+Epoch [1620/3200], Loss: 0.0019
+Epoch [1680/3200], Loss: 0.0016
+Epoch [1740/3200], Loss: 0.0044
+Epoch [1800/3200], Loss: 0.0013
+Epoch [1860/3200], Loss: 0.0035
+Epoch [1920/3200], Loss: 0.0012
+Epoch [1980/3200], Loss: 0.0011
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0010
+Epoch [2160/3200], Loss: 0.0058
+Epoch [2220/3200], Loss: 0.0010
+Epoch [2280/3200], Loss: 0.0009
+Epoch [2340/3200], Loss: 0.0008
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0008
+Epoch [2520/3200], Loss: 0.0011
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0007
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0007
+Epoch [2820/3200], Loss: 0.0010
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0006
+Epoch [3000/3200], Loss: 0.0022
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0011
+0.6553667187690735
+0.570181131362915
+0.4905445873737335
+0.4271443784236908
+0.37610071897506714
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9740
+Epoch [120/3200], Loss: 0.7749
+Epoch [180/3200], Loss: 0.5484
+Epoch [240/3200], Loss: 0.3930
+Epoch [300/3200], Loss: 0.3782
+Epoch [360/3200], Loss: 0.3742
+Epoch [420/3200], Loss: 0.3519
+Epoch [480/3200], Loss: 0.3119
+Epoch [540/3200], Loss: 0.2691
+Epoch [600/3200], Loss: 0.2658
+Epoch [660/3200], Loss: 0.2504
+Epoch [720/3200], Loss: 0.1992
+Epoch [780/3200], Loss: 0.1757
+Epoch [840/3200], Loss: 0.1667
+Epoch [900/3200], Loss: 0.1769
+Epoch [960/3200], Loss: 0.1075
+Epoch [1020/3200], Loss: 0.0818
+Epoch [1080/3200], Loss: 0.0744
+Epoch [1140/3200], Loss: 0.0486
+Epoch [1200/3200], Loss: 0.0224
+Epoch [1260/3200], Loss: 0.0112
+Epoch [1320/3200], Loss: 0.0075
+Epoch [1380/3200], Loss: 0.0055
+Epoch [1440/3200], Loss: 0.0059
+Epoch [1500/3200], Loss: 0.0037
+Epoch [1560/3200], Loss: 0.0030
+Epoch [1620/3200], Loss: 0.0110
+Epoch [1680/3200], Loss: 0.0024
+Epoch [1740/3200], Loss: 0.0020
+Epoch [1800/3200], Loss: 0.0017
+Epoch [1860/3200], Loss: 0.0212
+Epoch [1920/3200], Loss: 0.0016
+Epoch [1980/3200], Loss: 0.0013
+Epoch [2040/3200], Loss: 0.0142
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0041
+Epoch [2280/3200], Loss: 0.0010
+Epoch [2340/3200], Loss: 0.0009
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0009
+Epoch [2520/3200], Loss: 0.0008
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0007
+Epoch [2700/3200], Loss: 0.0029
+Epoch [2760/3200], Loss: 0.0008
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0029
+Epoch [2940/3200], Loss: 0.0007
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0006
+Epoch [3180/3200], Loss: 0.0011
+0.6434177756309509
+0.5341090559959412
+0.45475149154663086
+0.39350032806396484
+0.3441089987754822
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9564
+Epoch [120/3200], Loss: 0.7115
+Epoch [180/3200], Loss: 0.5102
+Epoch [240/3200], Loss: 0.4733
+Epoch [300/3200], Loss: 0.3892
+Epoch [360/3200], Loss: 0.3498
+Epoch [420/3200], Loss: 0.2818
+Epoch [480/3200], Loss: 0.2702
+Epoch [540/3200], Loss: 0.2644
+Epoch [600/3200], Loss: 0.2570
+Epoch [660/3200], Loss: 0.2117
+Epoch [720/3200], Loss: 0.1720
+Epoch [780/3200], Loss: 0.1511
+Epoch [840/3200], Loss: 0.0955
+Epoch [900/3200], Loss: 0.0860
+Epoch [960/3200], Loss: 0.0824
+Epoch [1020/3200], Loss: 0.0532
+Epoch [1080/3200], Loss: 0.0153
+Epoch [1140/3200], Loss: 0.0107
+Epoch [1200/3200], Loss: 0.0071
+Epoch [1260/3200], Loss: 0.0069
+Epoch [1320/3200], Loss: 0.0046
+Epoch [1380/3200], Loss: 0.0065
+Epoch [1440/3200], Loss: 0.0035
+Epoch [1500/3200], Loss: 0.0028
+Epoch [1560/3200], Loss: 0.0073
+Epoch [1620/3200], Loss: 0.0025
+Epoch [1680/3200], Loss: 0.0020
+Epoch [1740/3200], Loss: 0.0018
+Epoch [1800/3200], Loss: 0.0024
+Epoch [1860/3200], Loss: 0.0017
+Epoch [1920/3200], Loss: 0.0015
+Epoch [1980/3200], Loss: 0.0211
+Epoch [2040/3200], Loss: 0.0016
+Epoch [2100/3200], Loss: 0.0013
+Epoch [2160/3200], Loss: 0.0592
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0099
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0019
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0029
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0011
+Epoch [3180/3200], Loss: 0.0007
+0.6652434468269348
+0.5936648845672607
+0.541763961315155
+0.4531424641609192
+0.40749165415763855
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9552
+Epoch [120/3200], Loss: 0.7254
+Epoch [180/3200], Loss: 0.5776
+Epoch [240/3200], Loss: 0.4753
+Epoch [300/3200], Loss: 0.3831
+Epoch [360/3200], Loss: 0.3625
+Epoch [420/3200], Loss: 0.2952
+Epoch [480/3200], Loss: 0.2766
+Epoch [540/3200], Loss: 0.2674
+Epoch [600/3200], Loss: 0.2543
+Epoch [660/3200], Loss: 0.1906
+Epoch [720/3200], Loss: 0.1799
+Epoch [780/3200], Loss: 0.1723
+Epoch [840/3200], Loss: 0.1583
+Epoch [900/3200], Loss: 0.1063
+Epoch [960/3200], Loss: 0.0912
+Epoch [1020/3200], Loss: 0.0878
+Epoch [1080/3200], Loss: 0.0888
+Epoch [1140/3200], Loss: 0.0819
+Epoch [1200/3200], Loss: 0.0813
+Epoch [1260/3200], Loss: 0.0981
+Epoch [1320/3200], Loss: 0.0786
+Epoch [1380/3200], Loss: 0.0199
+Epoch [1440/3200], Loss: 0.0104
+Epoch [1500/3200], Loss: 0.0070
+Epoch [1560/3200], Loss: 0.0051
+Epoch [1620/3200], Loss: 0.0054
+Epoch [1680/3200], Loss: 0.0036
+Epoch [1740/3200], Loss: 0.0029
+Epoch [1800/3200], Loss: 0.0189
+Epoch [1860/3200], Loss: 0.0024
+Epoch [1920/3200], Loss: 0.0020
+Epoch [1980/3200], Loss: 0.0080
+Epoch [2040/3200], Loss: 0.0018
+Epoch [2100/3200], Loss: 0.0015
+Epoch [2160/3200], Loss: 0.0019
+Epoch [2220/3200], Loss: 0.0014
+Epoch [2280/3200], Loss: 0.0012
+Epoch [2340/3200], Loss: 0.0064
+Epoch [2400/3200], Loss: 0.0012
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0017
+Epoch [2580/3200], Loss: 0.0010
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0013
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0218
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0015
+Epoch [3060/3200], Loss: 0.0008
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0015
+0.6509577631950378
+0.595758318901062
+0.5158748030662537
+0.4364747703075409
+0.3598516285419464
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 1.0025
+Epoch [120/3200], Loss: 0.7176
+Epoch [180/3200], Loss: 0.5813
+Epoch [240/3200], Loss: 0.4629
+Epoch [300/3200], Loss: 0.3826
+Epoch [360/3200], Loss: 0.2994
+Epoch [420/3200], Loss: 0.2804
+Epoch [480/3200], Loss: 0.2723
+Epoch [540/3200], Loss: 0.2507
+Epoch [600/3200], Loss: 0.1885
+Epoch [660/3200], Loss: 0.1753
+Epoch [720/3200], Loss: 0.1702
+Epoch [780/3200], Loss: 0.1677
+Epoch [840/3200], Loss: 0.1622
+Epoch [900/3200], Loss: 0.1950
+Epoch [960/3200], Loss: 0.1073
+Epoch [1020/3200], Loss: 0.1339
+Epoch [1080/3200], Loss: 0.0708
+Epoch [1140/3200], Loss: 0.0559
+Epoch [1200/3200], Loss: 0.0185
+Epoch [1260/3200], Loss: 0.0111
+Epoch [1320/3200], Loss: 0.0079
+Epoch [1380/3200], Loss: 0.0065
+Epoch [1440/3200], Loss: 0.0050
+Epoch [1500/3200], Loss: 0.0054
+Epoch [1560/3200], Loss: 0.0036
+Epoch [1620/3200], Loss: 0.0043
+Epoch [1680/3200], Loss: 0.0028
+Epoch [1740/3200], Loss: 0.0071
+Epoch [1800/3200], Loss: 0.0024
+Epoch [1860/3200], Loss: 0.0020
+Epoch [1920/3200], Loss: 0.0022
+Epoch [1980/3200], Loss: 0.0018
+Epoch [2040/3200], Loss: 0.0085
+Epoch [2100/3200], Loss: 0.0018
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0029
+Epoch [2280/3200], Loss: 0.0014
+Epoch [2340/3200], Loss: 0.0013
+Epoch [2400/3200], Loss: 0.0015
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0017
+Epoch [2580/3200], Loss: 0.0014
+Epoch [2640/3200], Loss: 0.0011
+Epoch [2700/3200], Loss: 0.0028
+Epoch [2760/3200], Loss: 0.0011
+Epoch [2820/3200], Loss: 0.0010
+Epoch [2880/3200], Loss: 0.0083
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0009
+Epoch [3060/3200], Loss: 0.0011
+Epoch [3120/3200], Loss: 0.0009
+Epoch [3180/3200], Loss: 0.0013
+0.6324387192726135
+0.566517174243927
+0.5262364745140076
+0.433076411485672
+0.372772216796875
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9717
+Epoch [120/3200], Loss: 0.6936
+Epoch [180/3200], Loss: 0.5285
+Epoch [240/3200], Loss: 0.4729
+Epoch [300/3200], Loss: 0.4221
+Epoch [360/3200], Loss: 0.3764
+Epoch [420/3200], Loss: 0.3676
+Epoch [480/3200], Loss: 0.3357
+Epoch [540/3200], Loss: 0.2847
+Epoch [600/3200], Loss: 0.2767
+Epoch [660/3200], Loss: 0.2714
+Epoch [720/3200], Loss: 0.2680
+Epoch [780/3200], Loss: 0.2555
+Epoch [840/3200], Loss: 0.1902
+Epoch [900/3200], Loss: 0.1670
+Epoch [960/3200], Loss: 0.1057
+Epoch [1020/3200], Loss: 0.0963
+Epoch [1080/3200], Loss: 0.0930
+Epoch [1140/3200], Loss: 0.0906
+Epoch [1200/3200], Loss: 0.0895
+Epoch [1260/3200], Loss: 0.0890
+Epoch [1320/3200], Loss: 0.0854
+Epoch [1380/3200], Loss: 0.0766
+Epoch [1440/3200], Loss: 0.0220
+Epoch [1500/3200], Loss: 0.0110
+Epoch [1560/3200], Loss: 0.0074
+Epoch [1620/3200], Loss: 0.0111
+Epoch [1680/3200], Loss: 0.0045
+Epoch [1740/3200], Loss: 0.0104
+Epoch [1800/3200], Loss: 0.0031
+Epoch [1860/3200], Loss: 0.0025
+Epoch [1920/3200], Loss: 0.0040
+Epoch [1980/3200], Loss: 0.0021
+Epoch [2040/3200], Loss: 0.0017
+Epoch [2100/3200], Loss: 0.0034
+Epoch [2160/3200], Loss: 0.0015
+Epoch [2220/3200], Loss: 0.0013
+Epoch [2280/3200], Loss: 0.0025
+Epoch [2340/3200], Loss: 0.0012
+Epoch [2400/3200], Loss: 0.0011
+Epoch [2460/3200], Loss: 0.0019
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0010
+Epoch [2700/3200], Loss: 0.0009
+Epoch [2760/3200], Loss: 0.0013
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0018
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0076
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0007
+0.6539751291275024
+0.6041218042373657
+0.5369488596916199
+0.48377227783203125
+0.4272893965244293
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9664
+Epoch [120/3200], Loss: 0.7453
+Epoch [180/3200], Loss: 0.5951
+Epoch [240/3200], Loss: 0.4642
+Epoch [300/3200], Loss: 0.3801
+Epoch [360/3200], Loss: 0.3640
+Epoch [420/3200], Loss: 0.3533
+Epoch [480/3200], Loss: 0.3344
+Epoch [540/3200], Loss: 0.2717
+Epoch [600/3200], Loss: 0.2535
+Epoch [660/3200], Loss: 0.1945
+Epoch [720/3200], Loss: 0.1368
+Epoch [780/3200], Loss: 0.0942
+Epoch [840/3200], Loss: 0.0878
+Epoch [900/3200], Loss: 0.0798
+Epoch [960/3200], Loss: 0.0702
+Epoch [1020/3200], Loss: 0.0394
+Epoch [1080/3200], Loss: 0.0149
+Epoch [1140/3200], Loss: 0.0146
+Epoch [1200/3200], Loss: 0.0074
+Epoch [1260/3200], Loss: 0.0056
+Epoch [1320/3200], Loss: 0.0044
+Epoch [1380/3200], Loss: 0.0045
+Epoch [1440/3200], Loss: 0.0032
+Epoch [1500/3200], Loss: 0.0026
+Epoch [1560/3200], Loss: 0.0029
+Epoch [1620/3200], Loss: 0.0022
+Epoch [1680/3200], Loss: 0.0026
+Epoch [1740/3200], Loss: 0.0019
+Epoch [1800/3200], Loss: 0.0019
+Epoch [1860/3200], Loss: 0.0016
+Epoch [1920/3200], Loss: 0.0021
+Epoch [1980/3200], Loss: 0.0014
+Epoch [2040/3200], Loss: 0.0012
+Epoch [2100/3200], Loss: 0.0017
+Epoch [2160/3200], Loss: 0.0012
+Epoch [2220/3200], Loss: 0.0011
+Epoch [2280/3200], Loss: 0.0016
+Epoch [2340/3200], Loss: 0.0011
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0015
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0009
+Epoch [2640/3200], Loss: 0.0012
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0102
+Epoch [2820/3200], Loss: 0.0009
+Epoch [2880/3200], Loss: 0.0008
+Epoch [2940/3200], Loss: 0.0025
+Epoch [3000/3200], Loss: 0.0008
+Epoch [3060/3200], Loss: 0.0028
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0007
+0.6138868927955627
+0.5414049029350281
+0.4871838092803955
+0.43374598026275635
+0.38819634914398193
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9577
+Epoch [120/3200], Loss: 0.7586
+Epoch [180/3200], Loss: 0.5502
+Epoch [240/3200], Loss: 0.4566
+Epoch [300/3200], Loss: 0.3719
+Epoch [360/3200], Loss: 0.3306
+Epoch [420/3200], Loss: 0.2800
+Epoch [480/3200], Loss: 0.2726
+Epoch [540/3200], Loss: 0.2668
+Epoch [600/3200], Loss: 0.2544
+Epoch [660/3200], Loss: 0.1979
+Epoch [720/3200], Loss: 0.1846
+Epoch [780/3200], Loss: 0.1716
+Epoch [840/3200], Loss: 0.1057
+Epoch [900/3200], Loss: 0.0961
+Epoch [960/3200], Loss: 0.0905
+Epoch [1020/3200], Loss: 0.0869
+Epoch [1080/3200], Loss: 0.0830
+Epoch [1140/3200], Loss: 0.0783
+Epoch [1200/3200], Loss: 0.0690
+Epoch [1260/3200], Loss: 0.0147
+Epoch [1320/3200], Loss: 0.0227
+Epoch [1380/3200], Loss: 0.0053
+Epoch [1440/3200], Loss: 0.0044
+Epoch [1500/3200], Loss: 0.0074
+Epoch [1560/3200], Loss: 0.0030
+Epoch [1620/3200], Loss: 0.0053
+Epoch [1680/3200], Loss: 0.0020
+Epoch [1740/3200], Loss: 0.0018
+Epoch [1800/3200], Loss: 0.0026
+Epoch [1860/3200], Loss: 0.0015
+Epoch [1920/3200], Loss: 0.0017
+Epoch [1980/3200], Loss: 0.0012
+Epoch [2040/3200], Loss: 0.0022
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0011
+Epoch [2220/3200], Loss: 0.0015
+Epoch [2280/3200], Loss: 0.0011
+Epoch [2340/3200], Loss: 0.0009
+Epoch [2400/3200], Loss: 0.0019
+Epoch [2460/3200], Loss: 0.0010
+Epoch [2520/3200], Loss: 0.0009
+Epoch [2580/3200], Loss: 0.0013
+Epoch [2640/3200], Loss: 0.0009
+Epoch [2700/3200], Loss: 0.0008
+Epoch [2760/3200], Loss: 0.0010
+Epoch [2820/3200], Loss: 0.0008
+Epoch [2880/3200], Loss: 0.0019
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0035
+Epoch [3060/3200], Loss: 0.0007
+Epoch [3120/3200], Loss: 0.0007
+Epoch [3180/3200], Loss: 0.0010
+0.6480724215507507
+0.5164211392402649
+0.422870397567749
+0.3522854447364807
+0.2869146466255188
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9594
+Epoch [120/3200], Loss: 0.7080
+Epoch [180/3200], Loss: 0.4907
+Epoch [240/3200], Loss: 0.4551
+Epoch [300/3200], Loss: 0.3764
+Epoch [360/3200], Loss: 0.3590
+Epoch [420/3200], Loss: 0.3087
+Epoch [480/3200], Loss: 0.2710
+Epoch [540/3200], Loss: 0.2498
+Epoch [600/3200], Loss: 0.1835
+Epoch [660/3200], Loss: 0.1772
+Epoch [720/3200], Loss: 0.1668
+Epoch [780/3200], Loss: 0.1290
+Epoch [840/3200], Loss: 0.1123
+Epoch [900/3200], Loss: 0.0933
+Epoch [960/3200], Loss: 0.0995
+Epoch [1020/3200], Loss: 0.0883
+Epoch [1080/3200], Loss: 0.0864
+Epoch [1140/3200], Loss: 0.0853
+Epoch [1200/3200], Loss: 0.0851
+Epoch [1260/3200], Loss: 0.0856
+Epoch [1320/3200], Loss: 0.0820
+Epoch [1380/3200], Loss: 0.0811
+Epoch [1440/3200], Loss: 0.0971
+Epoch [1500/3200], Loss: 0.0570
+Epoch [1560/3200], Loss: 0.0134
+Epoch [1620/3200], Loss: 0.0116
+Epoch [1680/3200], Loss: 0.0066
+Epoch [1740/3200], Loss: 0.0074
+Epoch [1800/3200], Loss: 0.0044
+Epoch [1860/3200], Loss: 0.0554
+Epoch [1920/3200], Loss: 0.0034
+Epoch [1980/3200], Loss: 0.0026
+Epoch [2040/3200], Loss: 0.0022
+Epoch [2100/3200], Loss: 0.0023
+Epoch [2160/3200], Loss: 0.0018
+Epoch [2220/3200], Loss: 0.0016
+Epoch [2280/3200], Loss: 0.0023
+Epoch [2340/3200], Loss: 0.0015
+Epoch [2400/3200], Loss: 0.0013
+Epoch [2460/3200], Loss: 0.0012
+Epoch [2520/3200], Loss: 0.0014
+Epoch [2580/3200], Loss: 0.0011
+Epoch [2640/3200], Loss: 0.0040
+Epoch [2700/3200], Loss: 0.0011
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0011
+Epoch [2880/3200], Loss: 0.0009
+Epoch [2940/3200], Loss: 0.0008
+Epoch [3000/3200], Loss: 0.0013
+Epoch [3060/3200], Loss: 0.0009
+Epoch [3120/3200], Loss: 0.0008
+Epoch [3180/3200], Loss: 0.0015
+0.6541751623153687
+0.5631219148635864
+0.4898183345794678
+0.4349919259548187
+0.3913304805755615
+Test Power of C2ST-L:  0.0
+Epoch [60/3200], Loss: 0.9707
+Epoch [120/3200], Loss: 0.7691
+Epoch [180/3200], Loss: 0.5852
+Epoch [240/3200], Loss: 0.4715
+Epoch [300/3200], Loss: 0.4213
+Epoch [360/3200], Loss: 0.3645
+Epoch [420/3200], Loss: 0.3298
+Epoch [480/3200], Loss: 0.2849
+Epoch [540/3200], Loss: 0.2733
+Epoch [600/3200], Loss: 0.2565
+Epoch [660/3200], Loss: 0.1927
+Epoch [720/3200], Loss: 0.1704
+Epoch [780/3200], Loss: 0.1207
+Epoch [840/3200], Loss: 0.0898
+Epoch [900/3200], Loss: 0.0842
+Epoch [960/3200], Loss: 0.0803
+Epoch [1020/3200], Loss: 0.0664
+Epoch [1080/3200], Loss: 0.0218
+Epoch [1140/3200], Loss: 0.0088
+Epoch [1200/3200], Loss: 0.0070
+Epoch [1260/3200], Loss: 0.0046
+Epoch [1320/3200], Loss: 0.0047
+Epoch [1380/3200], Loss: 0.0031
+Epoch [1440/3200], Loss: 0.0025
+Epoch [1500/3200], Loss: 0.0062
+Epoch [1560/3200], Loss: 0.0020
+Epoch [1620/3200], Loss: 0.0018
+Epoch [1680/3200], Loss: 0.0019
+Epoch [1740/3200], Loss: 0.0016
+Epoch [1800/3200], Loss: 0.0014
+Epoch [1860/3200], Loss: 0.0088
+Epoch [1920/3200], Loss: 0.0014
+Epoch [1980/3200], Loss: 0.0012
+Epoch [2040/3200], Loss: 0.0221
+Epoch [2100/3200], Loss: 0.0012
+Epoch [2160/3200], Loss: 0.0010
+Epoch [2220/3200], Loss: 0.0009
+Epoch [2280/3200], Loss: 0.0014
+Epoch [2340/3200], Loss: 0.0010
+Epoch [2400/3200], Loss: 0.0009
+Epoch [2460/3200], Loss: 0.0453
+Epoch [2520/3200], Loss: 0.0010
+Epoch [2580/3200], Loss: 0.0008
+Epoch [2640/3200], Loss: 0.0007
+Epoch [2700/3200], Loss: 0.0052
+Epoch [2760/3200], Loss: 0.0009
+Epoch [2820/3200], Loss: 0.0007
+Epoch [2880/3200], Loss: 0.0007
+Epoch [2940/3200], Loss: 0.0010
+Epoch [3000/3200], Loss: 0.0007
+Epoch [3060/3200], Loss: 0.0006
+Epoch [3120/3200], Loss: 0.0012
+Epoch [3180/3200], Loss: 0.0007
+0.6626219749450684
+0.5748122930526733
+0.5048274993896484
+0.4441315829753876
+0.3967726528644562
+Test Power of C2ST-L:  0.0
+
+
+=====================================================
+Average test power at training size =  125  :  0.05
+=====================================================
+
+
+
+-----------------------------------------------
+
+Finished with execution of c2st_semi_HDGM.py script
+
+-----------------------------------------------
+
+Job ID           : 55586053
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 00:34:50 / 1-00:00:00
+
+Displaying overall resources usage from 2024-02-02 20:18:13 to 2024-02-02 20:53:03:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu070 : 
+                CPU# 1    : 46.6   (  45.9 /   0.7 /   0.0 /  53.4 ) 
+                CPU# 2    : 23.7   (  22.9 /   0.8 /   0.0 /  76.3 ) 
+                CPU# 3    : 17.9   (  16.1 /   1.9 /   0.0 /  82.1 ) 
+                CPU# 4    : 19.2   (  18.1 /   1.1 /   0.0 /  80.8 ) 
+
+                GPU# 1    : 19.6  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 3    
+  CPUs with usage <50%    : 1    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 1    
+  GPUs with usage <50%    : 0    
+  GPUs with usage >50%    : 0    
+
+Memory used (RAM)         : 25.8%  [2212MB of 8590MB]
+
+--------------------------------------------
+

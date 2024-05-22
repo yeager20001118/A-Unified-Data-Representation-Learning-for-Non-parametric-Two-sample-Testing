@@ -1,0 +1,802 @@
+device: cuda:0
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:17<02:40, 17.81s/it] 20%|██        | 2/10 [00:34<02:16, 17.12s/it] 30%|███       | 3/10 [00:51<01:58, 16.92s/it] 40%|████      | 4/10 [01:07<01:40, 16.69s/it] 50%|█████     | 5/10 [01:23<01:22, 16.56s/it] 60%|██████    | 6/10 [01:40<01:05, 16.46s/it] 70%|███████   | 7/10 [01:56<00:49, 16.43s/it] 80%|████████  | 8/10 [02:12<00:32, 16.40s/it] 90%|█████████ | 9/10 [02:29<00:16, 16.38s/it]100%|██████████| 10/10 [02:45<00:00, 16.39s/it]100%|██████████| 10/10 [02:45<00:00, 16.55s/it]
+Epoch [100/1000], Loss: 0.0585
+Epoch [200/1000], Loss: 0.0212
+Epoch [300/1000], Loss: 0.0108
+Epoch [400/1000], Loss: 0.0078
+Epoch [500/1000], Loss: 0.0066
+Epoch [600/1000], Loss: 0.0054
+Epoch [700/1000], Loss: 0.0059
+Epoch [800/1000], Loss: 0.0041
+Epoch [900/1000], Loss: 0.0036
+Epoch [1000/1000], Loss: 0.0036
+0.31833258271217346
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+Epoch [100/1000], Loss: 0.0625
+Epoch [200/1000], Loss: 0.0223
+Epoch [300/1000], Loss: 0.0109
+Epoch [400/1000], Loss: 0.0077
+Epoch [500/1000], Loss: 0.0062
+Epoch [600/1000], Loss: 0.0051
+Epoch [700/1000], Loss: 0.0051
+Epoch [800/1000], Loss: 0.0041
+Epoch [900/1000], Loss: 0.0037
+Epoch [1000/1000], Loss: 0.0036
+0.31332892179489136
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+Epoch [100/1000], Loss: 0.0589
+Epoch [200/1000], Loss: 0.0200
+Epoch [300/1000], Loss: 0.0103
+Epoch [400/1000], Loss: 0.0075
+Epoch [500/1000], Loss: 0.0060
+Epoch [600/1000], Loss: 0.0054
+Epoch [700/1000], Loss: 0.0046
+Epoch [800/1000], Loss: 0.0042
+Epoch [900/1000], Loss: 0.0043
+Epoch [1000/1000], Loss: 0.0037
+0.31834182143211365
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+Epoch [100/1000], Loss: 0.0687
+Epoch [200/1000], Loss: 0.0246
+Epoch [300/1000], Loss: 0.0131
+Epoch [400/1000], Loss: 0.0085
+Epoch [500/1000], Loss: 0.0069
+Epoch [600/1000], Loss: 0.0058
+Epoch [700/1000], Loss: 0.0050
+Epoch [800/1000], Loss: 0.0045
+Epoch [900/1000], Loss: 0.0044
+Epoch [1000/1000], Loss: 0.0039
+0.32331016659736633
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.05
+Epoch [100/1000], Loss: 0.0648
+Epoch [200/1000], Loss: 0.0195
+Epoch [300/1000], Loss: 0.0114
+Epoch [400/1000], Loss: 0.0083
+Epoch [500/1000], Loss: 0.0063
+Epoch [600/1000], Loss: 0.0055
+Epoch [700/1000], Loss: 0.0050
+Epoch [800/1000], Loss: 0.0043
+Epoch [900/1000], Loss: 0.0041
+Epoch [1000/1000], Loss: 0.0039
+0.32331451773643494
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+Epoch [100/1000], Loss: 0.0740
+Epoch [200/1000], Loss: 0.0250
+Epoch [300/1000], Loss: 0.0121
+Epoch [400/1000], Loss: 0.0079
+Epoch [500/1000], Loss: 0.0063
+Epoch [600/1000], Loss: 0.0052
+Epoch [700/1000], Loss: 0.0047
+Epoch [800/1000], Loss: 0.0043
+Epoch [900/1000], Loss: 0.0042
+Epoch [1000/1000], Loss: 0.0038
+0.3183232545852661
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.97
+Epoch [100/1000], Loss: 0.0592
+Epoch [200/1000], Loss: 0.0202
+Epoch [300/1000], Loss: 0.0114
+Epoch [400/1000], Loss: 0.0081
+Epoch [500/1000], Loss: 0.0063
+Epoch [600/1000], Loss: 0.0061
+Epoch [700/1000], Loss: 0.0050
+Epoch [800/1000], Loss: 0.0044
+Epoch [900/1000], Loss: 0.0040
+Epoch [1000/1000], Loss: 0.0037
+0.3183300495147705
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+Epoch [100/1000], Loss: 0.0685
+Epoch [200/1000], Loss: 0.0195
+Epoch [300/1000], Loss: 0.0104
+Epoch [400/1000], Loss: 0.0075
+Epoch [500/1000], Loss: 0.0060
+Epoch [600/1000], Loss: 0.0050
+Epoch [700/1000], Loss: 0.0044
+Epoch [800/1000], Loss: 0.0044
+Epoch [900/1000], Loss: 0.0038
+Epoch [1000/1000], Loss: 0.0033
+0.31837084889411926
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+Epoch [100/1000], Loss: 0.0585
+Epoch [200/1000], Loss: 0.0193
+Epoch [300/1000], Loss: 0.0107
+Epoch [400/1000], Loss: 0.0079
+Epoch [500/1000], Loss: 0.0065
+Epoch [600/1000], Loss: 0.0054
+Epoch [700/1000], Loss: 0.0049
+Epoch [800/1000], Loss: 0.0044
+Epoch [900/1000], Loss: 0.0041
+Epoch [1000/1000], Loss: 0.0039
+0.3383042514324188
+test power on training set 1
+Test Power of C2ST-D at n = 100:  1.0
+Epoch [100/1000], Loss: 0.0590
+Epoch [200/1000], Loss: 0.0195
+Epoch [300/1000], Loss: 0.0103
+Epoch [400/1000], Loss: 0.0071
+Epoch [500/1000], Loss: 0.0058
+Epoch [600/1000], Loss: 0.0053
+Epoch [700/1000], Loss: 0.0044
+Epoch [800/1000], Loss: 0.0043
+Epoch [900/1000], Loss: 0.0039
+Epoch [1000/1000], Loss: 0.0034
+0.32330742478370667
+test power on training set 1
+Test Power of C2ST-D at n = 100:  0.0
+Average Test Power of C2ST-D:  0.40199999999999997
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:35<05:23, 35.89s/it] 20%|██        | 2/10 [01:11<04:46, 35.87s/it] 30%|███       | 3/10 [01:47<04:10, 35.84s/it] 40%|████      | 4/10 [02:23<03:35, 35.85s/it] 50%|█████     | 5/10 [02:59<02:59, 35.86s/it] 60%|██████    | 6/10 [03:35<02:23, 35.85s/it] 70%|███████   | 7/10 [04:10<01:47, 35.83s/it] 80%|████████  | 8/10 [04:46<01:11, 35.83s/it] 90%|█████████ | 9/10 [05:22<00:35, 35.83s/it]100%|██████████| 10/10 [05:58<00:00, 35.88s/it]100%|██████████| 10/10 [05:58<00:00, 35.86s/it]
+Epoch [100/1000], Loss: 0.0237
+Epoch [200/1000], Loss: 0.0099
+Epoch [300/1000], Loss: 0.0072
+Epoch [400/1000], Loss: 0.0060
+Epoch [500/1000], Loss: 0.0048
+Epoch [600/1000], Loss: 0.0044
+Epoch [700/1000], Loss: 0.0042
+Epoch [800/1000], Loss: 0.0041
+Epoch [900/1000], Loss: 0.0039
+Epoch [1000/1000], Loss: 0.0038
+0.3332880735397339
+0.3432697355747223
+test power on training set 1
+Test Power of C2ST-D at n = 200:  0.72
+Epoch [100/1000], Loss: 0.0253
+Epoch [200/1000], Loss: 0.0112
+Epoch [300/1000], Loss: 0.0079
+Epoch [400/1000], Loss: 0.0061
+Epoch [500/1000], Loss: 0.0055
+Epoch [600/1000], Loss: 0.0047
+Epoch [700/1000], Loss: 0.0044
+Epoch [800/1000], Loss: 0.0038
+Epoch [900/1000], Loss: 0.0037
+Epoch [1000/1000], Loss: 0.0035
+0.313289999961853
+0.3132721483707428
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0245
+Epoch [200/1000], Loss: 0.0104
+Epoch [300/1000], Loss: 0.0074
+Epoch [400/1000], Loss: 0.0065
+Epoch [500/1000], Loss: 0.0050
+Epoch [600/1000], Loss: 0.0045
+Epoch [700/1000], Loss: 0.0043
+Epoch [800/1000], Loss: 0.0040
+Epoch [900/1000], Loss: 0.0036
+Epoch [1000/1000], Loss: 0.0032
+0.3133062720298767
+0.31827661395072937
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0233
+Epoch [200/1000], Loss: 0.0099
+Epoch [300/1000], Loss: 0.0068
+Epoch [400/1000], Loss: 0.0055
+Epoch [500/1000], Loss: 0.0049
+Epoch [600/1000], Loss: 0.0043
+Epoch [700/1000], Loss: 0.0040
+Epoch [800/1000], Loss: 0.0037
+Epoch [900/1000], Loss: 0.0034
+Epoch [1000/1000], Loss: 0.0032
+0.3132910132408142
+0.3132721185684204
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0235
+Epoch [200/1000], Loss: 0.0100
+Epoch [300/1000], Loss: 0.0073
+Epoch [400/1000], Loss: 0.0063
+Epoch [500/1000], Loss: 0.0049
+Epoch [600/1000], Loss: 0.0046
+Epoch [700/1000], Loss: 0.0042
+Epoch [800/1000], Loss: 0.0040
+Epoch [900/1000], Loss: 0.0036
+Epoch [1000/1000], Loss: 0.0034
+0.31330406665802
+0.3132709860801697
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0246
+Epoch [200/1000], Loss: 0.0109
+Epoch [300/1000], Loss: 0.0073
+Epoch [400/1000], Loss: 0.0059
+Epoch [500/1000], Loss: 0.0052
+Epoch [600/1000], Loss: 0.0047
+Epoch [700/1000], Loss: 0.0042
+Epoch [800/1000], Loss: 0.0040
+Epoch [900/1000], Loss: 0.0035
+Epoch [1000/1000], Loss: 0.0035
+0.3183017671108246
+0.3182697594165802
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0293
+Epoch [200/1000], Loss: 0.0106
+Epoch [300/1000], Loss: 0.0077
+Epoch [400/1000], Loss: 0.0063
+Epoch [500/1000], Loss: 0.0052
+Epoch [600/1000], Loss: 0.0045
+Epoch [700/1000], Loss: 0.0045
+Epoch [800/1000], Loss: 0.0040
+Epoch [900/1000], Loss: 0.0036
+Epoch [1000/1000], Loss: 0.0036
+0.3332890272140503
+0.3182767927646637
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0218
+Epoch [200/1000], Loss: 0.0100
+Epoch [300/1000], Loss: 0.0072
+Epoch [400/1000], Loss: 0.0062
+Epoch [500/1000], Loss: 0.0053
+Epoch [600/1000], Loss: 0.0052
+Epoch [700/1000], Loss: 0.0044
+Epoch [800/1000], Loss: 0.0039
+Epoch [900/1000], Loss: 0.0037
+Epoch [1000/1000], Loss: 0.0033
+0.31830349564552307
+0.3182707726955414
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0257
+Epoch [200/1000], Loss: 0.0101
+Epoch [300/1000], Loss: 0.0073
+Epoch [400/1000], Loss: 0.0062
+Epoch [500/1000], Loss: 0.0057
+Epoch [600/1000], Loss: 0.0046
+Epoch [700/1000], Loss: 0.0046
+Epoch [800/1000], Loss: 0.0039
+Epoch [900/1000], Loss: 0.0035
+Epoch [1000/1000], Loss: 0.0034
+0.31830111145973206
+0.3182833790779114
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Epoch [100/1000], Loss: 0.0258
+Epoch [200/1000], Loss: 0.0109
+Epoch [300/1000], Loss: 0.0075
+Epoch [400/1000], Loss: 0.0058
+Epoch [500/1000], Loss: 0.0052
+Epoch [600/1000], Loss: 0.0048
+Epoch [700/1000], Loss: 0.0042
+Epoch [800/1000], Loss: 0.0041
+Epoch [900/1000], Loss: 0.0037
+Epoch [1000/1000], Loss: 0.0035
+0.32828864455223083
+0.32827064394950867
+test power on training set 1
+Test Power of C2ST-D at n = 200:  1.0
+Average Test Power of C2ST-D:  0.9719999999999999
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [01:00<09:01, 60.13s/it] 20%|██        | 2/10 [01:59<07:58, 59.78s/it] 30%|███       | 3/10 [02:59<06:57, 59.68s/it] 40%|████      | 4/10 [03:58<05:57, 59.63s/it] 50%|█████     | 5/10 [04:58<04:57, 59.54s/it] 60%|██████    | 6/10 [05:57<03:58, 59.50s/it] 70%|███████   | 7/10 [06:57<02:58, 59.55s/it] 80%|████████  | 8/10 [07:56<01:59, 59.54s/it] 90%|█████████ | 9/10 [08:56<00:59, 59.59s/it]100%|██████████| 10/10 [09:56<00:00, 59.60s/it]100%|██████████| 10/10 [09:56<00:00, 59.61s/it]
+Epoch [100/1000], Loss: 0.0146
+Epoch [200/1000], Loss: 0.0079
+Epoch [300/1000], Loss: 0.0063
+Epoch [400/1000], Loss: 0.0052
+Epoch [500/1000], Loss: 0.0046
+Epoch [600/1000], Loss: 0.0043
+Epoch [700/1000], Loss: 0.0037
+Epoch [800/1000], Loss: 0.0036
+Epoch [900/1000], Loss: 0.0033
+Epoch [1000/1000], Loss: 0.0032
+0.3182719647884369
+0.32231125235557556
+0.31826311349868774
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0141
+Epoch [200/1000], Loss: 0.0080
+Epoch [300/1000], Loss: 0.0064
+Epoch [400/1000], Loss: 0.0050
+Epoch [500/1000], Loss: 0.0046
+Epoch [600/1000], Loss: 0.0040
+Epoch [700/1000], Loss: 0.0037
+Epoch [800/1000], Loss: 0.0039
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0033
+0.31826674938201904
+0.31826281547546387
+0.3232620656490326
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0141
+Epoch [200/1000], Loss: 0.0076
+Epoch [300/1000], Loss: 0.0061
+Epoch [400/1000], Loss: 0.0058
+Epoch [500/1000], Loss: 0.0044
+Epoch [600/1000], Loss: 0.0042
+Epoch [700/1000], Loss: 0.0038
+Epoch [800/1000], Loss: 0.0049
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0030
+0.3542589247226715
+0.32827115058898926
+0.3332655727863312
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0145
+Epoch [200/1000], Loss: 0.0076
+Epoch [300/1000], Loss: 0.0059
+Epoch [400/1000], Loss: 0.0050
+Epoch [500/1000], Loss: 0.0047
+Epoch [600/1000], Loss: 0.0042
+Epoch [700/1000], Loss: 0.0037
+Epoch [800/1000], Loss: 0.0035
+Epoch [900/1000], Loss: 0.0033
+Epoch [1000/1000], Loss: 0.0031
+0.34590184688568115
+0.31826990842819214
+0.32326483726501465
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0137
+Epoch [200/1000], Loss: 0.0075
+Epoch [300/1000], Loss: 0.0061
+Epoch [400/1000], Loss: 0.0048
+Epoch [500/1000], Loss: 0.0043
+Epoch [600/1000], Loss: 0.0041
+Epoch [700/1000], Loss: 0.0035
+Epoch [800/1000], Loss: 0.0035
+Epoch [900/1000], Loss: 0.0039
+Epoch [1000/1000], Loss: 0.0034
+0.3182728588581085
+0.3232646882534027
+0.3182624876499176
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0129
+Epoch [200/1000], Loss: 0.0075
+Epoch [300/1000], Loss: 0.0063
+Epoch [400/1000], Loss: 0.0057
+Epoch [500/1000], Loss: 0.0044
+Epoch [600/1000], Loss: 0.0043
+Epoch [700/1000], Loss: 0.0037
+Epoch [800/1000], Loss: 0.0037
+Epoch [900/1000], Loss: 0.0033
+Epoch [1000/1000], Loss: 0.0033
+0.31828176975250244
+0.31326672434806824
+0.31826409697532654
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0139
+Epoch [200/1000], Loss: 0.0080
+Epoch [300/1000], Loss: 0.0070
+Epoch [400/1000], Loss: 0.0053
+Epoch [500/1000], Loss: 0.0046
+Epoch [600/1000], Loss: 0.0042
+Epoch [700/1000], Loss: 0.0039
+Epoch [800/1000], Loss: 0.0036
+Epoch [900/1000], Loss: 0.0035
+Epoch [1000/1000], Loss: 0.0035
+0.31828245520591736
+0.3182661533355713
+0.3182644546031952
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0153
+Epoch [200/1000], Loss: 0.0083
+Epoch [300/1000], Loss: 0.0060
+Epoch [400/1000], Loss: 0.0049
+Epoch [500/1000], Loss: 0.0045
+Epoch [600/1000], Loss: 0.0042
+Epoch [700/1000], Loss: 0.0035
+Epoch [800/1000], Loss: 0.0036
+Epoch [900/1000], Loss: 0.0034
+Epoch [1000/1000], Loss: 0.0032
+0.32327792048454285
+0.3282665014266968
+0.32326453924179077
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0140
+Epoch [200/1000], Loss: 0.0079
+Epoch [300/1000], Loss: 0.0061
+Epoch [400/1000], Loss: 0.0051
+Epoch [500/1000], Loss: 0.0044
+Epoch [600/1000], Loss: 0.0040
+Epoch [700/1000], Loss: 0.0037
+Epoch [800/1000], Loss: 0.0037
+Epoch [900/1000], Loss: 0.0034
+Epoch [1000/1000], Loss: 0.0031
+0.333291620016098
+0.33826789259910583
+0.3232704997062683
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Epoch [100/1000], Loss: 0.0149
+Epoch [200/1000], Loss: 0.0078
+Epoch [300/1000], Loss: 0.0058
+Epoch [400/1000], Loss: 0.0049
+Epoch [500/1000], Loss: 0.0042
+Epoch [600/1000], Loss: 0.0040
+Epoch [700/1000], Loss: 0.0036
+Epoch [800/1000], Loss: 0.0034
+Epoch [900/1000], Loss: 0.0031
+Epoch [1000/1000], Loss: 0.0031
+0.3282887935638428
+0.33327099680900574
+0.32326534390449524
+test power on training set 1
+Test Power of C2ST-D at n = 300:  1.0
+Average Test Power of C2ST-D:  1.0
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [01:27<13:08, 87.61s/it] 20%|██        | 2/10 [02:55<11:40, 87.55s/it] 30%|███       | 3/10 [04:22<10:12, 87.53s/it] 40%|████      | 4/10 [05:49<08:44, 87.44s/it] 50%|█████     | 5/10 [07:17<07:16, 87.35s/it] 60%|██████    | 6/10 [08:44<05:49, 87.34s/it] 70%|███████   | 7/10 [10:11<04:21, 87.33s/it] 80%|████████  | 8/10 [11:39<02:54, 87.42s/it] 90%|█████████ | 9/10 [13:07<01:27, 87.61s/it]100%|██████████| 10/10 [14:34<00:00, 87.51s/it]100%|██████████| 10/10 [14:34<00:00, 87.47s/it]
+Epoch [100/1000], Loss: 0.0117
+Epoch [200/1000], Loss: 0.0083
+Epoch [300/1000], Loss: 0.0057
+Epoch [400/1000], Loss: 0.0050
+Epoch [500/1000], Loss: 0.0044
+Epoch [600/1000], Loss: 0.0038
+Epoch [700/1000], Loss: 0.0037
+Epoch [800/1000], Loss: 0.0034
+Epoch [900/1000], Loss: 0.0034
+Epoch [1000/1000], Loss: 0.0030
+0.318279892206192
+0.32826387882232666
+0.3182627260684967
+0.3132622539997101
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0107
+Epoch [200/1000], Loss: 0.0065
+Epoch [300/1000], Loss: 0.0052
+Epoch [400/1000], Loss: 0.0043
+Epoch [500/1000], Loss: 0.0041
+Epoch [600/1000], Loss: 0.0039
+Epoch [700/1000], Loss: 0.0035
+Epoch [800/1000], Loss: 0.0041
+Epoch [900/1000], Loss: 0.0031
+Epoch [1000/1000], Loss: 0.0029
+0.3382761776447296
+0.33326366543769836
+0.328262597322464
+0.32826194167137146
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0111
+Epoch [200/1000], Loss: 0.0073
+Epoch [300/1000], Loss: 0.0055
+Epoch [400/1000], Loss: 0.0047
+Epoch [500/1000], Loss: 0.0038
+Epoch [600/1000], Loss: 0.0039
+Epoch [700/1000], Loss: 0.0039
+Epoch [800/1000], Loss: 0.0036
+Epoch [900/1000], Loss: 0.0031
+Epoch [1000/1000], Loss: 0.0032
+0.318716436624527
+0.31826815009117126
+0.32826343178749084
+0.3232627511024475
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0111
+Epoch [200/1000], Loss: 0.0070
+Epoch [300/1000], Loss: 0.0056
+Epoch [400/1000], Loss: 0.0048
+Epoch [500/1000], Loss: 0.0043
+Epoch [600/1000], Loss: 0.0039
+Epoch [700/1000], Loss: 0.0034
+Epoch [800/1000], Loss: 0.0039
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0032
+0.33329373598098755
+0.353277325630188
+0.31826555728912354
+0.35826316475868225
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0115
+Epoch [200/1000], Loss: 0.0067
+Epoch [300/1000], Loss: 0.0054
+Epoch [400/1000], Loss: 0.0046
+Epoch [500/1000], Loss: 0.0040
+Epoch [600/1000], Loss: 0.0038
+Epoch [700/1000], Loss: 0.0034
+Epoch [800/1000], Loss: 0.0033
+Epoch [900/1000], Loss: 0.0031
+Epoch [1000/1000], Loss: 0.0032
+0.3332769274711609
+0.3282645344734192
+0.3132662773132324
+0.3132629990577698
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0114
+Epoch [200/1000], Loss: 0.0068
+Epoch [300/1000], Loss: 0.0050
+Epoch [400/1000], Loss: 0.0050
+Epoch [500/1000], Loss: 0.0042
+Epoch [600/1000], Loss: 0.0037
+Epoch [700/1000], Loss: 0.0034
+Epoch [800/1000], Loss: 0.0036
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0029
+0.3182724714279175
+0.3232667148113251
+0.3236873745918274
+0.32826510071754456
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0121
+Epoch [200/1000], Loss: 0.0074
+Epoch [300/1000], Loss: 0.0055
+Epoch [400/1000], Loss: 0.0048
+Epoch [500/1000], Loss: 0.0043
+Epoch [600/1000], Loss: 0.0038
+Epoch [700/1000], Loss: 0.0034
+Epoch [800/1000], Loss: 0.0034
+Epoch [900/1000], Loss: 0.0033
+Epoch [1000/1000], Loss: 0.0033
+0.3183005452156067
+0.33326226472854614
+0.3182620108127594
+0.3282632529735565
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0111
+Epoch [200/1000], Loss: 0.0066
+Epoch [300/1000], Loss: 0.0056
+Epoch [400/1000], Loss: 0.0045
+Epoch [500/1000], Loss: 0.0041
+Epoch [600/1000], Loss: 0.0036
+Epoch [700/1000], Loss: 0.0036
+Epoch [800/1000], Loss: 0.0033
+Epoch [900/1000], Loss: 0.0030
+Epoch [1000/1000], Loss: 0.0032
+0.3232795298099518
+0.3182665705680847
+0.3282627463340759
+0.32826218008995056
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0119
+Epoch [200/1000], Loss: 0.0069
+Epoch [300/1000], Loss: 0.0053
+Epoch [400/1000], Loss: 0.0046
+Epoch [500/1000], Loss: 0.0040
+Epoch [600/1000], Loss: 0.0041
+Epoch [700/1000], Loss: 0.0038
+Epoch [800/1000], Loss: 0.0033
+Epoch [900/1000], Loss: 0.0034
+Epoch [1000/1000], Loss: 0.0032
+0.32327139377593994
+0.3282643258571625
+0.31326350569725037
+0.31326279044151306
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Epoch [100/1000], Loss: 0.0113
+Epoch [200/1000], Loss: 0.0061
+Epoch [300/1000], Loss: 0.0051
+Epoch [400/1000], Loss: 0.0047
+Epoch [500/1000], Loss: 0.0041
+Epoch [600/1000], Loss: 0.0037
+Epoch [700/1000], Loss: 0.0036
+Epoch [800/1000], Loss: 0.0032
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0029
+0.3182734549045563
+0.31826382875442505
+0.32326266169548035
+0.31826233863830566
+test power on training set 1
+Test Power of C2ST-D at n = 400:  1.0
+Average Test Power of C2ST-D:  1.0
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [01:59<17:54, 119.34s/it] 20%|██        | 2/10 [03:58<15:54, 119.30s/it] 30%|███       | 3/10 [05:57<13:54, 119.21s/it] 40%|████      | 4/10 [07:56<11:54, 119.15s/it] 50%|█████     | 5/10 [09:55<09:55, 119.17s/it] 60%|██████    | 6/10 [11:55<07:56, 119.12s/it] 70%|███████   | 7/10 [13:53<05:56, 119.00s/it] 80%|████████  | 8/10 [15:52<03:57, 118.85s/it] 90%|█████████ | 9/10 [17:50<01:58, 118.74s/it]100%|██████████| 10/10 [19:49<00:00, 118.59s/it]100%|██████████| 10/10 [19:49<00:00, 118.90s/it]
+Epoch [100/1000], Loss: 0.0101
+Epoch [200/1000], Loss: 0.0064
+Epoch [300/1000], Loss: 0.0049
+Epoch [400/1000], Loss: 0.0045
+Epoch [500/1000], Loss: 0.0039
+Epoch [600/1000], Loss: 0.0037
+Epoch [700/1000], Loss: 0.0036
+Epoch [800/1000], Loss: 0.0033
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0036
+0.3182870149612427
+0.3182637691497803
+0.31826260685920715
+0.318261981010437
+0.3232618272304535
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0098
+Epoch [200/1000], Loss: 0.0066
+Epoch [300/1000], Loss: 0.0051
+Epoch [400/1000], Loss: 0.0045
+Epoch [500/1000], Loss: 0.0042
+Epoch [600/1000], Loss: 0.0035
+Epoch [700/1000], Loss: 0.0033
+Epoch [800/1000], Loss: 0.0035
+Epoch [900/1000], Loss: 0.0030
+Epoch [1000/1000], Loss: 0.0031
+0.3282676637172699
+0.3332638442516327
+0.31826478242874146
+0.31826233863830566
+0.3132619261741638
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0102
+Epoch [200/1000], Loss: 0.0064
+Epoch [300/1000], Loss: 0.0049
+Epoch [400/1000], Loss: 0.0041
+Epoch [500/1000], Loss: 0.0039
+Epoch [600/1000], Loss: 0.0034
+Epoch [700/1000], Loss: 0.0041
+Epoch [800/1000], Loss: 0.0034
+Epoch [900/1000], Loss: 0.0030
+Epoch [1000/1000], Loss: 0.0037
+0.31327012181282043
+0.3382626473903656
+0.3232760727405548
+0.3182631731033325
+0.3232623040676117
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0098
+Epoch [200/1000], Loss: 0.0068
+Epoch [300/1000], Loss: 0.0050
+Epoch [400/1000], Loss: 0.0043
+Epoch [500/1000], Loss: 0.0039
+Epoch [600/1000], Loss: 0.0036
+Epoch [700/1000], Loss: 0.0033
+Epoch [800/1000], Loss: 0.0032
+Epoch [900/1000], Loss: 0.0035
+Epoch [1000/1000], Loss: 0.0033
+0.3182775676250458
+0.3182649314403534
+0.3182629346847534
+0.3132621645927429
+0.31326231360435486
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0102
+Epoch [200/1000], Loss: 0.0060
+Epoch [300/1000], Loss: 0.0049
+Epoch [400/1000], Loss: 0.0043
+Epoch [500/1000], Loss: 0.0037
+Epoch [600/1000], Loss: 0.0034
+Epoch [700/1000], Loss: 0.0034
+Epoch [800/1000], Loss: 0.0031
+Epoch [900/1000], Loss: 0.0031
+Epoch [1000/1000], Loss: 0.0030
+0.31326988339424133
+0.32326439023017883
+0.31826263666152954
+0.3232620358467102
+0.31326186656951904
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0105
+Epoch [200/1000], Loss: 0.0068
+Epoch [300/1000], Loss: 0.0055
+Epoch [400/1000], Loss: 0.0046
+Epoch [500/1000], Loss: 0.0040
+Epoch [600/1000], Loss: 0.0037
+Epoch [700/1000], Loss: 0.0035
+Epoch [800/1000], Loss: 0.0034
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0031
+0.33327555656433105
+0.3182632327079773
+0.3132692575454712
+0.3182627558708191
+0.3182624876499176
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0097
+Epoch [200/1000], Loss: 0.0058
+Epoch [300/1000], Loss: 0.0047
+Epoch [400/1000], Loss: 0.0040
+Epoch [500/1000], Loss: 0.0037
+Epoch [600/1000], Loss: 0.0034
+Epoch [700/1000], Loss: 0.0033
+Epoch [800/1000], Loss: 0.0030
+Epoch [900/1000], Loss: 0.0030
+Epoch [1000/1000], Loss: 0.0029
+0.33412760496139526
+0.32826656103134155
+0.32326334714889526
+0.3432629108428955
+0.3232623338699341
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0100
+Epoch [200/1000], Loss: 0.0073
+Epoch [300/1000], Loss: 0.0057
+Epoch [400/1000], Loss: 0.0048
+Epoch [500/1000], Loss: 0.0042
+Epoch [600/1000], Loss: 0.0037
+Epoch [700/1000], Loss: 0.0036
+Epoch [800/1000], Loss: 0.0033
+Epoch [900/1000], Loss: 0.0034
+Epoch [1000/1000], Loss: 0.0030
+0.33326706290245056
+0.32826346158981323
+0.31826382875442505
+0.3182622492313385
+0.32326197624206543
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0091
+Epoch [200/1000], Loss: 0.0064
+Epoch [300/1000], Loss: 0.0050
+Epoch [400/1000], Loss: 0.0043
+Epoch [500/1000], Loss: 0.0040
+Epoch [600/1000], Loss: 0.0035
+Epoch [700/1000], Loss: 0.0036
+Epoch [800/1000], Loss: 0.0031
+Epoch [900/1000], Loss: 0.0032
+Epoch [1000/1000], Loss: 0.0031
+0.32328593730926514
+0.31326377391815186
+0.313262015581131
+0.3182617723941803
+0.3132617175579071
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Epoch [100/1000], Loss: 0.0102
+Epoch [200/1000], Loss: 0.0061
+Epoch [300/1000], Loss: 0.0052
+Epoch [400/1000], Loss: 0.0042
+Epoch [500/1000], Loss: 0.0043
+Epoch [600/1000], Loss: 0.0033
+Epoch [700/1000], Loss: 0.0032
+Epoch [800/1000], Loss: 0.0032
+Epoch [900/1000], Loss: 0.0029
+Epoch [1000/1000], Loss: 0.0028
+0.3282710313796997
+0.3232542872428894
+0.32326382398605347
+0.3282623589038849
+0.3132622241973877
+test power on training set 1
+Test Power of C2ST-D at n = 500:  1.0
+Average Test Power of C2ST-D:  1.0
+
+-----------------------------------------------
+
+Finished with execution of c2st_semi_mnist.py script
+
+-----------------------------------------------
+
+Job ID           : 55153772
+Cluster          : spartan
+User/Project     : xunyet/punim2112
+Nodes            : 1
+Wall-clock time  : 00:53:23 / 1-00:00:00
+
+Displaying overall resources usage from 2024-01-16 02:22:46 to 2024-01-16 03:16:09:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu086 : 
+                CPU# 1    : 16.1   (  15.3 /   0.8 /   0.0 /  83.9 ) 
+                CPU# 2    : 12.0   (  11.2 /   0.8 /   0.0 /  88.0 ) 
+                CPU# 3    : 37.8   (  37.1 /   0.7 /   0.0 /  62.2 ) 
+                CPU# 4    : 36.1   (  35.4 /   0.8 /   0.0 /  63.8 ) 
+
+                GPU# 1    : 38.4  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 2    
+  CPUs with usage <50%    : 2    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 0    
+  GPUs with usage <50%    : 1    
+  GPUs with usage >50%    : 0    
+
+Memory used (RAM)         : 35.5%  [3048MB of 8590MB]
+
+--------------------------------------------
+

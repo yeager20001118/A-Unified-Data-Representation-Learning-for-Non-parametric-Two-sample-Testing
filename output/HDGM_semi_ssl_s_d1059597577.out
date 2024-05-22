@@ -1,0 +1,5743 @@
+device: cuda:0
+Epoch [60/400], Loss: 0.8937
+Epoch [120/400], Loss: 0.8818
+Epoch [180/400], Loss: 0.8938
+Epoch [240/400], Loss: 0.7334
+Epoch [300/400], Loss: 0.5531
+Epoch [360/400], Loss: 0.4854
+0.6782807111740112
+0.6768937706947327
+0.6753838658332825
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9144
+Epoch [120/400], Loss: 0.8763
+Epoch [180/400], Loss: 0.8741
+Epoch [240/400], Loss: 0.7111
+Epoch [300/400], Loss: 0.5932
+Epoch [360/400], Loss: 0.4385
+0.6829475164413452
+0.6792203187942505
+0.6800322532653809
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9031
+Epoch [120/400], Loss: 0.8992
+Epoch [180/400], Loss: 0.8743
+Epoch [240/400], Loss: 0.7313
+Epoch [300/400], Loss: 0.5717
+Epoch [360/400], Loss: 0.4811
+0.6842966079711914
+0.6818652749061584
+0.6815770864486694
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9020
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.8997
+Epoch [240/400], Loss: 0.7248
+Epoch [300/400], Loss: 0.6743
+Epoch [360/400], Loss: 0.4602
+0.6810433268547058
+0.6772087216377258
+0.6705988049507141
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9104
+Epoch [120/400], Loss: 0.9075
+Epoch [180/400], Loss: 0.8769
+Epoch [240/400], Loss: 0.7356
+Epoch [300/400], Loss: 0.6145
+Epoch [360/400], Loss: 0.5355
+0.6844227313995361
+0.6830160617828369
+0.6806062459945679
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8749
+Epoch [120/400], Loss: 0.8893
+Epoch [180/400], Loss: 0.8965
+Epoch [240/400], Loss: 0.7370
+Epoch [300/400], Loss: 0.5658
+Epoch [360/400], Loss: 0.4836
+0.681850790977478
+0.6797184348106384
+0.6777389049530029
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8956
+Epoch [120/400], Loss: 0.9106
+Epoch [180/400], Loss: 0.8694
+Epoch [240/400], Loss: 0.7176
+Epoch [300/400], Loss: 0.5869
+Epoch [360/400], Loss: 0.4529
+0.6944413781166077
+0.6804253458976746
+0.6794158816337585
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9138
+Epoch [120/400], Loss: 0.9046
+Epoch [180/400], Loss: 0.8898
+Epoch [240/400], Loss: 0.7371
+Epoch [300/400], Loss: 0.6003
+Epoch [360/400], Loss: 0.5260
+0.6807666420936584
+0.6810223460197449
+0.6814652681350708
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8961
+Epoch [120/400], Loss: 0.8986
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7231
+Epoch [300/400], Loss: 0.6328
+Epoch [360/400], Loss: 0.4571
+0.6741669178009033
+0.6714254021644592
+0.6686594486236572
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8739
+Epoch [120/400], Loss: 0.8745
+Epoch [180/400], Loss: 0.8527
+Epoch [240/400], Loss: 0.7162
+Epoch [300/400], Loss: 0.5584
+Epoch [360/400], Loss: 0.4563
+0.684378445148468
+0.6743321418762207
+0.6735400557518005
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9236
+Epoch [120/400], Loss: 0.9074
+Epoch [180/400], Loss: 0.9066
+Epoch [240/400], Loss: 0.7559
+Epoch [300/400], Loss: 0.5781
+Epoch [360/400], Loss: 0.4785
+0.6932957172393799
+0.676002025604248
+0.676559567451477
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9202
+Epoch [120/400], Loss: 0.8722
+Epoch [180/400], Loss: 0.8785
+Epoch [240/400], Loss: 0.7608
+Epoch [300/400], Loss: 0.6240
+Epoch [360/400], Loss: 0.5318
+0.6803014874458313
+0.679747462272644
+0.6768205761909485
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9074
+Epoch [120/400], Loss: 0.8963
+Epoch [180/400], Loss: 0.8817
+Epoch [240/400], Loss: 0.7319
+Epoch [300/400], Loss: 0.6483
+Epoch [360/400], Loss: 0.4662
+0.6925788521766663
+0.6767379641532898
+0.6757965087890625
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.9038
+Epoch [180/400], Loss: 0.8685
+Epoch [240/400], Loss: 0.7462
+Epoch [300/400], Loss: 0.5608
+Epoch [360/400], Loss: 0.4670
+0.6834432482719421
+0.678762674331665
+0.6763520240783691
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9081
+Epoch [120/400], Loss: 0.9036
+Epoch [180/400], Loss: 0.8836
+Epoch [240/400], Loss: 0.7694
+Epoch [300/400], Loss: 0.5526
+Epoch [360/400], Loss: 0.4679
+0.6802207231521606
+0.6772089600563049
+0.6760193705558777
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8827
+Epoch [120/400], Loss: 0.8683
+Epoch [180/400], Loss: 0.8869
+Epoch [240/400], Loss: 0.7343
+Epoch [300/400], Loss: 0.6150
+Epoch [360/400], Loss: 0.4868
+0.6885728240013123
+0.6764253377914429
+0.6712310314178467
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8934
+Epoch [120/400], Loss: 0.8975
+Epoch [180/400], Loss: 0.8978
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5809
+Epoch [360/400], Loss: 0.4432
+0.6842045187950134
+0.6779159903526306
+0.6749676465988159
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9140
+Epoch [120/400], Loss: 0.8829
+Epoch [180/400], Loss: 0.8877
+Epoch [240/400], Loss: 0.7304
+Epoch [300/400], Loss: 0.6265
+Epoch [360/400], Loss: 0.4181
+0.6904615163803101
+0.6810415983200073
+0.6726828813552856
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9036
+Epoch [120/400], Loss: 0.8809
+Epoch [180/400], Loss: 0.8848
+Epoch [240/400], Loss: 0.7543
+Epoch [300/400], Loss: 0.5972
+Epoch [360/400], Loss: 0.5044
+0.6810997128486633
+0.6746742725372314
+0.6683347821235657
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9098
+Epoch [120/400], Loss: 0.8869
+Epoch [180/400], Loss: 0.8832
+Epoch [240/400], Loss: 0.7298
+Epoch [300/400], Loss: 0.5842
+Epoch [360/400], Loss: 0.4457
+0.6828278303146362
+0.681186854839325
+0.6785924434661865
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8788
+Epoch [120/400], Loss: 0.8858
+Epoch [180/400], Loss: 0.9132
+Epoch [240/400], Loss: 0.7406
+Epoch [300/400], Loss: 0.6359
+Epoch [360/400], Loss: 0.4765
+0.6829124093055725
+0.6799420118331909
+0.6781240701675415
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9203
+Epoch [120/400], Loss: 0.8597
+Epoch [180/400], Loss: 0.8873
+Epoch [240/400], Loss: 0.7251
+Epoch [300/400], Loss: 0.5571
+Epoch [360/400], Loss: 0.4990
+0.68023282289505
+0.6743884086608887
+0.6747251749038696
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8906
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8961
+Epoch [240/400], Loss: 0.7315
+Epoch [300/400], Loss: 0.6237
+Epoch [360/400], Loss: 0.4626
+0.6730340719223022
+0.6679430603981018
+0.6606436371803284
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9140
+Epoch [120/400], Loss: 0.9059
+Epoch [180/400], Loss: 0.8803
+Epoch [240/400], Loss: 0.7234
+Epoch [300/400], Loss: 0.6069
+Epoch [360/400], Loss: 0.3514
+0.6857699751853943
+0.6786988973617554
+0.6756361126899719
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9042
+Epoch [120/400], Loss: 0.9035
+Epoch [180/400], Loss: 0.8819
+Epoch [240/400], Loss: 0.7469
+Epoch [300/400], Loss: 0.6031
+Epoch [360/400], Loss: 0.4711
+0.6837918758392334
+0.6718905568122864
+0.6630561947822571
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8807
+Epoch [120/400], Loss: 0.8974
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7400
+Epoch [300/400], Loss: 0.6393
+Epoch [360/400], Loss: 0.5090
+0.6829495429992676
+0.6801947355270386
+0.6745612025260925
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9233
+Epoch [120/400], Loss: 0.8770
+Epoch [180/400], Loss: 0.8786
+Epoch [240/400], Loss: 0.7445
+Epoch [300/400], Loss: 0.5821
+Epoch [360/400], Loss: 0.4446
+0.6781913042068481
+0.683210551738739
+0.6695272922515869
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9119
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8779
+Epoch [240/400], Loss: 0.7339
+Epoch [300/400], Loss: 0.6069
+Epoch [360/400], Loss: 0.5105
+0.6820052266120911
+0.6805505156517029
+0.675617516040802
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8704
+Epoch [120/400], Loss: 0.8984
+Epoch [180/400], Loss: 0.8657
+Epoch [240/400], Loss: 0.7439
+Epoch [300/400], Loss: 0.5579
+Epoch [360/400], Loss: 0.5270
+0.6847729682922363
+0.6845525503158569
+0.6794083714485168
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.9082
+Epoch [180/400], Loss: 0.8899
+Epoch [240/400], Loss: 0.7548
+Epoch [300/400], Loss: 0.6323
+Epoch [360/400], Loss: 0.4887
+0.6803746223449707
+0.6799320578575134
+0.6770350337028503
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9031
+Epoch [120/400], Loss: 0.8838
+Epoch [180/400], Loss: 0.8568
+Epoch [240/400], Loss: 0.7313
+Epoch [300/400], Loss: 0.5773
+Epoch [360/400], Loss: 0.4819
+0.682349681854248
+0.6736031770706177
+0.6712366938591003
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8903
+Epoch [120/400], Loss: 0.8823
+Epoch [180/400], Loss: 0.8942
+Epoch [240/400], Loss: 0.7467
+Epoch [300/400], Loss: 0.5905
+Epoch [360/400], Loss: 0.5021
+0.6832073926925659
+0.6756027936935425
+0.6748294234275818
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9012
+Epoch [120/400], Loss: 0.9141
+Epoch [180/400], Loss: 0.8807
+Epoch [240/400], Loss: 0.7463
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.4505
+0.6794583201408386
+0.6702372431755066
+0.669282078742981
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9188
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.8955
+Epoch [240/400], Loss: 0.7168
+Epoch [300/400], Loss: 0.5862
+Epoch [360/400], Loss: 0.5739
+0.689401388168335
+0.676253080368042
+0.671987771987915
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8754
+Epoch [120/400], Loss: 0.8849
+Epoch [180/400], Loss: 0.8807
+Epoch [240/400], Loss: 0.7380
+Epoch [300/400], Loss: 0.5991
+Epoch [360/400], Loss: 0.4779
+0.6785486936569214
+0.6724159121513367
+0.6636426448822021
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9208
+Epoch [120/400], Loss: 0.8979
+Epoch [180/400], Loss: 0.8607
+Epoch [240/400], Loss: 0.7304
+Epoch [300/400], Loss: 0.5822
+Epoch [360/400], Loss: 0.4445
+0.6800166368484497
+0.6787295341491699
+0.6760073304176331
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9297
+Epoch [120/400], Loss: 0.8616
+Epoch [180/400], Loss: 0.8721
+Epoch [240/400], Loss: 0.6959
+Epoch [300/400], Loss: 0.5650
+Epoch [360/400], Loss: 0.4815
+0.6837148070335388
+0.679511308670044
+0.6763317584991455
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8875
+Epoch [120/400], Loss: 0.9103
+Epoch [180/400], Loss: 0.8619
+Epoch [240/400], Loss: 0.7532
+Epoch [300/400], Loss: 0.5836
+Epoch [360/400], Loss: 0.4507
+0.6875415444374084
+0.6782268285751343
+0.6776572465896606
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8960
+Epoch [120/400], Loss: 0.9408
+Epoch [180/400], Loss: 0.8770
+Epoch [240/400], Loss: 0.7509
+Epoch [300/400], Loss: 0.6312
+Epoch [360/400], Loss: 0.4755
+0.6868263483047485
+0.6729801297187805
+0.6694785356521606
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9014
+Epoch [120/400], Loss: 0.8747
+Epoch [180/400], Loss: 0.8782
+Epoch [240/400], Loss: 0.7195
+Epoch [300/400], Loss: 0.5837
+Epoch [360/400], Loss: 0.4939
+0.6813166737556458
+0.675728440284729
+0.6699906587600708
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9141
+Epoch [120/400], Loss: 0.9026
+Epoch [180/400], Loss: 0.8974
+Epoch [240/400], Loss: 0.7421
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.4325
+0.6853054761886597
+0.6752678751945496
+0.67232346534729
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8828
+Epoch [120/400], Loss: 0.8836
+Epoch [180/400], Loss: 0.8852
+Epoch [240/400], Loss: 0.7311
+Epoch [300/400], Loss: 0.6043
+Epoch [360/400], Loss: 0.4747
+0.6920509338378906
+0.6806485056877136
+0.6757912039756775
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9050
+Epoch [120/400], Loss: 0.9110
+Epoch [180/400], Loss: 0.8889
+Epoch [240/400], Loss: 0.7461
+Epoch [300/400], Loss: 0.5612
+Epoch [360/400], Loss: 0.4450
+0.6855961680412292
+0.681979775428772
+0.6801441311836243
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8987
+Epoch [120/400], Loss: 0.8896
+Epoch [180/400], Loss: 0.8806
+Epoch [240/400], Loss: 0.7289
+Epoch [300/400], Loss: 0.5938
+Epoch [360/400], Loss: 0.4987
+0.6858392357826233
+0.6757973432540894
+0.6692375540733337
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9134
+Epoch [120/400], Loss: 0.9138
+Epoch [180/400], Loss: 0.8691
+Epoch [240/400], Loss: 0.7293
+Epoch [300/400], Loss: 0.5997
+Epoch [360/400], Loss: 0.4804
+0.6806505918502808
+0.6747019290924072
+0.6628786325454712
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9013
+Epoch [120/400], Loss: 0.8476
+Epoch [180/400], Loss: 0.8952
+Epoch [240/400], Loss: 0.7282
+Epoch [300/400], Loss: 0.5843
+Epoch [360/400], Loss: 0.5142
+0.6834770441055298
+0.6788784265518188
+0.677681565284729
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8872
+Epoch [120/400], Loss: 0.8988
+Epoch [180/400], Loss: 0.8829
+Epoch [240/400], Loss: 0.7253
+Epoch [300/400], Loss: 0.6335
+Epoch [360/400], Loss: 0.4240
+0.6871844530105591
+0.6822724342346191
+0.6817494630813599
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8943
+Epoch [120/400], Loss: 0.8860
+Epoch [180/400], Loss: 0.8824
+Epoch [240/400], Loss: 0.7481
+Epoch [300/400], Loss: 0.6343
+Epoch [360/400], Loss: 0.5298
+0.6827178001403809
+0.6818636059761047
+0.6812908053398132
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9142
+Epoch [120/400], Loss: 0.8974
+Epoch [180/400], Loss: 0.8595
+Epoch [240/400], Loss: 0.7236
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.5394
+0.6874107122421265
+0.6749686002731323
+0.6725353598594666
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8846
+Epoch [120/400], Loss: 0.9028
+Epoch [180/400], Loss: 0.8644
+Epoch [240/400], Loss: 0.7349
+Epoch [300/400], Loss: 0.6084
+Epoch [360/400], Loss: 0.4784
+0.6817336678504944
+0.677772581577301
+0.6739818453788757
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8718
+Epoch [120/400], Loss: 0.9007
+Epoch [180/400], Loss: 0.8794
+Epoch [240/400], Loss: 0.7842
+Epoch [300/400], Loss: 0.6514
+Epoch [360/400], Loss: 0.4845
+0.6810764074325562
+0.6781395077705383
+0.6766781210899353
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8969
+Epoch [120/400], Loss: 0.8913
+Epoch [180/400], Loss: 0.8815
+Epoch [240/400], Loss: 0.7354
+Epoch [300/400], Loss: 0.5708
+Epoch [360/400], Loss: 0.4654
+0.6752796769142151
+0.6759979724884033
+0.6666311025619507
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8743
+Epoch [120/400], Loss: 0.8928
+Epoch [180/400], Loss: 0.8860
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5856
+Epoch [360/400], Loss: 0.4296
+0.6805607676506042
+0.6745244264602661
+0.6696853041648865
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8955
+Epoch [120/400], Loss: 0.8746
+Epoch [180/400], Loss: 0.8834
+Epoch [240/400], Loss: 0.7470
+Epoch [300/400], Loss: 0.5889
+Epoch [360/400], Loss: 0.4864
+0.6849149465560913
+0.6771571040153503
+0.674409031867981
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9134
+Epoch [120/400], Loss: 0.8889
+Epoch [180/400], Loss: 0.8730
+Epoch [240/400], Loss: 0.7385
+Epoch [300/400], Loss: 0.5829
+Epoch [360/400], Loss: 0.4931
+0.6913893818855286
+0.6740731596946716
+0.6646286845207214
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8895
+Epoch [120/400], Loss: 0.8845
+Epoch [180/400], Loss: 0.8472
+Epoch [240/400], Loss: 0.7298
+Epoch [300/400], Loss: 0.6147
+Epoch [360/400], Loss: 0.4622
+0.6837445497512817
+0.6722532510757446
+0.6711358428001404
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9001
+Epoch [120/400], Loss: 0.9156
+Epoch [180/400], Loss: 0.8773
+Epoch [240/400], Loss: 0.7396
+Epoch [300/400], Loss: 0.6503
+Epoch [360/400], Loss: 0.4963
+0.6787087917327881
+0.6851881742477417
+0.6730494499206543
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8909
+Epoch [120/400], Loss: 0.8989
+Epoch [180/400], Loss: 0.9115
+Epoch [240/400], Loss: 0.7265
+Epoch [300/400], Loss: 0.5787
+Epoch [360/400], Loss: 0.4619
+0.6899519562721252
+0.6769148707389832
+0.6722513437271118
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9038
+Epoch [120/400], Loss: 0.8977
+Epoch [180/400], Loss: 0.8638
+Epoch [240/400], Loss: 0.7513
+Epoch [300/400], Loss: 0.5798
+Epoch [360/400], Loss: 0.4717
+0.6841684579849243
+0.6794039607048035
+0.6760386228561401
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9063
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.9091
+Epoch [240/400], Loss: 0.7416
+Epoch [300/400], Loss: 0.5767
+Epoch [360/400], Loss: 0.4850
+0.6866093277931213
+0.6734573245048523
+0.6718817949295044
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8774
+Epoch [120/400], Loss: 0.8727
+Epoch [180/400], Loss: 0.8916
+Epoch [240/400], Loss: 0.7143
+Epoch [300/400], Loss: 0.5958
+Epoch [360/400], Loss: 0.4508
+0.693855881690979
+0.6787039041519165
+0.6777937412261963
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9026
+Epoch [120/400], Loss: 0.9294
+Epoch [180/400], Loss: 0.8755
+Epoch [240/400], Loss: 0.7134
+Epoch [300/400], Loss: 0.5993
+Epoch [360/400], Loss: 0.4525
+0.6866762638092041
+0.6770606637001038
+0.6771454811096191
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8765
+Epoch [120/400], Loss: 0.8756
+Epoch [180/400], Loss: 0.8643
+Epoch [240/400], Loss: 0.7223
+Epoch [300/400], Loss: 0.6263
+Epoch [360/400], Loss: 0.4661
+0.6916494369506836
+0.6775229573249817
+0.6764494776725769
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8983
+Epoch [120/400], Loss: 0.8892
+Epoch [180/400], Loss: 0.8722
+Epoch [240/400], Loss: 0.7342
+Epoch [300/400], Loss: 0.6143
+Epoch [360/400], Loss: 0.4899
+0.6834798455238342
+0.6804956793785095
+0.676095187664032
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9103
+Epoch [120/400], Loss: 0.9223
+Epoch [180/400], Loss: 0.8393
+Epoch [240/400], Loss: 0.6813
+Epoch [300/400], Loss: 0.5937
+Epoch [360/400], Loss: 0.4693
+0.6894978284835815
+0.6793322563171387
+0.6780919432640076
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8903
+Epoch [120/400], Loss: 0.8810
+Epoch [180/400], Loss: 0.8363
+Epoch [240/400], Loss: 0.6790
+Epoch [300/400], Loss: 0.5807
+Epoch [360/400], Loss: 0.4415
+0.6926210522651672
+0.6809933185577393
+0.6811786890029907
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8859
+Epoch [120/400], Loss: 0.9145
+Epoch [180/400], Loss: 0.8853
+Epoch [240/400], Loss: 0.7363
+Epoch [300/400], Loss: 0.6194
+Epoch [360/400], Loss: 0.5171
+0.6794019341468811
+0.6762741804122925
+0.6739657521247864
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8981
+Epoch [120/400], Loss: 0.8884
+Epoch [180/400], Loss: 0.8812
+Epoch [240/400], Loss: 0.7220
+Epoch [300/400], Loss: 0.6121
+Epoch [360/400], Loss: 0.4827
+0.6813563108444214
+0.6769722104072571
+0.6747735142707825
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8798
+Epoch [120/400], Loss: 0.8994
+Epoch [180/400], Loss: 0.8687
+Epoch [240/400], Loss: 0.7247
+Epoch [300/400], Loss: 0.6055
+Epoch [360/400], Loss: 0.5383
+0.6789807081222534
+0.6717392802238464
+0.6672841310501099
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8847
+Epoch [120/400], Loss: 0.8851
+Epoch [180/400], Loss: 0.8707
+Epoch [240/400], Loss: 0.7071
+Epoch [300/400], Loss: 0.5746
+Epoch [360/400], Loss: 0.5365
+0.683956503868103
+0.6822006702423096
+0.6809807419776917
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8924
+Epoch [120/400], Loss: 0.9030
+Epoch [180/400], Loss: 0.8806
+Epoch [240/400], Loss: 0.7398
+Epoch [300/400], Loss: 0.5803
+Epoch [360/400], Loss: 0.4522
+0.6805508136749268
+0.6743738055229187
+0.6712391376495361
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.8755
+Epoch [180/400], Loss: 0.8669
+Epoch [240/400], Loss: 0.7301
+Epoch [300/400], Loss: 0.6209
+Epoch [360/400], Loss: 0.4876
+0.6858271360397339
+0.6848635673522949
+0.6820589900016785
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8904
+Epoch [120/400], Loss: 0.9038
+Epoch [180/400], Loss: 0.8704
+Epoch [240/400], Loss: 0.7648
+Epoch [300/400], Loss: 0.6029
+Epoch [360/400], Loss: 0.4684
+0.6851000189781189
+0.6780819892883301
+0.6783390045166016
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9108
+Epoch [120/400], Loss: 0.9167
+Epoch [180/400], Loss: 0.8825
+Epoch [240/400], Loss: 0.7295
+Epoch [300/400], Loss: 0.6102
+Epoch [360/400], Loss: 0.4896
+0.6877574920654297
+0.6735759377479553
+0.6684553027153015
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9138
+Epoch [120/400], Loss: 0.8902
+Epoch [180/400], Loss: 0.8915
+Epoch [240/400], Loss: 0.7331
+Epoch [300/400], Loss: 0.5937
+Epoch [360/400], Loss: 0.4445
+0.686378002166748
+0.6830220818519592
+0.675271213054657
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9011
+Epoch [120/400], Loss: 0.8755
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7196
+Epoch [300/400], Loss: 0.6868
+Epoch [360/400], Loss: 0.4721
+0.6793844699859619
+0.6804592609405518
+0.6741487383842468
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9166
+Epoch [120/400], Loss: 0.9083
+Epoch [180/400], Loss: 0.8754
+Epoch [240/400], Loss: 0.7165
+Epoch [300/400], Loss: 0.5887
+Epoch [360/400], Loss: 0.3748
+0.6859650611877441
+0.6745335459709167
+0.6713981628417969
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8802
+Epoch [120/400], Loss: 0.8656
+Epoch [180/400], Loss: 0.8578
+Epoch [240/400], Loss: 0.7078
+Epoch [300/400], Loss: 0.5858
+Epoch [360/400], Loss: 0.4668
+0.6841273307800293
+0.6790201663970947
+0.6763530969619751
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8905
+Epoch [120/400], Loss: 0.9063
+Epoch [180/400], Loss: 0.8770
+Epoch [240/400], Loss: 0.7321
+Epoch [300/400], Loss: 0.5704
+Epoch [360/400], Loss: 0.4391
+0.6894094944000244
+0.6812822222709656
+0.6772719025611877
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9100
+Epoch [120/400], Loss: 0.8903
+Epoch [180/400], Loss: 0.8848
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5807
+Epoch [360/400], Loss: 0.5056
+0.6817900538444519
+0.6824820041656494
+0.6677882075309753
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9243
+Epoch [120/400], Loss: 0.8912
+Epoch [180/400], Loss: 0.9091
+Epoch [240/400], Loss: 0.7616
+Epoch [300/400], Loss: 0.6031
+Epoch [360/400], Loss: 0.4883
+0.6806202530860901
+0.6807306408882141
+0.6773892641067505
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9142
+Epoch [120/400], Loss: 0.8705
+Epoch [180/400], Loss: 0.8808
+Epoch [240/400], Loss: 0.7269
+Epoch [300/400], Loss: 0.5805
+Epoch [360/400], Loss: 0.4848
+0.6833462119102478
+0.683030366897583
+0.6808567643165588
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8951
+Epoch [120/400], Loss: 0.9025
+Epoch [180/400], Loss: 0.8801
+Epoch [240/400], Loss: 0.7110
+Epoch [300/400], Loss: 0.6044
+Epoch [360/400], Loss: 0.4697
+0.6814315319061279
+0.6802606582641602
+0.6779731512069702
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9023
+Epoch [120/400], Loss: 0.9099
+Epoch [180/400], Loss: 0.8593
+Epoch [240/400], Loss: 0.7082
+Epoch [300/400], Loss: 0.6170
+Epoch [360/400], Loss: 0.4030
+0.6827807426452637
+0.6812987327575684
+0.6804472804069519
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8633
+Epoch [120/400], Loss: 0.8945
+Epoch [180/400], Loss: 0.8715
+Epoch [240/400], Loss: 0.7372
+Epoch [300/400], Loss: 0.5772
+Epoch [360/400], Loss: 0.4890
+0.6835586428642273
+0.6832087635993958
+0.6849042773246765
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8909
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8739
+Epoch [240/400], Loss: 0.7241
+Epoch [300/400], Loss: 0.5746
+Epoch [360/400], Loss: 0.5345
+0.6859164237976074
+0.6794933676719666
+0.676008403301239
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8752
+Epoch [120/400], Loss: 0.9002
+Epoch [180/400], Loss: 0.8813
+Epoch [240/400], Loss: 0.7276
+Epoch [300/400], Loss: 0.5782
+Epoch [360/400], Loss: 0.5115
+0.6736666560173035
+0.6706042289733887
+0.6683508157730103
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8862
+Epoch [120/400], Loss: 0.8767
+Epoch [180/400], Loss: 0.8619
+Epoch [240/400], Loss: 0.6929
+Epoch [300/400], Loss: 0.5770
+Epoch [360/400], Loss: 0.5191
+0.6824784278869629
+0.6789978742599487
+0.6754513382911682
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8919
+Epoch [120/400], Loss: 0.9003
+Epoch [180/400], Loss: 0.8821
+Epoch [240/400], Loss: 0.7394
+Epoch [300/400], Loss: 0.5684
+Epoch [360/400], Loss: 0.4507
+0.6790879964828491
+0.6678884625434875
+0.6561658978462219
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9173
+Epoch [120/400], Loss: 0.9121
+Epoch [180/400], Loss: 0.8858
+Epoch [240/400], Loss: 0.7361
+Epoch [300/400], Loss: 0.5924
+Epoch [360/400], Loss: 0.4869
+0.6831933856010437
+0.676808774471283
+0.6714635491371155
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8874
+Epoch [120/400], Loss: 0.9136
+Epoch [180/400], Loss: 0.8575
+Epoch [240/400], Loss: 0.7140
+Epoch [300/400], Loss: 0.5857
+Epoch [360/400], Loss: 0.4576
+0.6799246072769165
+0.6724060773849487
+0.6678782105445862
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9054
+Epoch [120/400], Loss: 0.8957
+Epoch [180/400], Loss: 0.8554
+Epoch [240/400], Loss: 0.7255
+Epoch [300/400], Loss: 0.6208
+Epoch [360/400], Loss: 0.4868
+0.6818846464157104
+0.6818230748176575
+0.6787413358688354
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8980
+Epoch [120/400], Loss: 0.8817
+Epoch [180/400], Loss: 0.8578
+Epoch [240/400], Loss: 0.7241
+Epoch [300/400], Loss: 0.5742
+Epoch [360/400], Loss: 0.5275
+0.6855854392051697
+0.6849555969238281
+0.6848321557044983
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8934
+Epoch [120/400], Loss: 0.9098
+Epoch [180/400], Loss: 0.8869
+Epoch [240/400], Loss: 0.7473
+Epoch [300/400], Loss: 0.5747
+Epoch [360/400], Loss: 0.4627
+0.6846349835395813
+0.6821377277374268
+0.6696648001670837
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8861
+Epoch [120/400], Loss: 0.8890
+Epoch [180/400], Loss: 0.8811
+Epoch [240/400], Loss: 0.7045
+Epoch [300/400], Loss: 0.6112
+Epoch [360/400], Loss: 0.4849
+0.6838729977607727
+0.6735387444496155
+0.6633865833282471
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8812
+Epoch [120/400], Loss: 0.9084
+Epoch [180/400], Loss: 0.8876
+Epoch [240/400], Loss: 0.7395
+Epoch [300/400], Loss: 0.6072
+Epoch [360/400], Loss: 0.4635
+0.6941881775856018
+0.6785464286804199
+0.6778136491775513
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9015
+Epoch [120/400], Loss: 0.8912
+Epoch [180/400], Loss: 0.8735
+Epoch [240/400], Loss: 0.7037
+Epoch [300/400], Loss: 0.5531
+Epoch [360/400], Loss: 0.4120
+0.6844801306724548
+0.6735634803771973
+0.6735610961914062
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9111
+Epoch [120/400], Loss: 0.9068
+Epoch [180/400], Loss: 0.8846
+Epoch [240/400], Loss: 0.7368
+Epoch [300/400], Loss: 0.6173
+Epoch [360/400], Loss: 0.4765
+0.6744162440299988
+0.6804905533790588
+0.6688539385795593
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9020
+Epoch [120/400], Loss: 0.8836
+Epoch [180/400], Loss: 0.8501
+Epoch [240/400], Loss: 0.7139
+Epoch [300/400], Loss: 0.5557
+Epoch [360/400], Loss: 0.4762
+0.6825188398361206
+0.6823498010635376
+0.6795309782028198
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9069
+Epoch [120/400], Loss: 0.8819
+Epoch [180/400], Loss: 0.8499
+Epoch [240/400], Loss: 0.7513
+Epoch [300/400], Loss: 0.5580
+Epoch [360/400], Loss: 0.4178
+0.6847614049911499
+0.6781662702560425
+0.6801440715789795
+Test Power of C2ST-S at n = 7.5:  1.0
+Test Power of C2ST-L at n = 7.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8937
+Epoch [120/400], Loss: 0.8818
+Epoch [180/400], Loss: 0.8938
+Epoch [240/400], Loss: 0.7334
+Epoch [300/400], Loss: 0.5531
+Epoch [360/400], Loss: 0.4854
+0.6782807111740112
+0.6768937706947327
+0.6753838658332825
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9144
+Epoch [120/400], Loss: 0.8763
+Epoch [180/400], Loss: 0.8741
+Epoch [240/400], Loss: 0.7111
+Epoch [300/400], Loss: 0.5932
+Epoch [360/400], Loss: 0.4385
+0.6829475164413452
+0.6792203187942505
+0.6800322532653809
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9031
+Epoch [120/400], Loss: 0.8992
+Epoch [180/400], Loss: 0.8743
+Epoch [240/400], Loss: 0.7313
+Epoch [300/400], Loss: 0.5717
+Epoch [360/400], Loss: 0.4811
+0.6842966079711914
+0.6818652749061584
+0.6815770864486694
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9020
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.8997
+Epoch [240/400], Loss: 0.7248
+Epoch [300/400], Loss: 0.6743
+Epoch [360/400], Loss: 0.4602
+0.6810433268547058
+0.6772087216377258
+0.6705988049507141
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9104
+Epoch [120/400], Loss: 0.9075
+Epoch [180/400], Loss: 0.8769
+Epoch [240/400], Loss: 0.7356
+Epoch [300/400], Loss: 0.6145
+Epoch [360/400], Loss: 0.5355
+0.6844227313995361
+0.6830160617828369
+0.6806062459945679
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8749
+Epoch [120/400], Loss: 0.8893
+Epoch [180/400], Loss: 0.8965
+Epoch [240/400], Loss: 0.7370
+Epoch [300/400], Loss: 0.5658
+Epoch [360/400], Loss: 0.4836
+0.681850790977478
+0.6797184348106384
+0.6777389049530029
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8956
+Epoch [120/400], Loss: 0.9106
+Epoch [180/400], Loss: 0.8694
+Epoch [240/400], Loss: 0.7176
+Epoch [300/400], Loss: 0.5869
+Epoch [360/400], Loss: 0.4529
+0.6944413781166077
+0.6804253458976746
+0.6794158816337585
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9138
+Epoch [120/400], Loss: 0.9046
+Epoch [180/400], Loss: 0.8898
+Epoch [240/400], Loss: 0.7371
+Epoch [300/400], Loss: 0.6003
+Epoch [360/400], Loss: 0.5260
+0.6807666420936584
+0.6810223460197449
+0.6814652681350708
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8961
+Epoch [120/400], Loss: 0.8986
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7231
+Epoch [300/400], Loss: 0.6328
+Epoch [360/400], Loss: 0.4571
+0.6741669178009033
+0.6714254021644592
+0.6686594486236572
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8739
+Epoch [120/400], Loss: 0.8745
+Epoch [180/400], Loss: 0.8527
+Epoch [240/400], Loss: 0.7162
+Epoch [300/400], Loss: 0.5584
+Epoch [360/400], Loss: 0.4563
+0.684378445148468
+0.6743321418762207
+0.6735400557518005
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9236
+Epoch [120/400], Loss: 0.9074
+Epoch [180/400], Loss: 0.9066
+Epoch [240/400], Loss: 0.7559
+Epoch [300/400], Loss: 0.5781
+Epoch [360/400], Loss: 0.4785
+0.6932957172393799
+0.676002025604248
+0.676559567451477
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9202
+Epoch [120/400], Loss: 0.8722
+Epoch [180/400], Loss: 0.8785
+Epoch [240/400], Loss: 0.7608
+Epoch [300/400], Loss: 0.6240
+Epoch [360/400], Loss: 0.5318
+0.6803014874458313
+0.679747462272644
+0.6768205761909485
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9074
+Epoch [120/400], Loss: 0.8963
+Epoch [180/400], Loss: 0.8817
+Epoch [240/400], Loss: 0.7319
+Epoch [300/400], Loss: 0.6483
+Epoch [360/400], Loss: 0.4662
+0.6925788521766663
+0.6767379641532898
+0.6757965087890625
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.9038
+Epoch [180/400], Loss: 0.8685
+Epoch [240/400], Loss: 0.7462
+Epoch [300/400], Loss: 0.5608
+Epoch [360/400], Loss: 0.4670
+0.6834432482719421
+0.678762674331665
+0.6763520240783691
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9081
+Epoch [120/400], Loss: 0.9036
+Epoch [180/400], Loss: 0.8836
+Epoch [240/400], Loss: 0.7694
+Epoch [300/400], Loss: 0.5526
+Epoch [360/400], Loss: 0.4679
+0.6802207231521606
+0.6772089600563049
+0.6760193705558777
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8827
+Epoch [120/400], Loss: 0.8683
+Epoch [180/400], Loss: 0.8869
+Epoch [240/400], Loss: 0.7343
+Epoch [300/400], Loss: 0.6150
+Epoch [360/400], Loss: 0.4868
+0.6885728240013123
+0.6764253377914429
+0.6712310314178467
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8934
+Epoch [120/400], Loss: 0.8975
+Epoch [180/400], Loss: 0.8978
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5809
+Epoch [360/400], Loss: 0.4432
+0.6842045187950134
+0.6779159903526306
+0.6749676465988159
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9140
+Epoch [120/400], Loss: 0.8829
+Epoch [180/400], Loss: 0.8877
+Epoch [240/400], Loss: 0.7304
+Epoch [300/400], Loss: 0.6265
+Epoch [360/400], Loss: 0.4181
+0.6904615163803101
+0.6810415983200073
+0.6726828813552856
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9036
+Epoch [120/400], Loss: 0.8809
+Epoch [180/400], Loss: 0.8848
+Epoch [240/400], Loss: 0.7543
+Epoch [300/400], Loss: 0.5972
+Epoch [360/400], Loss: 0.5044
+0.6810997128486633
+0.6746742725372314
+0.6683347821235657
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9098
+Epoch [120/400], Loss: 0.8869
+Epoch [180/400], Loss: 0.8832
+Epoch [240/400], Loss: 0.7298
+Epoch [300/400], Loss: 0.5842
+Epoch [360/400], Loss: 0.4457
+0.6828278303146362
+0.681186854839325
+0.6785924434661865
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8788
+Epoch [120/400], Loss: 0.8858
+Epoch [180/400], Loss: 0.9132
+Epoch [240/400], Loss: 0.7406
+Epoch [300/400], Loss: 0.6359
+Epoch [360/400], Loss: 0.4765
+0.6829124093055725
+0.6799420118331909
+0.6781240701675415
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9203
+Epoch [120/400], Loss: 0.8597
+Epoch [180/400], Loss: 0.8873
+Epoch [240/400], Loss: 0.7251
+Epoch [300/400], Loss: 0.5571
+Epoch [360/400], Loss: 0.4990
+0.68023282289505
+0.6743884086608887
+0.6747251749038696
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8906
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8961
+Epoch [240/400], Loss: 0.7315
+Epoch [300/400], Loss: 0.6237
+Epoch [360/400], Loss: 0.4626
+0.6730340719223022
+0.6679430603981018
+0.6606436371803284
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9140
+Epoch [120/400], Loss: 0.9059
+Epoch [180/400], Loss: 0.8803
+Epoch [240/400], Loss: 0.7234
+Epoch [300/400], Loss: 0.6069
+Epoch [360/400], Loss: 0.3514
+0.6857699751853943
+0.6786988973617554
+0.6756361126899719
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9042
+Epoch [120/400], Loss: 0.9035
+Epoch [180/400], Loss: 0.8819
+Epoch [240/400], Loss: 0.7469
+Epoch [300/400], Loss: 0.6031
+Epoch [360/400], Loss: 0.4711
+0.6837918758392334
+0.6718905568122864
+0.6630561947822571
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8807
+Epoch [120/400], Loss: 0.8974
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7400
+Epoch [300/400], Loss: 0.6393
+Epoch [360/400], Loss: 0.5090
+0.6829495429992676
+0.6801947355270386
+0.6745612025260925
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9233
+Epoch [120/400], Loss: 0.8770
+Epoch [180/400], Loss: 0.8786
+Epoch [240/400], Loss: 0.7445
+Epoch [300/400], Loss: 0.5821
+Epoch [360/400], Loss: 0.4446
+0.6781913042068481
+0.683210551738739
+0.6695272922515869
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9119
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8779
+Epoch [240/400], Loss: 0.7339
+Epoch [300/400], Loss: 0.6069
+Epoch [360/400], Loss: 0.5105
+0.6820052266120911
+0.6805505156517029
+0.675617516040802
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8704
+Epoch [120/400], Loss: 0.8984
+Epoch [180/400], Loss: 0.8657
+Epoch [240/400], Loss: 0.7439
+Epoch [300/400], Loss: 0.5579
+Epoch [360/400], Loss: 0.5270
+0.6847729682922363
+0.6845525503158569
+0.6794083714485168
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.9082
+Epoch [180/400], Loss: 0.8899
+Epoch [240/400], Loss: 0.7548
+Epoch [300/400], Loss: 0.6323
+Epoch [360/400], Loss: 0.4887
+0.6803746223449707
+0.6799320578575134
+0.6770350337028503
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9031
+Epoch [120/400], Loss: 0.8838
+Epoch [180/400], Loss: 0.8568
+Epoch [240/400], Loss: 0.7313
+Epoch [300/400], Loss: 0.5773
+Epoch [360/400], Loss: 0.4819
+0.682349681854248
+0.6736031770706177
+0.6712366938591003
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8903
+Epoch [120/400], Loss: 0.8823
+Epoch [180/400], Loss: 0.8942
+Epoch [240/400], Loss: 0.7467
+Epoch [300/400], Loss: 0.5905
+Epoch [360/400], Loss: 0.5021
+0.6832073926925659
+0.6756027936935425
+0.6748294234275818
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9012
+Epoch [120/400], Loss: 0.9141
+Epoch [180/400], Loss: 0.8807
+Epoch [240/400], Loss: 0.7463
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.4505
+0.6794583201408386
+0.6702372431755066
+0.669282078742981
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9188
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.8955
+Epoch [240/400], Loss: 0.7168
+Epoch [300/400], Loss: 0.5862
+Epoch [360/400], Loss: 0.5739
+0.689401388168335
+0.676253080368042
+0.671987771987915
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8754
+Epoch [120/400], Loss: 0.8849
+Epoch [180/400], Loss: 0.8807
+Epoch [240/400], Loss: 0.7380
+Epoch [300/400], Loss: 0.5991
+Epoch [360/400], Loss: 0.4779
+0.6785486936569214
+0.6724159121513367
+0.6636426448822021
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9208
+Epoch [120/400], Loss: 0.8979
+Epoch [180/400], Loss: 0.8607
+Epoch [240/400], Loss: 0.7304
+Epoch [300/400], Loss: 0.5822
+Epoch [360/400], Loss: 0.4445
+0.6800166368484497
+0.6787295341491699
+0.6760073304176331
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9297
+Epoch [120/400], Loss: 0.8616
+Epoch [180/400], Loss: 0.8721
+Epoch [240/400], Loss: 0.6959
+Epoch [300/400], Loss: 0.5650
+Epoch [360/400], Loss: 0.4815
+0.6837148070335388
+0.679511308670044
+0.6763317584991455
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8875
+Epoch [120/400], Loss: 0.9103
+Epoch [180/400], Loss: 0.8619
+Epoch [240/400], Loss: 0.7532
+Epoch [300/400], Loss: 0.5836
+Epoch [360/400], Loss: 0.4507
+0.6875415444374084
+0.6782268285751343
+0.6776572465896606
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8960
+Epoch [120/400], Loss: 0.9408
+Epoch [180/400], Loss: 0.8770
+Epoch [240/400], Loss: 0.7509
+Epoch [300/400], Loss: 0.6312
+Epoch [360/400], Loss: 0.4755
+0.6868263483047485
+0.6729801297187805
+0.6694785356521606
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9014
+Epoch [120/400], Loss: 0.8747
+Epoch [180/400], Loss: 0.8782
+Epoch [240/400], Loss: 0.7195
+Epoch [300/400], Loss: 0.5837
+Epoch [360/400], Loss: 0.4939
+0.6813166737556458
+0.675728440284729
+0.6699906587600708
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9141
+Epoch [120/400], Loss: 0.9026
+Epoch [180/400], Loss: 0.8974
+Epoch [240/400], Loss: 0.7421
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.4325
+0.6853054761886597
+0.6752678751945496
+0.67232346534729
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8828
+Epoch [120/400], Loss: 0.8836
+Epoch [180/400], Loss: 0.8852
+Epoch [240/400], Loss: 0.7311
+Epoch [300/400], Loss: 0.6043
+Epoch [360/400], Loss: 0.4747
+0.6920509338378906
+0.6806485056877136
+0.6757912039756775
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9050
+Epoch [120/400], Loss: 0.9110
+Epoch [180/400], Loss: 0.8889
+Epoch [240/400], Loss: 0.7461
+Epoch [300/400], Loss: 0.5612
+Epoch [360/400], Loss: 0.4450
+0.6855961680412292
+0.681979775428772
+0.6801441311836243
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8987
+Epoch [120/400], Loss: 0.8896
+Epoch [180/400], Loss: 0.8806
+Epoch [240/400], Loss: 0.7289
+Epoch [300/400], Loss: 0.5938
+Epoch [360/400], Loss: 0.4987
+0.6858392357826233
+0.6757973432540894
+0.6692375540733337
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9134
+Epoch [120/400], Loss: 0.9138
+Epoch [180/400], Loss: 0.8691
+Epoch [240/400], Loss: 0.7293
+Epoch [300/400], Loss: 0.5997
+Epoch [360/400], Loss: 0.4804
+0.6806505918502808
+0.6747019290924072
+0.6628786325454712
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9013
+Epoch [120/400], Loss: 0.8476
+Epoch [180/400], Loss: 0.8952
+Epoch [240/400], Loss: 0.7282
+Epoch [300/400], Loss: 0.5843
+Epoch [360/400], Loss: 0.5142
+0.6834770441055298
+0.6788784265518188
+0.677681565284729
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8872
+Epoch [120/400], Loss: 0.8988
+Epoch [180/400], Loss: 0.8829
+Epoch [240/400], Loss: 0.7253
+Epoch [300/400], Loss: 0.6335
+Epoch [360/400], Loss: 0.4240
+0.6871844530105591
+0.6822724342346191
+0.6817494630813599
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8943
+Epoch [120/400], Loss: 0.8860
+Epoch [180/400], Loss: 0.8824
+Epoch [240/400], Loss: 0.7481
+Epoch [300/400], Loss: 0.6343
+Epoch [360/400], Loss: 0.5298
+0.6827178001403809
+0.6818636059761047
+0.6812908053398132
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9142
+Epoch [120/400], Loss: 0.8974
+Epoch [180/400], Loss: 0.8595
+Epoch [240/400], Loss: 0.7236
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.5394
+0.6874107122421265
+0.6749686002731323
+0.6725353598594666
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8846
+Epoch [120/400], Loss: 0.9028
+Epoch [180/400], Loss: 0.8644
+Epoch [240/400], Loss: 0.7349
+Epoch [300/400], Loss: 0.6084
+Epoch [360/400], Loss: 0.4784
+0.6817336678504944
+0.677772581577301
+0.6739818453788757
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8718
+Epoch [120/400], Loss: 0.9007
+Epoch [180/400], Loss: 0.8794
+Epoch [240/400], Loss: 0.7842
+Epoch [300/400], Loss: 0.6514
+Epoch [360/400], Loss: 0.4845
+0.6810764074325562
+0.6781395077705383
+0.6766781210899353
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8969
+Epoch [120/400], Loss: 0.8913
+Epoch [180/400], Loss: 0.8815
+Epoch [240/400], Loss: 0.7354
+Epoch [300/400], Loss: 0.5708
+Epoch [360/400], Loss: 0.4654
+0.6752796769142151
+0.6759979724884033
+0.6666311025619507
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8743
+Epoch [120/400], Loss: 0.8928
+Epoch [180/400], Loss: 0.8860
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5856
+Epoch [360/400], Loss: 0.4296
+0.6805607676506042
+0.6745244264602661
+0.6696853041648865
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8955
+Epoch [120/400], Loss: 0.8746
+Epoch [180/400], Loss: 0.8834
+Epoch [240/400], Loss: 0.7470
+Epoch [300/400], Loss: 0.5889
+Epoch [360/400], Loss: 0.4864
+0.6849149465560913
+0.6771571040153503
+0.674409031867981
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9134
+Epoch [120/400], Loss: 0.8889
+Epoch [180/400], Loss: 0.8730
+Epoch [240/400], Loss: 0.7385
+Epoch [300/400], Loss: 0.5829
+Epoch [360/400], Loss: 0.4931
+0.6913893818855286
+0.6740731596946716
+0.6646286845207214
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8895
+Epoch [120/400], Loss: 0.8845
+Epoch [180/400], Loss: 0.8472
+Epoch [240/400], Loss: 0.7298
+Epoch [300/400], Loss: 0.6147
+Epoch [360/400], Loss: 0.4622
+0.6837445497512817
+0.6722532510757446
+0.6711358428001404
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9001
+Epoch [120/400], Loss: 0.9156
+Epoch [180/400], Loss: 0.8773
+Epoch [240/400], Loss: 0.7396
+Epoch [300/400], Loss: 0.6503
+Epoch [360/400], Loss: 0.4963
+0.6787087917327881
+0.6851881742477417
+0.6730494499206543
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8909
+Epoch [120/400], Loss: 0.8989
+Epoch [180/400], Loss: 0.9115
+Epoch [240/400], Loss: 0.7265
+Epoch [300/400], Loss: 0.5787
+Epoch [360/400], Loss: 0.4619
+0.6899519562721252
+0.6769148707389832
+0.6722513437271118
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9038
+Epoch [120/400], Loss: 0.8977
+Epoch [180/400], Loss: 0.8638
+Epoch [240/400], Loss: 0.7513
+Epoch [300/400], Loss: 0.5798
+Epoch [360/400], Loss: 0.4717
+0.6841684579849243
+0.6794039607048035
+0.6760386228561401
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9063
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.9091
+Epoch [240/400], Loss: 0.7416
+Epoch [300/400], Loss: 0.5767
+Epoch [360/400], Loss: 0.4850
+0.6866093277931213
+0.6734573245048523
+0.6718817949295044
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8774
+Epoch [120/400], Loss: 0.8727
+Epoch [180/400], Loss: 0.8916
+Epoch [240/400], Loss: 0.7143
+Epoch [300/400], Loss: 0.5958
+Epoch [360/400], Loss: 0.4508
+0.693855881690979
+0.6787039041519165
+0.6777937412261963
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9026
+Epoch [120/400], Loss: 0.9294
+Epoch [180/400], Loss: 0.8755
+Epoch [240/400], Loss: 0.7134
+Epoch [300/400], Loss: 0.5993
+Epoch [360/400], Loss: 0.4525
+0.6866762638092041
+0.6770606637001038
+0.6771454811096191
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8765
+Epoch [120/400], Loss: 0.8756
+Epoch [180/400], Loss: 0.8643
+Epoch [240/400], Loss: 0.7223
+Epoch [300/400], Loss: 0.6263
+Epoch [360/400], Loss: 0.4661
+0.6916494369506836
+0.6775229573249817
+0.6764494776725769
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8983
+Epoch [120/400], Loss: 0.8892
+Epoch [180/400], Loss: 0.8722
+Epoch [240/400], Loss: 0.7342
+Epoch [300/400], Loss: 0.6143
+Epoch [360/400], Loss: 0.4899
+0.6834798455238342
+0.6804956793785095
+0.676095187664032
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9103
+Epoch [120/400], Loss: 0.9223
+Epoch [180/400], Loss: 0.8393
+Epoch [240/400], Loss: 0.6813
+Epoch [300/400], Loss: 0.5937
+Epoch [360/400], Loss: 0.4693
+0.6894978284835815
+0.6793322563171387
+0.6780919432640076
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8903
+Epoch [120/400], Loss: 0.8810
+Epoch [180/400], Loss: 0.8363
+Epoch [240/400], Loss: 0.6790
+Epoch [300/400], Loss: 0.5807
+Epoch [360/400], Loss: 0.4415
+0.6926210522651672
+0.6809933185577393
+0.6811786890029907
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8859
+Epoch [120/400], Loss: 0.9145
+Epoch [180/400], Loss: 0.8853
+Epoch [240/400], Loss: 0.7363
+Epoch [300/400], Loss: 0.6194
+Epoch [360/400], Loss: 0.5171
+0.6794019341468811
+0.6762741804122925
+0.6739657521247864
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8981
+Epoch [120/400], Loss: 0.8884
+Epoch [180/400], Loss: 0.8812
+Epoch [240/400], Loss: 0.7220
+Epoch [300/400], Loss: 0.6121
+Epoch [360/400], Loss: 0.4827
+0.6813563108444214
+0.6769722104072571
+0.6747735142707825
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8798
+Epoch [120/400], Loss: 0.8994
+Epoch [180/400], Loss: 0.8687
+Epoch [240/400], Loss: 0.7247
+Epoch [300/400], Loss: 0.6055
+Epoch [360/400], Loss: 0.5383
+0.6789807081222534
+0.6717392802238464
+0.6672841310501099
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8847
+Epoch [120/400], Loss: 0.8851
+Epoch [180/400], Loss: 0.8707
+Epoch [240/400], Loss: 0.7071
+Epoch [300/400], Loss: 0.5746
+Epoch [360/400], Loss: 0.5365
+0.683956503868103
+0.6822006702423096
+0.6809807419776917
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8924
+Epoch [120/400], Loss: 0.9030
+Epoch [180/400], Loss: 0.8806
+Epoch [240/400], Loss: 0.7398
+Epoch [300/400], Loss: 0.5803
+Epoch [360/400], Loss: 0.4522
+0.6805508136749268
+0.6743738055229187
+0.6712391376495361
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.8755
+Epoch [180/400], Loss: 0.8669
+Epoch [240/400], Loss: 0.7301
+Epoch [300/400], Loss: 0.6209
+Epoch [360/400], Loss: 0.4876
+0.6858271360397339
+0.6848635673522949
+0.6820589900016785
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8904
+Epoch [120/400], Loss: 0.9038
+Epoch [180/400], Loss: 0.8704
+Epoch [240/400], Loss: 0.7648
+Epoch [300/400], Loss: 0.6029
+Epoch [360/400], Loss: 0.4684
+0.6851000189781189
+0.6780819892883301
+0.6783390045166016
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9108
+Epoch [120/400], Loss: 0.9167
+Epoch [180/400], Loss: 0.8825
+Epoch [240/400], Loss: 0.7295
+Epoch [300/400], Loss: 0.6102
+Epoch [360/400], Loss: 0.4896
+0.6877574920654297
+0.6735759377479553
+0.6684553027153015
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9138
+Epoch [120/400], Loss: 0.8902
+Epoch [180/400], Loss: 0.8915
+Epoch [240/400], Loss: 0.7331
+Epoch [300/400], Loss: 0.5937
+Epoch [360/400], Loss: 0.4445
+0.686378002166748
+0.6830220818519592
+0.675271213054657
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9011
+Epoch [120/400], Loss: 0.8755
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7196
+Epoch [300/400], Loss: 0.6868
+Epoch [360/400], Loss: 0.4721
+0.6793844699859619
+0.6804592609405518
+0.6741487383842468
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9166
+Epoch [120/400], Loss: 0.9083
+Epoch [180/400], Loss: 0.8754
+Epoch [240/400], Loss: 0.7165
+Epoch [300/400], Loss: 0.5887
+Epoch [360/400], Loss: 0.3748
+0.6859650611877441
+0.6745335459709167
+0.6713981628417969
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8802
+Epoch [120/400], Loss: 0.8656
+Epoch [180/400], Loss: 0.8578
+Epoch [240/400], Loss: 0.7078
+Epoch [300/400], Loss: 0.5858
+Epoch [360/400], Loss: 0.4668
+0.6841273307800293
+0.6790201663970947
+0.6763530969619751
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8905
+Epoch [120/400], Loss: 0.9063
+Epoch [180/400], Loss: 0.8770
+Epoch [240/400], Loss: 0.7321
+Epoch [300/400], Loss: 0.5704
+Epoch [360/400], Loss: 0.4391
+0.6894094944000244
+0.6812822222709656
+0.6772719025611877
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9100
+Epoch [120/400], Loss: 0.8903
+Epoch [180/400], Loss: 0.8848
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5807
+Epoch [360/400], Loss: 0.5056
+0.6817900538444519
+0.6824820041656494
+0.6677882075309753
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9243
+Epoch [120/400], Loss: 0.8912
+Epoch [180/400], Loss: 0.9091
+Epoch [240/400], Loss: 0.7616
+Epoch [300/400], Loss: 0.6031
+Epoch [360/400], Loss: 0.4883
+0.6806202530860901
+0.6807306408882141
+0.6773892641067505
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9142
+Epoch [120/400], Loss: 0.8705
+Epoch [180/400], Loss: 0.8808
+Epoch [240/400], Loss: 0.7269
+Epoch [300/400], Loss: 0.5805
+Epoch [360/400], Loss: 0.4848
+0.6833462119102478
+0.683030366897583
+0.6808567643165588
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8951
+Epoch [120/400], Loss: 0.9025
+Epoch [180/400], Loss: 0.8801
+Epoch [240/400], Loss: 0.7110
+Epoch [300/400], Loss: 0.6044
+Epoch [360/400], Loss: 0.4697
+0.6814315319061279
+0.6802606582641602
+0.6779731512069702
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9023
+Epoch [120/400], Loss: 0.9099
+Epoch [180/400], Loss: 0.8593
+Epoch [240/400], Loss: 0.7082
+Epoch [300/400], Loss: 0.6170
+Epoch [360/400], Loss: 0.4030
+0.6827807426452637
+0.6812987327575684
+0.6804472804069519
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8633
+Epoch [120/400], Loss: 0.8945
+Epoch [180/400], Loss: 0.8715
+Epoch [240/400], Loss: 0.7372
+Epoch [300/400], Loss: 0.5772
+Epoch [360/400], Loss: 0.4890
+0.6835586428642273
+0.6832087635993958
+0.6849042773246765
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8909
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8739
+Epoch [240/400], Loss: 0.7241
+Epoch [300/400], Loss: 0.5746
+Epoch [360/400], Loss: 0.5345
+0.6859164237976074
+0.6794933676719666
+0.676008403301239
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8752
+Epoch [120/400], Loss: 0.9002
+Epoch [180/400], Loss: 0.8813
+Epoch [240/400], Loss: 0.7276
+Epoch [300/400], Loss: 0.5782
+Epoch [360/400], Loss: 0.5115
+0.6736666560173035
+0.6706042289733887
+0.6683508157730103
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8862
+Epoch [120/400], Loss: 0.8767
+Epoch [180/400], Loss: 0.8619
+Epoch [240/400], Loss: 0.6929
+Epoch [300/400], Loss: 0.5770
+Epoch [360/400], Loss: 0.5191
+0.6824784278869629
+0.6789978742599487
+0.6754513382911682
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8919
+Epoch [120/400], Loss: 0.9003
+Epoch [180/400], Loss: 0.8821
+Epoch [240/400], Loss: 0.7394
+Epoch [300/400], Loss: 0.5684
+Epoch [360/400], Loss: 0.4507
+0.6790879964828491
+0.6678884625434875
+0.6561658978462219
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9173
+Epoch [120/400], Loss: 0.9121
+Epoch [180/400], Loss: 0.8858
+Epoch [240/400], Loss: 0.7361
+Epoch [300/400], Loss: 0.5924
+Epoch [360/400], Loss: 0.4869
+0.6831933856010437
+0.676808774471283
+0.6714635491371155
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8874
+Epoch [120/400], Loss: 0.9136
+Epoch [180/400], Loss: 0.8575
+Epoch [240/400], Loss: 0.7140
+Epoch [300/400], Loss: 0.5857
+Epoch [360/400], Loss: 0.4576
+0.6799246072769165
+0.6724060773849487
+0.6678782105445862
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9054
+Epoch [120/400], Loss: 0.8957
+Epoch [180/400], Loss: 0.8554
+Epoch [240/400], Loss: 0.7255
+Epoch [300/400], Loss: 0.6208
+Epoch [360/400], Loss: 0.4868
+0.6818846464157104
+0.6818230748176575
+0.6787413358688354
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8980
+Epoch [120/400], Loss: 0.8817
+Epoch [180/400], Loss: 0.8578
+Epoch [240/400], Loss: 0.7241
+Epoch [300/400], Loss: 0.5742
+Epoch [360/400], Loss: 0.5275
+0.6855854392051697
+0.6849555969238281
+0.6848321557044983
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8934
+Epoch [120/400], Loss: 0.9098
+Epoch [180/400], Loss: 0.8869
+Epoch [240/400], Loss: 0.7473
+Epoch [300/400], Loss: 0.5747
+Epoch [360/400], Loss: 0.4627
+0.6846349835395813
+0.6821377277374268
+0.6696648001670837
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8861
+Epoch [120/400], Loss: 0.8890
+Epoch [180/400], Loss: 0.8811
+Epoch [240/400], Loss: 0.7045
+Epoch [300/400], Loss: 0.6112
+Epoch [360/400], Loss: 0.4849
+0.6838729977607727
+0.6735387444496155
+0.6633865833282471
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8812
+Epoch [120/400], Loss: 0.9084
+Epoch [180/400], Loss: 0.8876
+Epoch [240/400], Loss: 0.7395
+Epoch [300/400], Loss: 0.6072
+Epoch [360/400], Loss: 0.4635
+0.6941881775856018
+0.6785464286804199
+0.6778136491775513
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9015
+Epoch [120/400], Loss: 0.8912
+Epoch [180/400], Loss: 0.8735
+Epoch [240/400], Loss: 0.7037
+Epoch [300/400], Loss: 0.5531
+Epoch [360/400], Loss: 0.4120
+0.6844801306724548
+0.6735634803771973
+0.6735610961914062
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9111
+Epoch [120/400], Loss: 0.9068
+Epoch [180/400], Loss: 0.8846
+Epoch [240/400], Loss: 0.7368
+Epoch [300/400], Loss: 0.6173
+Epoch [360/400], Loss: 0.4765
+0.6744162440299988
+0.6804905533790588
+0.6688539385795593
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9020
+Epoch [120/400], Loss: 0.8836
+Epoch [180/400], Loss: 0.8501
+Epoch [240/400], Loss: 0.7139
+Epoch [300/400], Loss: 0.5557
+Epoch [360/400], Loss: 0.4762
+0.6825188398361206
+0.6823498010635376
+0.6795309782028198
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9069
+Epoch [120/400], Loss: 0.8819
+Epoch [180/400], Loss: 0.8499
+Epoch [240/400], Loss: 0.7513
+Epoch [300/400], Loss: 0.5580
+Epoch [360/400], Loss: 0.4178
+0.6847614049911499
+0.6781662702560425
+0.6801440715789795
+Test Power of C2ST-S at n = 10:  1.0
+Test Power of C2ST-L at n = 10:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8937
+Epoch [120/400], Loss: 0.8818
+Epoch [180/400], Loss: 0.8938
+Epoch [240/400], Loss: 0.7334
+Epoch [300/400], Loss: 0.5531
+Epoch [360/400], Loss: 0.4854
+0.6782807111740112
+0.6768937706947327
+0.6753838658332825
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9144
+Epoch [120/400], Loss: 0.8763
+Epoch [180/400], Loss: 0.8741
+Epoch [240/400], Loss: 0.7111
+Epoch [300/400], Loss: 0.5932
+Epoch [360/400], Loss: 0.4385
+0.6829475164413452
+0.6792203187942505
+0.6800322532653809
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9031
+Epoch [120/400], Loss: 0.8992
+Epoch [180/400], Loss: 0.8743
+Epoch [240/400], Loss: 0.7313
+Epoch [300/400], Loss: 0.5717
+Epoch [360/400], Loss: 0.4811
+0.6842966079711914
+0.6818652749061584
+0.6815770864486694
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9020
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.8997
+Epoch [240/400], Loss: 0.7248
+Epoch [300/400], Loss: 0.6743
+Epoch [360/400], Loss: 0.4602
+0.6810433268547058
+0.6772087216377258
+0.6705988049507141
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9104
+Epoch [120/400], Loss: 0.9075
+Epoch [180/400], Loss: 0.8769
+Epoch [240/400], Loss: 0.7356
+Epoch [300/400], Loss: 0.6145
+Epoch [360/400], Loss: 0.5355
+0.6844227313995361
+0.6830160617828369
+0.6806062459945679
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8749
+Epoch [120/400], Loss: 0.8893
+Epoch [180/400], Loss: 0.8965
+Epoch [240/400], Loss: 0.7370
+Epoch [300/400], Loss: 0.5658
+Epoch [360/400], Loss: 0.4836
+0.681850790977478
+0.6797184348106384
+0.6777389049530029
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8956
+Epoch [120/400], Loss: 0.9106
+Epoch [180/400], Loss: 0.8694
+Epoch [240/400], Loss: 0.7176
+Epoch [300/400], Loss: 0.5869
+Epoch [360/400], Loss: 0.4529
+0.6944413781166077
+0.6804253458976746
+0.6794158816337585
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9138
+Epoch [120/400], Loss: 0.9046
+Epoch [180/400], Loss: 0.8898
+Epoch [240/400], Loss: 0.7371
+Epoch [300/400], Loss: 0.6003
+Epoch [360/400], Loss: 0.5260
+0.6807666420936584
+0.6810223460197449
+0.6814652681350708
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8961
+Epoch [120/400], Loss: 0.8986
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7231
+Epoch [300/400], Loss: 0.6328
+Epoch [360/400], Loss: 0.4571
+0.6741669178009033
+0.6714254021644592
+0.6686594486236572
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8739
+Epoch [120/400], Loss: 0.8745
+Epoch [180/400], Loss: 0.8527
+Epoch [240/400], Loss: 0.7162
+Epoch [300/400], Loss: 0.5584
+Epoch [360/400], Loss: 0.4563
+0.684378445148468
+0.6743321418762207
+0.6735400557518005
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9236
+Epoch [120/400], Loss: 0.9074
+Epoch [180/400], Loss: 0.9066
+Epoch [240/400], Loss: 0.7559
+Epoch [300/400], Loss: 0.5781
+Epoch [360/400], Loss: 0.4785
+0.6932957172393799
+0.676002025604248
+0.676559567451477
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9202
+Epoch [120/400], Loss: 0.8722
+Epoch [180/400], Loss: 0.8785
+Epoch [240/400], Loss: 0.7608
+Epoch [300/400], Loss: 0.6240
+Epoch [360/400], Loss: 0.5318
+0.6803014874458313
+0.679747462272644
+0.6768205761909485
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9074
+Epoch [120/400], Loss: 0.8963
+Epoch [180/400], Loss: 0.8817
+Epoch [240/400], Loss: 0.7319
+Epoch [300/400], Loss: 0.6483
+Epoch [360/400], Loss: 0.4662
+0.6925788521766663
+0.6767379641532898
+0.6757965087890625
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.9038
+Epoch [180/400], Loss: 0.8685
+Epoch [240/400], Loss: 0.7462
+Epoch [300/400], Loss: 0.5608
+Epoch [360/400], Loss: 0.4670
+0.6834432482719421
+0.678762674331665
+0.6763520240783691
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9081
+Epoch [120/400], Loss: 0.9036
+Epoch [180/400], Loss: 0.8836
+Epoch [240/400], Loss: 0.7694
+Epoch [300/400], Loss: 0.5526
+Epoch [360/400], Loss: 0.4679
+0.6802207231521606
+0.6772089600563049
+0.6760193705558777
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8827
+Epoch [120/400], Loss: 0.8683
+Epoch [180/400], Loss: 0.8869
+Epoch [240/400], Loss: 0.7343
+Epoch [300/400], Loss: 0.6150
+Epoch [360/400], Loss: 0.4868
+0.6885728240013123
+0.6764253377914429
+0.6712310314178467
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8934
+Epoch [120/400], Loss: 0.8975
+Epoch [180/400], Loss: 0.8978
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5809
+Epoch [360/400], Loss: 0.4432
+0.6842045187950134
+0.6779159903526306
+0.6749676465988159
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9140
+Epoch [120/400], Loss: 0.8829
+Epoch [180/400], Loss: 0.8877
+Epoch [240/400], Loss: 0.7304
+Epoch [300/400], Loss: 0.6265
+Epoch [360/400], Loss: 0.4181
+0.6904615163803101
+0.6810415983200073
+0.6726828813552856
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9036
+Epoch [120/400], Loss: 0.8809
+Epoch [180/400], Loss: 0.8848
+Epoch [240/400], Loss: 0.7543
+Epoch [300/400], Loss: 0.5972
+Epoch [360/400], Loss: 0.5044
+0.6810997128486633
+0.6746742725372314
+0.6683347821235657
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9098
+Epoch [120/400], Loss: 0.8869
+Epoch [180/400], Loss: 0.8832
+Epoch [240/400], Loss: 0.7298
+Epoch [300/400], Loss: 0.5842
+Epoch [360/400], Loss: 0.4457
+0.6828278303146362
+0.681186854839325
+0.6785924434661865
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8788
+Epoch [120/400], Loss: 0.8858
+Epoch [180/400], Loss: 0.9132
+Epoch [240/400], Loss: 0.7406
+Epoch [300/400], Loss: 0.6359
+Epoch [360/400], Loss: 0.4765
+0.6829124093055725
+0.6799420118331909
+0.6781240701675415
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9203
+Epoch [120/400], Loss: 0.8597
+Epoch [180/400], Loss: 0.8873
+Epoch [240/400], Loss: 0.7251
+Epoch [300/400], Loss: 0.5571
+Epoch [360/400], Loss: 0.4990
+0.68023282289505
+0.6743884086608887
+0.6747251749038696
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8906
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8961
+Epoch [240/400], Loss: 0.7315
+Epoch [300/400], Loss: 0.6237
+Epoch [360/400], Loss: 0.4626
+0.6730340719223022
+0.6679430603981018
+0.6606436371803284
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9140
+Epoch [120/400], Loss: 0.9059
+Epoch [180/400], Loss: 0.8803
+Epoch [240/400], Loss: 0.7234
+Epoch [300/400], Loss: 0.6069
+Epoch [360/400], Loss: 0.3514
+0.6857699751853943
+0.6786988973617554
+0.6756361126899719
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9042
+Epoch [120/400], Loss: 0.9035
+Epoch [180/400], Loss: 0.8819
+Epoch [240/400], Loss: 0.7469
+Epoch [300/400], Loss: 0.6031
+Epoch [360/400], Loss: 0.4711
+0.6837918758392334
+0.6718905568122864
+0.6630561947822571
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8807
+Epoch [120/400], Loss: 0.8974
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7400
+Epoch [300/400], Loss: 0.6393
+Epoch [360/400], Loss: 0.5090
+0.6829495429992676
+0.6801947355270386
+0.6745612025260925
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9233
+Epoch [120/400], Loss: 0.8770
+Epoch [180/400], Loss: 0.8786
+Epoch [240/400], Loss: 0.7445
+Epoch [300/400], Loss: 0.5821
+Epoch [360/400], Loss: 0.4446
+0.6781913042068481
+0.683210551738739
+0.6695272922515869
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9119
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8779
+Epoch [240/400], Loss: 0.7339
+Epoch [300/400], Loss: 0.6069
+Epoch [360/400], Loss: 0.5105
+0.6820052266120911
+0.6805505156517029
+0.675617516040802
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8704
+Epoch [120/400], Loss: 0.8984
+Epoch [180/400], Loss: 0.8657
+Epoch [240/400], Loss: 0.7439
+Epoch [300/400], Loss: 0.5579
+Epoch [360/400], Loss: 0.5270
+0.6847729682922363
+0.6845525503158569
+0.6794083714485168
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.9082
+Epoch [180/400], Loss: 0.8899
+Epoch [240/400], Loss: 0.7548
+Epoch [300/400], Loss: 0.6323
+Epoch [360/400], Loss: 0.4887
+0.6803746223449707
+0.6799320578575134
+0.6770350337028503
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9031
+Epoch [120/400], Loss: 0.8838
+Epoch [180/400], Loss: 0.8568
+Epoch [240/400], Loss: 0.7313
+Epoch [300/400], Loss: 0.5773
+Epoch [360/400], Loss: 0.4819
+0.682349681854248
+0.6736031770706177
+0.6712366938591003
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8903
+Epoch [120/400], Loss: 0.8823
+Epoch [180/400], Loss: 0.8942
+Epoch [240/400], Loss: 0.7467
+Epoch [300/400], Loss: 0.5905
+Epoch [360/400], Loss: 0.5021
+0.6832073926925659
+0.6756027936935425
+0.6748294234275818
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9012
+Epoch [120/400], Loss: 0.9141
+Epoch [180/400], Loss: 0.8807
+Epoch [240/400], Loss: 0.7463
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.4505
+0.6794583201408386
+0.6702372431755066
+0.669282078742981
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9188
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.8955
+Epoch [240/400], Loss: 0.7168
+Epoch [300/400], Loss: 0.5862
+Epoch [360/400], Loss: 0.5739
+0.689401388168335
+0.676253080368042
+0.671987771987915
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8754
+Epoch [120/400], Loss: 0.8849
+Epoch [180/400], Loss: 0.8807
+Epoch [240/400], Loss: 0.7380
+Epoch [300/400], Loss: 0.5991
+Epoch [360/400], Loss: 0.4779
+0.6785486936569214
+0.6724159121513367
+0.6636426448822021
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9208
+Epoch [120/400], Loss: 0.8979
+Epoch [180/400], Loss: 0.8607
+Epoch [240/400], Loss: 0.7304
+Epoch [300/400], Loss: 0.5822
+Epoch [360/400], Loss: 0.4445
+0.6800166368484497
+0.6787295341491699
+0.6760073304176331
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9297
+Epoch [120/400], Loss: 0.8616
+Epoch [180/400], Loss: 0.8721
+Epoch [240/400], Loss: 0.6959
+Epoch [300/400], Loss: 0.5650
+Epoch [360/400], Loss: 0.4815
+0.6837148070335388
+0.679511308670044
+0.6763317584991455
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8875
+Epoch [120/400], Loss: 0.9103
+Epoch [180/400], Loss: 0.8619
+Epoch [240/400], Loss: 0.7532
+Epoch [300/400], Loss: 0.5836
+Epoch [360/400], Loss: 0.4507
+0.6875415444374084
+0.6782268285751343
+0.6776572465896606
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8960
+Epoch [120/400], Loss: 0.9408
+Epoch [180/400], Loss: 0.8770
+Epoch [240/400], Loss: 0.7509
+Epoch [300/400], Loss: 0.6312
+Epoch [360/400], Loss: 0.4755
+0.6868263483047485
+0.6729801297187805
+0.6694785356521606
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9014
+Epoch [120/400], Loss: 0.8747
+Epoch [180/400], Loss: 0.8782
+Epoch [240/400], Loss: 0.7195
+Epoch [300/400], Loss: 0.5837
+Epoch [360/400], Loss: 0.4939
+0.6813166737556458
+0.675728440284729
+0.6699906587600708
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9141
+Epoch [120/400], Loss: 0.9026
+Epoch [180/400], Loss: 0.8974
+Epoch [240/400], Loss: 0.7421
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.4325
+0.6853054761886597
+0.6752678751945496
+0.67232346534729
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8828
+Epoch [120/400], Loss: 0.8836
+Epoch [180/400], Loss: 0.8852
+Epoch [240/400], Loss: 0.7311
+Epoch [300/400], Loss: 0.6043
+Epoch [360/400], Loss: 0.4747
+0.6920509338378906
+0.6806485056877136
+0.6757912039756775
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9050
+Epoch [120/400], Loss: 0.9110
+Epoch [180/400], Loss: 0.8889
+Epoch [240/400], Loss: 0.7461
+Epoch [300/400], Loss: 0.5612
+Epoch [360/400], Loss: 0.4450
+0.6855961680412292
+0.681979775428772
+0.6801441311836243
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8987
+Epoch [120/400], Loss: 0.8896
+Epoch [180/400], Loss: 0.8806
+Epoch [240/400], Loss: 0.7289
+Epoch [300/400], Loss: 0.5938
+Epoch [360/400], Loss: 0.4987
+0.6858392357826233
+0.6757973432540894
+0.6692375540733337
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9134
+Epoch [120/400], Loss: 0.9138
+Epoch [180/400], Loss: 0.8691
+Epoch [240/400], Loss: 0.7293
+Epoch [300/400], Loss: 0.5997
+Epoch [360/400], Loss: 0.4804
+0.6806505918502808
+0.6747019290924072
+0.6628786325454712
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9013
+Epoch [120/400], Loss: 0.8476
+Epoch [180/400], Loss: 0.8952
+Epoch [240/400], Loss: 0.7282
+Epoch [300/400], Loss: 0.5843
+Epoch [360/400], Loss: 0.5142
+0.6834770441055298
+0.6788784265518188
+0.677681565284729
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8872
+Epoch [120/400], Loss: 0.8988
+Epoch [180/400], Loss: 0.8829
+Epoch [240/400], Loss: 0.7253
+Epoch [300/400], Loss: 0.6335
+Epoch [360/400], Loss: 0.4240
+0.6871844530105591
+0.6822724342346191
+0.6817494630813599
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8943
+Epoch [120/400], Loss: 0.8860
+Epoch [180/400], Loss: 0.8824
+Epoch [240/400], Loss: 0.7481
+Epoch [300/400], Loss: 0.6343
+Epoch [360/400], Loss: 0.5298
+0.6827178001403809
+0.6818636059761047
+0.6812908053398132
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9142
+Epoch [120/400], Loss: 0.8974
+Epoch [180/400], Loss: 0.8595
+Epoch [240/400], Loss: 0.7236
+Epoch [300/400], Loss: 0.5850
+Epoch [360/400], Loss: 0.5394
+0.6874107122421265
+0.6749686002731323
+0.6725353598594666
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8846
+Epoch [120/400], Loss: 0.9028
+Epoch [180/400], Loss: 0.8644
+Epoch [240/400], Loss: 0.7349
+Epoch [300/400], Loss: 0.6084
+Epoch [360/400], Loss: 0.4784
+0.6817336678504944
+0.677772581577301
+0.6739818453788757
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8718
+Epoch [120/400], Loss: 0.9007
+Epoch [180/400], Loss: 0.8794
+Epoch [240/400], Loss: 0.7842
+Epoch [300/400], Loss: 0.6514
+Epoch [360/400], Loss: 0.4845
+0.6810764074325562
+0.6781395077705383
+0.6766781210899353
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8969
+Epoch [120/400], Loss: 0.8913
+Epoch [180/400], Loss: 0.8815
+Epoch [240/400], Loss: 0.7354
+Epoch [300/400], Loss: 0.5708
+Epoch [360/400], Loss: 0.4654
+0.6752796769142151
+0.6759979724884033
+0.6666311025619507
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8743
+Epoch [120/400], Loss: 0.8928
+Epoch [180/400], Loss: 0.8860
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5856
+Epoch [360/400], Loss: 0.4296
+0.6805607676506042
+0.6745244264602661
+0.6696853041648865
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8955
+Epoch [120/400], Loss: 0.8746
+Epoch [180/400], Loss: 0.8834
+Epoch [240/400], Loss: 0.7470
+Epoch [300/400], Loss: 0.5889
+Epoch [360/400], Loss: 0.4864
+0.6849149465560913
+0.6771571040153503
+0.674409031867981
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9134
+Epoch [120/400], Loss: 0.8889
+Epoch [180/400], Loss: 0.8730
+Epoch [240/400], Loss: 0.7385
+Epoch [300/400], Loss: 0.5829
+Epoch [360/400], Loss: 0.4931
+0.6913893818855286
+0.6740731596946716
+0.6646286845207214
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8895
+Epoch [120/400], Loss: 0.8845
+Epoch [180/400], Loss: 0.8472
+Epoch [240/400], Loss: 0.7298
+Epoch [300/400], Loss: 0.6147
+Epoch [360/400], Loss: 0.4622
+0.6837445497512817
+0.6722532510757446
+0.6711358428001404
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9001
+Epoch [120/400], Loss: 0.9156
+Epoch [180/400], Loss: 0.8773
+Epoch [240/400], Loss: 0.7396
+Epoch [300/400], Loss: 0.6503
+Epoch [360/400], Loss: 0.4963
+0.6787087917327881
+0.6851881742477417
+0.6730494499206543
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8909
+Epoch [120/400], Loss: 0.8989
+Epoch [180/400], Loss: 0.9115
+Epoch [240/400], Loss: 0.7265
+Epoch [300/400], Loss: 0.5787
+Epoch [360/400], Loss: 0.4619
+0.6899519562721252
+0.6769148707389832
+0.6722513437271118
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9038
+Epoch [120/400], Loss: 0.8977
+Epoch [180/400], Loss: 0.8638
+Epoch [240/400], Loss: 0.7513
+Epoch [300/400], Loss: 0.5798
+Epoch [360/400], Loss: 0.4717
+0.6841684579849243
+0.6794039607048035
+0.6760386228561401
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9063
+Epoch [120/400], Loss: 0.9009
+Epoch [180/400], Loss: 0.9091
+Epoch [240/400], Loss: 0.7416
+Epoch [300/400], Loss: 0.5767
+Epoch [360/400], Loss: 0.4850
+0.6866093277931213
+0.6734573245048523
+0.6718817949295044
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8774
+Epoch [120/400], Loss: 0.8727
+Epoch [180/400], Loss: 0.8916
+Epoch [240/400], Loss: 0.7143
+Epoch [300/400], Loss: 0.5958
+Epoch [360/400], Loss: 0.4508
+0.693855881690979
+0.6787039041519165
+0.6777937412261963
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9026
+Epoch [120/400], Loss: 0.9294
+Epoch [180/400], Loss: 0.8755
+Epoch [240/400], Loss: 0.7134
+Epoch [300/400], Loss: 0.5993
+Epoch [360/400], Loss: 0.4525
+0.6866762638092041
+0.6770606637001038
+0.6771454811096191
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8765
+Epoch [120/400], Loss: 0.8756
+Epoch [180/400], Loss: 0.8643
+Epoch [240/400], Loss: 0.7223
+Epoch [300/400], Loss: 0.6263
+Epoch [360/400], Loss: 0.4661
+0.6916494369506836
+0.6775229573249817
+0.6764494776725769
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8983
+Epoch [120/400], Loss: 0.8892
+Epoch [180/400], Loss: 0.8722
+Epoch [240/400], Loss: 0.7342
+Epoch [300/400], Loss: 0.6143
+Epoch [360/400], Loss: 0.4899
+0.6834798455238342
+0.6804956793785095
+0.676095187664032
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9103
+Epoch [120/400], Loss: 0.9223
+Epoch [180/400], Loss: 0.8393
+Epoch [240/400], Loss: 0.6813
+Epoch [300/400], Loss: 0.5937
+Epoch [360/400], Loss: 0.4693
+0.6894978284835815
+0.6793322563171387
+0.6780919432640076
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8903
+Epoch [120/400], Loss: 0.8810
+Epoch [180/400], Loss: 0.8363
+Epoch [240/400], Loss: 0.6790
+Epoch [300/400], Loss: 0.5807
+Epoch [360/400], Loss: 0.4415
+0.6926210522651672
+0.6809933185577393
+0.6811786890029907
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8859
+Epoch [120/400], Loss: 0.9145
+Epoch [180/400], Loss: 0.8853
+Epoch [240/400], Loss: 0.7363
+Epoch [300/400], Loss: 0.6194
+Epoch [360/400], Loss: 0.5171
+0.6794019341468811
+0.6762741804122925
+0.6739657521247864
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8981
+Epoch [120/400], Loss: 0.8884
+Epoch [180/400], Loss: 0.8812
+Epoch [240/400], Loss: 0.7220
+Epoch [300/400], Loss: 0.6121
+Epoch [360/400], Loss: 0.4827
+0.6813563108444214
+0.6769722104072571
+0.6747735142707825
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8798
+Epoch [120/400], Loss: 0.8994
+Epoch [180/400], Loss: 0.8687
+Epoch [240/400], Loss: 0.7247
+Epoch [300/400], Loss: 0.6055
+Epoch [360/400], Loss: 0.5383
+0.6789807081222534
+0.6717392802238464
+0.6672841310501099
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8847
+Epoch [120/400], Loss: 0.8851
+Epoch [180/400], Loss: 0.8707
+Epoch [240/400], Loss: 0.7071
+Epoch [300/400], Loss: 0.5746
+Epoch [360/400], Loss: 0.5365
+0.683956503868103
+0.6822006702423096
+0.6809807419776917
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8924
+Epoch [120/400], Loss: 0.9030
+Epoch [180/400], Loss: 0.8806
+Epoch [240/400], Loss: 0.7398
+Epoch [300/400], Loss: 0.5803
+Epoch [360/400], Loss: 0.4522
+0.6805508136749268
+0.6743738055229187
+0.6712391376495361
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9115
+Epoch [120/400], Loss: 0.8755
+Epoch [180/400], Loss: 0.8669
+Epoch [240/400], Loss: 0.7301
+Epoch [300/400], Loss: 0.6209
+Epoch [360/400], Loss: 0.4876
+0.6858271360397339
+0.6848635673522949
+0.6820589900016785
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8904
+Epoch [120/400], Loss: 0.9038
+Epoch [180/400], Loss: 0.8704
+Epoch [240/400], Loss: 0.7648
+Epoch [300/400], Loss: 0.6029
+Epoch [360/400], Loss: 0.4684
+0.6851000189781189
+0.6780819892883301
+0.6783390045166016
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9108
+Epoch [120/400], Loss: 0.9167
+Epoch [180/400], Loss: 0.8825
+Epoch [240/400], Loss: 0.7295
+Epoch [300/400], Loss: 0.6102
+Epoch [360/400], Loss: 0.4896
+0.6877574920654297
+0.6735759377479553
+0.6684553027153015
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9138
+Epoch [120/400], Loss: 0.8902
+Epoch [180/400], Loss: 0.8915
+Epoch [240/400], Loss: 0.7331
+Epoch [300/400], Loss: 0.5937
+Epoch [360/400], Loss: 0.4445
+0.686378002166748
+0.6830220818519592
+0.675271213054657
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9011
+Epoch [120/400], Loss: 0.8755
+Epoch [180/400], Loss: 0.8701
+Epoch [240/400], Loss: 0.7196
+Epoch [300/400], Loss: 0.6868
+Epoch [360/400], Loss: 0.4721
+0.6793844699859619
+0.6804592609405518
+0.6741487383842468
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9166
+Epoch [120/400], Loss: 0.9083
+Epoch [180/400], Loss: 0.8754
+Epoch [240/400], Loss: 0.7165
+Epoch [300/400], Loss: 0.5887
+Epoch [360/400], Loss: 0.3748
+0.6859650611877441
+0.6745335459709167
+0.6713981628417969
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8802
+Epoch [120/400], Loss: 0.8656
+Epoch [180/400], Loss: 0.8578
+Epoch [240/400], Loss: 0.7078
+Epoch [300/400], Loss: 0.5858
+Epoch [360/400], Loss: 0.4668
+0.6841273307800293
+0.6790201663970947
+0.6763530969619751
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8905
+Epoch [120/400], Loss: 0.9063
+Epoch [180/400], Loss: 0.8770
+Epoch [240/400], Loss: 0.7321
+Epoch [300/400], Loss: 0.5704
+Epoch [360/400], Loss: 0.4391
+0.6894094944000244
+0.6812822222709656
+0.6772719025611877
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9100
+Epoch [120/400], Loss: 0.8903
+Epoch [180/400], Loss: 0.8848
+Epoch [240/400], Loss: 0.7364
+Epoch [300/400], Loss: 0.5807
+Epoch [360/400], Loss: 0.5056
+0.6817900538444519
+0.6824820041656494
+0.6677882075309753
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9243
+Epoch [120/400], Loss: 0.8912
+Epoch [180/400], Loss: 0.9091
+Epoch [240/400], Loss: 0.7616
+Epoch [300/400], Loss: 0.6031
+Epoch [360/400], Loss: 0.4883
+0.6806202530860901
+0.6807306408882141
+0.6773892641067505
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9142
+Epoch [120/400], Loss: 0.8705
+Epoch [180/400], Loss: 0.8808
+Epoch [240/400], Loss: 0.7269
+Epoch [300/400], Loss: 0.5805
+Epoch [360/400], Loss: 0.4848
+0.6833462119102478
+0.683030366897583
+0.6808567643165588
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8951
+Epoch [120/400], Loss: 0.9025
+Epoch [180/400], Loss: 0.8801
+Epoch [240/400], Loss: 0.7110
+Epoch [300/400], Loss: 0.6044
+Epoch [360/400], Loss: 0.4697
+0.6814315319061279
+0.6802606582641602
+0.6779731512069702
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9023
+Epoch [120/400], Loss: 0.9099
+Epoch [180/400], Loss: 0.8593
+Epoch [240/400], Loss: 0.7082
+Epoch [300/400], Loss: 0.6170
+Epoch [360/400], Loss: 0.4030
+0.6827807426452637
+0.6812987327575684
+0.6804472804069519
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8633
+Epoch [120/400], Loss: 0.8945
+Epoch [180/400], Loss: 0.8715
+Epoch [240/400], Loss: 0.7372
+Epoch [300/400], Loss: 0.5772
+Epoch [360/400], Loss: 0.4890
+0.6835586428642273
+0.6832087635993958
+0.6849042773246765
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8909
+Epoch [120/400], Loss: 0.8922
+Epoch [180/400], Loss: 0.8739
+Epoch [240/400], Loss: 0.7241
+Epoch [300/400], Loss: 0.5746
+Epoch [360/400], Loss: 0.5345
+0.6859164237976074
+0.6794933676719666
+0.676008403301239
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8752
+Epoch [120/400], Loss: 0.9002
+Epoch [180/400], Loss: 0.8813
+Epoch [240/400], Loss: 0.7276
+Epoch [300/400], Loss: 0.5782
+Epoch [360/400], Loss: 0.5115
+0.6736666560173035
+0.6706042289733887
+0.6683508157730103
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8862
+Epoch [120/400], Loss: 0.8767
+Epoch [180/400], Loss: 0.8619
+Epoch [240/400], Loss: 0.6929
+Epoch [300/400], Loss: 0.5770
+Epoch [360/400], Loss: 0.5191
+0.6824784278869629
+0.6789978742599487
+0.6754513382911682
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8919
+Epoch [120/400], Loss: 0.9003
+Epoch [180/400], Loss: 0.8821
+Epoch [240/400], Loss: 0.7394
+Epoch [300/400], Loss: 0.5684
+Epoch [360/400], Loss: 0.4507
+0.6790879964828491
+0.6678884625434875
+0.6561658978462219
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9173
+Epoch [120/400], Loss: 0.9121
+Epoch [180/400], Loss: 0.8858
+Epoch [240/400], Loss: 0.7361
+Epoch [300/400], Loss: 0.5924
+Epoch [360/400], Loss: 0.4869
+0.6831933856010437
+0.676808774471283
+0.6714635491371155
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8874
+Epoch [120/400], Loss: 0.9136
+Epoch [180/400], Loss: 0.8575
+Epoch [240/400], Loss: 0.7140
+Epoch [300/400], Loss: 0.5857
+Epoch [360/400], Loss: 0.4576
+0.6799246072769165
+0.6724060773849487
+0.6678782105445862
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9054
+Epoch [120/400], Loss: 0.8957
+Epoch [180/400], Loss: 0.8554
+Epoch [240/400], Loss: 0.7255
+Epoch [300/400], Loss: 0.6208
+Epoch [360/400], Loss: 0.4868
+0.6818846464157104
+0.6818230748176575
+0.6787413358688354
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8980
+Epoch [120/400], Loss: 0.8817
+Epoch [180/400], Loss: 0.8578
+Epoch [240/400], Loss: 0.7241
+Epoch [300/400], Loss: 0.5742
+Epoch [360/400], Loss: 0.5275
+0.6855854392051697
+0.6849555969238281
+0.6848321557044983
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8934
+Epoch [120/400], Loss: 0.9098
+Epoch [180/400], Loss: 0.8869
+Epoch [240/400], Loss: 0.7473
+Epoch [300/400], Loss: 0.5747
+Epoch [360/400], Loss: 0.4627
+0.6846349835395813
+0.6821377277374268
+0.6696648001670837
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8861
+Epoch [120/400], Loss: 0.8890
+Epoch [180/400], Loss: 0.8811
+Epoch [240/400], Loss: 0.7045
+Epoch [300/400], Loss: 0.6112
+Epoch [360/400], Loss: 0.4849
+0.6838729977607727
+0.6735387444496155
+0.6633865833282471
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.8812
+Epoch [120/400], Loss: 0.9084
+Epoch [180/400], Loss: 0.8876
+Epoch [240/400], Loss: 0.7395
+Epoch [300/400], Loss: 0.6072
+Epoch [360/400], Loss: 0.4635
+0.6941881775856018
+0.6785464286804199
+0.6778136491775513
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9015
+Epoch [120/400], Loss: 0.8912
+Epoch [180/400], Loss: 0.8735
+Epoch [240/400], Loss: 0.7037
+Epoch [300/400], Loss: 0.5531
+Epoch [360/400], Loss: 0.4120
+0.6844801306724548
+0.6735634803771973
+0.6735610961914062
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9111
+Epoch [120/400], Loss: 0.9068
+Epoch [180/400], Loss: 0.8846
+Epoch [240/400], Loss: 0.7368
+Epoch [300/400], Loss: 0.6173
+Epoch [360/400], Loss: 0.4765
+0.6744162440299988
+0.6804905533790588
+0.6688539385795593
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9020
+Epoch [120/400], Loss: 0.8836
+Epoch [180/400], Loss: 0.8501
+Epoch [240/400], Loss: 0.7139
+Epoch [300/400], Loss: 0.5557
+Epoch [360/400], Loss: 0.4762
+0.6825188398361206
+0.6823498010635376
+0.6795309782028198
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+Epoch [60/400], Loss: 0.9069
+Epoch [120/400], Loss: 0.8819
+Epoch [180/400], Loss: 0.8499
+Epoch [240/400], Loss: 0.7513
+Epoch [300/400], Loss: 0.5580
+Epoch [360/400], Loss: 0.4178
+0.6847614049911499
+0.6781662702560425
+0.6801440715789795
+Test Power of C2ST-S at n = 12.5:  1.0
+Test Power of C2ST-L at n = 12.5:  1.0
+
+
+=====================================================
+Average Test Power of C2ST-S:  1.0
+Average Test Power of C2ST-L:  1.0
+=====================================================
+
+
+[(1.0, 1.0), (1.0, 1.0), (1.0, 1.0)]
+
+-----------------------------------------------
+
+Finished with execution of c2st_semi_HDGM.py script
+
+-----------------------------------------------
+
+Job ID           : 59597577
+Cluster          : spartan
+User/Project     : xunyet/deeplearn
+Nodes            : 1
+Wall-clock time  : 03:24:13 / 08:00:00
+
+Displaying overall resources usage from 2024-05-15 20:38:40 to 2024-05-16 00:02:53:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-gpgpu095 : 
+                CPU# 1    : 29.4   (  28.4 /   1.0 /   0.0 /  70.6 ) 
+                CPU# 2    : 9.6    (   8.4 /   1.2 /   0.0 /  90.4 ) 
+                CPU# 3    : 28.6   (  27.6 /   1.0 /   0.0 /  71.4 ) 
+                CPU# 4    : 37.3   (  36.4 /   0.9 /   0.0 /  62.7 ) 
+
+                GPU# 1    : 30.9  
+
+
+Allocated CPUs            : 4    
+  CPUs with usage <25%    : 1    
+  CPUs with usage <50%    : 3    
+  CPUs with usage >50%    : 0    
+
+
+Allocated GPUs            : 1    
+  GPUs with usage <25%    : 0    
+  GPUs with usage <50%    : 1    
+  GPUs with usage >50%    : 0    
+
+Memory used (RAM)         : 19.2%  [1648MB of 8590MB]
+
+--------------------------------------------
+
