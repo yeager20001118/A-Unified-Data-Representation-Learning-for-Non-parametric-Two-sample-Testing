@@ -1,4 +1,4 @@
-# Revisit Non-parametric Two-sample Testing as a Semi-supervised Learning Problem
+# A Unified Data Representation Learning for Non-parametric Two-sample Testing
 
 This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
 
